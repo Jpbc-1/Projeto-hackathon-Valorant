@@ -1,0 +1,333 @@
+{
+  "maps": {
+    "/Game/Maps/Ascent/Ascent": {
+      "name": "Ascent",
+      "slug": "ascent",
+      "sites": 2
+    },
+    "/Game/Maps/Pitt/Pitt": {
+      "name": "Pearl",
+      "slug": "pearl",
+      "sites": 2
+    },
+    "/Game/Maps/Triad/Triad": {
+      "name": "Haven",
+      "slug": "haven",
+      "sites": 3
+    },
+    "/Game/Maps/Jam/Jam": {
+      "name": "Lotus",
+      "slug": "lotus",
+      "sites": 3
+    },
+    "/Game/Maps/Bonsai/Bonsai": {
+      "name": "Split",
+      "slug": "split",
+      "sites": 2
+    },
+    "/Game/Maps/Foxtrot/Foxtrot": {
+      "name": "Breeze",
+      "slug": "breeze",
+      "sites": 2
+    },
+    "/Game/Maps/Canyon/Canyon": {
+      "name": "Fracture",
+      "slug": "fracture",
+      "sites": 2
+    },
+    "/Game/Maps/Juliett/Juliett": {
+      "name": "Sunset",
+      "slug": "sunset",
+      "sites": 2
+    },
+    "/Game/Maps/Plummet/Plummet": {
+      "name": "Corrode (Summit)",
+      "slug": "summit",
+      "sites": 2
+    },
+    "/Game/Maps/Infinity/Infinity": {
+      "name": "Abyss",
+      "slug": "abyss",
+      "sites": 2
+    }
+  },
+  "agents": {
+    "add6443a-41bd-e414-f6ad-e58d267f4e95": {
+      "name": "Jett",
+      "role": "Duelista"
+    },
+    "f94c3b30-42be-e959-889c-5aa313dba261": {
+      "name": "Raze",
+      "role": "Duelista"
+    },
+    "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc": {
+      "name": "Reyna",
+      "role": "Duelista"
+    },
+    "eb93336a-449b-9c1b-0a54-a891f7921d69": {
+      "name": "Phoenix",
+      "role": "Duelista"
+    },
+    "7f94d92c-4234-0a36-9646-3a87eb8b5c89": {
+      "name": "Yoru",
+      "role": "Duelista"
+    },
+    "bb2a4828-46eb-8cd1-e765-15848195d751": {
+      "name": "Neon",
+      "role": "Duelista"
+    },
+    "0e38b510-41a8-5780-5e8f-568b2a4f2d6c": {
+      "name": "Iso",
+      "role": "Duelista"
+    },
+    "92eeef5d-43b5-1d4a-8d03-b3927a09034b": {
+      "name": "Waylay",
+      "role": "Duelista"
+    },
+    "320b2a48-4d9b-a075-30f1-1f93a9b638fa": {
+      "name": "Sova",
+      "role": "Iniciador"
+    },
+    "5f8d3a7f-467b-97f3-062c-13acf203c006": {
+      "name": "Breach",
+      "role": "Iniciador"
+    },
+    "6f2a04ca-43e0-be17-7f36-b3908627744d": {
+      "name": "Skye",
+      "role": "Iniciador"
+    },
+    "601dbbe7-43ce-be57-2a40-4abd24953621": {
+      "name": "KAY/O",
+      "role": "Iniciador"
+    },
+    "dade69b4-4f5a-8528-247b-219e5a1facd6": {
+      "name": "Fade",
+      "role": "Iniciador"
+    },
+    "e370fa57-4757-3604-3648-499e1f642d3f": {
+      "name": "Gekko",
+      "role": "Iniciador"
+    },
+    "b444168c-4e35-8076-db47-ef9bf368f384": {
+      "name": "Tejo",
+      "role": "Iniciador"
+    },
+    "8e253930-4c05-31dd-1b6c-968525494517": {
+      "name": "Omen",
+      "role": "Controlador"
+    },
+    "9f0d8ba9-4140-b941-57d3-a7ad57c6b417": {
+      "name": "Brimstone",
+      "role": "Controlador"
+    },
+    "707eab51-4836-f488-046a-cda6bf494859": {
+      "name": "Viper",
+      "role": "Controlador"
+    },
+    "41fb69c1-4189-7b37-f117-bcaf1e96f1bf": {
+      "name": "Astra",
+      "role": "Controlador"
+    },
+    "95b78ed7-4637-86d9-7e41-71ba8c293152": {
+      "name": "Harbor",
+      "role": "Controlador"
+    },
+    "1dbf2edd-4729-0984-3115-daa5eed44993": {
+      "name": "Clove",
+      "role": "Controlador"
+    },
+    "569fdd95-4d10-43ab-ca70-79becc718b46": {
+      "name": "Sage",
+      "role": "Sentinela"
+    },
+    "117ed9e3-49f3-6512-3ccf-0cada7e3823b": {
+      "name": "Cypher",
+      "role": "Sentinela"
+    },
+    "1e58de9c-4950-5125-93e9-a0aee9f98746": {
+      "name": "Killjoy",
+      "role": "Sentinela"
+    },
+    "22697a3d-45bf-8dd7-4fec-84a9e28c69d7": {
+      "name": "Chamber",
+      "role": "Sentinela"
+    },
+    "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235": {
+      "name": "Deadlock",
+      "role": "Sentinela"
+    },
+    "efba5359-4016-a1e5-7626-b1ae76895940": {
+      "name": "Vyse",
+      "role": "Sentinela"
+    },
+    "df1cb487-4902-002e-5c17-d28e83e78588": {
+      "name": "Veto",
+      "role": "Sentinela"
+    }
+  },
+  "weapons": {
+    "29A0CFAB-485B-F5D5-779A-B59F85E204A8": {
+      "name": "Classic",
+      "category": "Sidearm",
+      "cost": 0
+    },
+    "42DA8CCC-40D5-AFFC-BEEC-15AA47B42EDA": {
+      "name": "Shorty",
+      "category": "Sidearm",
+      "cost": 300
+    },
+    "44D4E95C-4157-0037-81B2-17841BF2E8E3": {
+      "name": "Frenzy",
+      "category": "Sidearm",
+      "cost": 450
+    },
+    "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E": {
+      "name": "Ghost",
+      "category": "Sidearm",
+      "cost": 500
+    },
+    "410B2E0B-4CEB-1321-1727-20858F7F3477": {
+      "name": "Bandit",
+      "category": "Sidearm",
+      "cost": 600
+    },
+    "E336C6B8-418D-9340-D77F-7A9E4CFE0702": {
+      "name": "Sheriff",
+      "category": "Sidearm",
+      "cost": 800
+    },
+    "F7E1B454-4AD4-1063-EC0A-159E56B58941": {
+      "name": "Stinger",
+      "category": "SMG",
+      "cost": 1100
+    },
+    "462080D1-4035-2937-7C09-27AA2A5C27A7": {
+      "name": "Spectre",
+      "category": "SMG",
+      "cost": 1600
+    },
+    "910BE174-449B-C412-AB22-D0873436B21B": {
+      "name": "Bucky",
+      "category": "Shotgun",
+      "cost": 850
+    },
+    "EC845BF4-4F79-DDDA-A3DA-0DB3774B2794": {
+      "name": "Judge",
+      "category": "Shotgun",
+      "cost": 1850
+    },
+    "AE3DE142-4D85-2547-DD26-4E90BED35CF7": {
+      "name": "Bulldog",
+      "category": "Rifle",
+      "cost": 2050
+    },
+    "4ADE7FAA-4CF1-8376-95EF-39884480959B": {
+      "name": "Guardian",
+      "category": "Rifle",
+      "cost": 2250
+    },
+    "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A": {
+      "name": "Phantom",
+      "category": "Rifle",
+      "cost": 2900
+    },
+    "9C82E19D-4575-0200-1A81-3EACF00CF872": {
+      "name": "Vandal",
+      "category": "Rifle",
+      "cost": 2900
+    },
+    "C4883E50-4494-202C-3EC3-6B8A9284F00B": {
+      "name": "Marshal",
+      "category": "Sniper",
+      "cost": 950
+    },
+    "5F0AAF7A-4289-3998-D5FF-EB9A5CF7EF5C": {
+      "name": "Outlaw",
+      "category": "Sniper",
+      "cost": 2400
+    },
+    "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7": {
+      "name": "Operator",
+      "category": "Sniper",
+      "cost": 4700
+    },
+    "8DB0A1BF-4A50-832A-4566-FAAAA6D250CA": {
+      "name": "Rifle Especial",
+      "category": "Rifle",
+      "cost": 2900
+    },
+    "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58": {
+      "name": "Ares",
+      "category": "Heavy",
+      "cost": 1600
+    },
+    "63E6C2B6-4A8E-869C-3D4C-E38355226584": {
+      "name": "Odin",
+      "category": "Heavy",
+      "cost": 3200
+    },
+    "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7": {
+      "name": "Faca (Melee)",
+      "category": "Melee",
+      "cost": 0
+    },
+    "856D9A7E-4B06-DC37-15DC-9D809C37CB90": {
+      "name": "Caçador de Cabeças (Chamber Q)",
+      "category": "AbilityWeapon",
+      "cost": 150
+    },
+    "39099FB5-4293-DEF4-1E09-2E9080CE7456": {
+      "name": "Tour de Force (Chamber X)",
+      "category": "AbilityWeapon",
+      "cost": 0
+    },
+    "95336AE4-45D4-1032-CFAF-6BAD01910607": {
+      "name": "Sobrecarga (Neon X)",
+      "category": "AbilityWeapon",
+      "cost": 0
+    },
+    "GrenadeAbility": {
+      "name": "Habilidade (C)",
+      "category": "Ability",
+      "cost": 0
+    },
+    "Ability1": {
+      "name": "Habilidade (Q)",
+      "category": "Ability",
+      "cost": 0
+    },
+    "Ability2": {
+      "name": "Habilidade (E)",
+      "category": "Ability",
+      "cost": 0
+    },
+    "Ultimate": {
+      "name": "Ultimate (X)",
+      "category": "Ability",
+      "cost": 0
+    },
+    "": {
+      "name": "Desconhecido / Bomba / Queda",
+      "category": "Other",
+      "cost": 0
+    }
+  },
+  "armors": {
+    "": {
+      "name": "Sem Escudo",
+      "cost": 0
+    },
+    "4DEC83D5-4902-9AB3-BED6-A7A390761157": {
+      "name": "Escudo Leve",
+      "cost": 400
+    },
+    "B1B9086D-41BD-A516-5D29-E3B34A6F1644": {
+      "name": "Escudo Regenerativo",
+      "cost": 650
+    },
+    "822BCAB2-40A2-324E-C137-E09195AD7692": {
+      "name": "Escudo Pesado",
+      "cost": 1000
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# Dependências do Front-end (React / Node)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Cache e ambientes virtuais do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Arquivos pesados redundantes (o back-end usa database/json/)
+database/*.sqlite
+database/csv/
+
+# Arquivos temporários de sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

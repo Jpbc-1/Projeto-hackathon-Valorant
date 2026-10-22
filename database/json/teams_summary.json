@@ -1,0 +1,4404 @@
+[
+  {
+    "teamSlug": "azure_bears_golden",
+    "teamName": "AZURE BEARS GOLDEN",
+    "matchesPlayed": 32,
+    "matchesWon": 24,
+    "matchWinRate": 75.0,
+    "roundsPlayed": 618,
+    "roundsWon": 396,
+    "roundWinRate": 64.1,
+    "attackWinRate": 61.0,
+    "defenseWinRate": 67.2,
+    "pistolWinRate": 60.9,
+    "firstKills": 368,
+    "firstDeaths": 249,
+    "firstKillRate": 59.5,
+    "conversion5v4Rate": 81.0,
+    "comeback4v5Rate": 39.2,
+    "totalKills": 2463,
+    "totalDeaths": 1867,
+    "teamKd": 1.32,
+    "tradeKills": 349,
+    "tradedDeaths": 379,
+    "tradedDeathRate": 20.3,
+    "isolatedDeaths": 489,
+    "isolatedDeathRate": 26.2,
+    "avgNearestAllyDistOnDeathMeters": 18.4,
+    "postRoundSavedWeaponDeaths": 70,
+    "antiEcoThrows": 4,
+    "thriftyWins": 1,
+    "plants": 230,
+    "postPlantWinRate": 77.4,
+    "retakeAttempts": 175,
+    "retakeWinRate": 43.4,
+    "roster": [
+      "Kick#SchrB",
+      "andre#aaa12",
+      "greiN#quel",
+      "piM#まいさ",
+      "taek#aim"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 11,
+        "won": 10,
+        "winRate": 90.9
+      },
+      "Split": {
+        "played": 5,
+        "won": 4,
+        "winRate": 80.0
+      },
+      "Lotus": {
+        "played": 6,
+        "won": 4,
+        "winRate": 66.7
+      },
+      "Breeze": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Fracture": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Haven": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Abyss": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Corrode (Summit)": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufmt_turuna",
+    "teamName": "UFMT TURUNA",
+    "matchesPlayed": 36,
+    "matchesWon": 23,
+    "matchWinRate": 63.9,
+    "roundsPlayed": 705,
+    "roundsWon": 393,
+    "roundWinRate": 55.7,
+    "attackWinRate": 61.3,
+    "defenseWinRate": 50.9,
+    "pistolWinRate": 61.1,
+    "firstKills": 363,
+    "firstDeaths": 341,
+    "firstKillRate": 51.5,
+    "conversion5v4Rate": 74.7,
+    "comeback4v5Rate": 35.7,
+    "totalKills": 2600,
+    "totalDeaths": 2288,
+    "teamKd": 1.14,
+    "tradeKills": 412,
+    "tradedDeaths": 440,
+    "tradedDeathRate": 19.2,
+    "isolatedDeaths": 628,
+    "isolatedDeathRate": 27.4,
+    "avgNearestAllyDistOnDeathMeters": 18.0,
+    "postRoundSavedWeaponDeaths": 99,
+    "antiEcoThrows": 5,
+    "thriftyWins": 2,
+    "plants": 263,
+    "postPlantWinRate": 74.5,
+    "retakeAttempts": 248,
+    "retakeWinRate": 28.6,
+    "roster": [
+      "1zt#UFMT",
+      "Kaytoh#prime",
+      "ONEZERA 愛#JPN",
+      "balalov3#pas",
+      "ddz#evom",
+      "duduziN#chan",
+      "fafa#111"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 12,
+        "won": 10,
+        "winRate": 83.3
+      },
+      "Lotus": {
+        "played": 6,
+        "won": 4,
+        "winRate": 66.7
+      },
+      "Split": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Haven": {
+        "played": 6,
+        "won": 3,
+        "winRate": 50.0
+      },
+      "Fracture": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Breeze": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Corrode (Summit)": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Sunset": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "azure_bears_black",
+    "teamName": "AZURE BEARS BLACK",
+    "matchesPlayed": 33,
+    "matchesWon": 17,
+    "matchWinRate": 51.5,
+    "roundsPlayed": 663,
+    "roundsWon": 344,
+    "roundWinRate": 51.9,
+    "attackWinRate": 56.3,
+    "defenseWinRate": 47.6,
+    "pistolWinRate": 51.5,
+    "firstKills": 351,
+    "firstDeaths": 314,
+    "firstKillRate": 52.9,
+    "conversion5v4Rate": 68.1,
+    "comeback4v5Rate": 33.7,
+    "totalKills": 2387,
+    "totalDeaths": 2259,
+    "teamKd": 1.06,
+    "tradeKills": 404,
+    "tradedDeaths": 437,
+    "tradedDeathRate": 19.3,
+    "isolatedDeaths": 600,
+    "isolatedDeathRate": 26.6,
+    "avgNearestAllyDistOnDeathMeters": 17.9,
+    "postRoundSavedWeaponDeaths": 72,
+    "antiEcoThrows": 2,
+    "thriftyWins": 2,
+    "plants": 245,
+    "postPlantWinRate": 72.7,
+    "retakeAttempts": 240,
+    "retakeWinRate": 27.9,
+    "roster": [
+      "Aldeath#mond",
+      "GrimmW#trupe",
+      "Lacer#Daoo",
+      "Lacerdaoo#VINI",
+      "droga é o pedro#GOAT",
+      "dvd isnt perfect#yas",
+      "sky444#jesus",
+      "skydvjj#jesus",
+      "stockão#BAGRE",
+      "zeNith#mond"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Haven": {
+        "played": 10,
+        "won": 3,
+        "winRate": 30.0
+      },
+      "Split": {
+        "played": 10,
+        "won": 7,
+        "winRate": 70.0
+      },
+      "Breeze": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Abyss": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Corrode (Summit)": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ceub_octopus_vulgaris",
+    "teamName": "CEUB OCTOPUS VULGARIS",
+    "matchesPlayed": 30,
+    "matchesWon": 14,
+    "matchWinRate": 46.7,
+    "roundsPlayed": 577,
+    "roundsWon": 285,
+    "roundWinRate": 49.4,
+    "attackWinRate": 51.6,
+    "defenseWinRate": 46.8,
+    "pistolWinRate": 50.0,
+    "firstKills": 284,
+    "firstDeaths": 294,
+    "firstKillRate": 49.2,
+    "conversion5v4Rate": 71.1,
+    "comeback4v5Rate": 28.3,
+    "totalKills": 2048,
+    "totalDeaths": 2049,
+    "teamKd": 1.0,
+    "tradeKills": 376,
+    "tradedDeaths": 421,
+    "tradedDeathRate": 20.5,
+    "isolatedDeaths": 447,
+    "isolatedDeathRate": 21.8,
+    "avgNearestAllyDistOnDeathMeters": 16.0,
+    "postRoundSavedWeaponDeaths": 62,
+    "antiEcoThrows": 1,
+    "thriftyWins": 6,
+    "plants": 225,
+    "postPlantWinRate": 68.0,
+    "retakeAttempts": 187,
+    "retakeWinRate": 28.9,
+    "roster": [
+      "Dante#Aim1",
+      "Dante#Jully",
+      "J3YP#END",
+      "Leywin#8057",
+      "Pockaus#Rocky",
+      "badaBIGBOSS#bagre",
+      "bubbaloo#tani",
+      "gummybear#nowAy",
+      "nowAy#capa",
+      "tanizaki#1411",
+      "teletubbies#PCK"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 9,
+        "won": 4,
+        "winRate": 44.4
+      },
+      "Lotus": {
+        "played": 6,
+        "won": 4,
+        "winRate": 66.7
+      },
+      "Ascent": {
+        "played": 4,
+        "won": 1,
+        "winRate": 25.0
+      },
+      "Sunset": {
+        "played": 7,
+        "won": 4,
+        "winRate": 57.1
+      },
+      "Split": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufu_saints",
+    "teamName": "UFU SAINTS",
+    "matchesPlayed": 18,
+    "matchesWon": 14,
+    "matchWinRate": 77.8,
+    "roundsPlayed": 362,
+    "roundsWon": 214,
+    "roundWinRate": 59.1,
+    "attackWinRate": 63.5,
+    "defenseWinRate": 53.7,
+    "pistolWinRate": 58.3,
+    "firstKills": 183,
+    "firstDeaths": 181,
+    "firstKillRate": 50.6,
+    "conversion5v4Rate": 79.8,
+    "comeback4v5Rate": 38.0,
+    "totalKills": 1339,
+    "totalDeaths": 1152,
+    "teamKd": 1.16,
+    "tradeKills": 229,
+    "tradedDeaths": 243,
+    "tradedDeathRate": 21.1,
+    "isolatedDeaths": 271,
+    "isolatedDeathRate": 23.5,
+    "avgNearestAllyDistOnDeathMeters": 16.7,
+    "postRoundSavedWeaponDeaths": 49,
+    "antiEcoThrows": 4,
+    "thriftyWins": 2,
+    "plants": 148,
+    "postPlantWinRate": 83.8,
+    "retakeAttempts": 112,
+    "retakeWinRate": 36.6,
+    "roster": [
+      "Bellingham 10#bKIND",
+      "Gutoso#vlr",
+      "Shanks#MIBR",
+      "VDG Kyes#9335",
+      "cks ヵ#777",
+      "lagan#bKIND",
+      "marelo#UFU",
+      "oBigZe#god",
+      "obigzeh#god",
+      "queijo coalho#praia",
+      "warplane#gsN"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 6,
+        "won": 5,
+        "winRate": 83.3
+      },
+      "Split": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 5,
+        "won": 5,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Abyss": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "uscs_hawks",
+    "teamName": "USCS HAWKS",
+    "matchesPlayed": 25,
+    "matchesWon": 13,
+    "matchWinRate": 52.0,
+    "roundsPlayed": 526,
+    "roundsWon": 278,
+    "roundWinRate": 52.9,
+    "attackWinRate": 49.0,
+    "defenseWinRate": 57.5,
+    "pistolWinRate": 52.0,
+    "firstKills": 275,
+    "firstDeaths": 251,
+    "firstKillRate": 52.3,
+    "conversion5v4Rate": 73.1,
+    "comeback4v5Rate": 30.7,
+    "totalKills": 1907,
+    "totalDeaths": 1811,
+    "teamKd": 1.05,
+    "tradeKills": 289,
+    "tradedDeaths": 308,
+    "tradedDeathRate": 17.0,
+    "isolatedDeaths": 534,
+    "isolatedDeathRate": 29.5,
+    "avgNearestAllyDistOnDeathMeters": 18.8,
+    "postRoundSavedWeaponDeaths": 83,
+    "antiEcoThrows": 3,
+    "thriftyWins": 4,
+    "plants": 208,
+    "postPlantWinRate": 66.8,
+    "retakeAttempts": 152,
+    "retakeWinRate": 34.2,
+    "roster": [
+      "347moretti#zzz",
+      "Burckzs#7074",
+      "Cucinota#2007",
+      "J5lidof#5lf",
+      "Just Vinoca#1605",
+      "blonded#mrtt",
+      "megan fox#244",
+      "must#aim",
+      "ojapakashi#5324"
+    ],
+    "mapsStats": {
+      "Pearl": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Haven": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Lotus": {
+        "played": 9,
+        "won": 5,
+        "winRate": 55.6
+      },
+      "Split": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 7,
+        "won": 4,
+        "winRate": 57.1
+      },
+      "Breeze": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "totale_umc",
+    "teamName": "TOTALE UMC",
+    "matchesPlayed": 24,
+    "matchesWon": 13,
+    "matchWinRate": 54.2,
+    "roundsPlayed": 478,
+    "roundsWon": 256,
+    "roundWinRate": 53.6,
+    "attackWinRate": 58.8,
+    "defenseWinRate": 46.2,
+    "pistolWinRate": 60.4,
+    "firstKills": 257,
+    "firstDeaths": 219,
+    "firstKillRate": 53.8,
+    "conversion5v4Rate": 71.6,
+    "comeback4v5Rate": 32.6,
+    "totalKills": 1729,
+    "totalDeaths": 1626,
+    "teamKd": 1.06,
+    "tradeKills": 272,
+    "tradedDeaths": 285,
+    "tradedDeathRate": 17.5,
+    "isolatedDeaths": 408,
+    "isolatedDeathRate": 25.1,
+    "avgNearestAllyDistOnDeathMeters": 16.9,
+    "postRoundSavedWeaponDeaths": 70,
+    "antiEcoThrows": 0,
+    "thriftyWins": 3,
+    "plants": 196,
+    "postPlantWinRate": 78.6,
+    "retakeAttempts": 155,
+    "retakeWinRate": 31.6,
+    "roster": [
+      "237#fany",
+      "Dézinho#Dezin",
+      "TOTALE Sephamm#JADE",
+      "Todda#1214",
+      "leoZinn#LM8",
+      "pdrr#web",
+      "purikywa#web",
+      "th ˆˆ#fany",
+      "thzera33#fany"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 11,
+        "won": 7,
+        "winRate": 63.6
+      },
+      "Ascent": {
+        "played": 5,
+        "won": 2,
+        "winRate": 40.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Sunset": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Corrode (Summit)": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "caap_hellhounds",
+    "teamName": "CAAP HELLHOUNDS",
+    "matchesPlayed": 18,
+    "matchesWon": 13,
+    "matchWinRate": 72.2,
+    "roundsPlayed": 345,
+    "roundsWon": 205,
+    "roundWinRate": 59.4,
+    "attackWinRate": 64.0,
+    "defenseWinRate": 54.7,
+    "pistolWinRate": 55.6,
+    "firstKills": 202,
+    "firstDeaths": 143,
+    "firstKillRate": 58.6,
+    "conversion5v4Rate": 74.8,
+    "comeback4v5Rate": 37.8,
+    "totalKills": 1314,
+    "totalDeaths": 1088,
+    "teamKd": 1.21,
+    "tradeKills": 222,
+    "tradedDeaths": 235,
+    "tradedDeathRate": 21.6,
+    "isolatedDeaths": 256,
+    "isolatedDeathRate": 23.5,
+    "avgNearestAllyDistOnDeathMeters": 16.0,
+    "postRoundSavedWeaponDeaths": 29,
+    "antiEcoThrows": 3,
+    "thriftyWins": 1,
+    "plants": 138,
+    "postPlantWinRate": 78.3,
+    "retakeAttempts": 104,
+    "retakeWinRate": 31.7,
+    "roster": [
+      "CAAP Burrito42#yuki",
+      "CAAP Metal#smda",
+      "CAAP SUPERPDR1N#manu",
+      "CAAP lopes#bella",
+      "CAAP medina#ayumi",
+      "CAAP sobrunin#bea"
+    ],
+    "mapsStats": {
+      "Pearl": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Haven": {
+        "played": 5,
+        "won": 4,
+        "winRate": 80.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Breeze": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Corrode (Summit)": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "fei_darkowls",
+    "teamName": "FEI DARKOWLS",
+    "matchesPlayed": 22,
+    "matchesWon": 12,
+    "matchWinRate": 54.5,
+    "roundsPlayed": 430,
+    "roundsWon": 223,
+    "roundWinRate": 51.9,
+    "attackWinRate": 55.9,
+    "defenseWinRate": 46.5,
+    "pistolWinRate": 56.8,
+    "firstKills": 238,
+    "firstDeaths": 192,
+    "firstKillRate": 55.3,
+    "conversion5v4Rate": 68.9,
+    "comeback4v5Rate": 30.7,
+    "totalKills": 1565,
+    "totalDeaths": 1444,
+    "teamKd": 1.08,
+    "tradeKills": 272,
+    "tradedDeaths": 299,
+    "tradedDeathRate": 20.7,
+    "isolatedDeaths": 344,
+    "isolatedDeathRate": 23.8,
+    "avgNearestAllyDistOnDeathMeters": 16.8,
+    "postRoundSavedWeaponDeaths": 60,
+    "antiEcoThrows": 3,
+    "thriftyWins": 1,
+    "plants": 187,
+    "postPlantWinRate": 71.7,
+    "retakeAttempts": 146,
+    "retakeWinRate": 33.6,
+    "roster": [
+      "Big Tio#mεlo",
+      "Etes#etes",
+      "Kayden#wired",
+      "Proenz#xit",
+      "Puosso#sccp",
+      "bogao#001",
+      "fxz nightmare#prime",
+      "lariø#ego",
+      "lariø777#sccp",
+      "mεlo#FEI",
+      "oni666#goki",
+      "onizinnnnnn#demon",
+      "sunevj#luz",
+      "xerp#r25",
+      "Ð Souza#Livia"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 9,
+        "won": 4,
+        "winRate": 44.4
+      },
+      "Haven": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 7,
+        "won": 5,
+        "winRate": 71.4
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Sunset": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      }
+    }
+  },
+  {
+    "teamSlug": "wolf_gaming",
+    "teamName": "WOLF GAMING",
+    "matchesPlayed": 16,
+    "matchesWon": 11,
+    "matchWinRate": 68.8,
+    "roundsPlayed": 350,
+    "roundsWon": 195,
+    "roundWinRate": 55.7,
+    "attackWinRate": 54.7,
+    "defenseWinRate": 56.7,
+    "pistolWinRate": 56.2,
+    "firstKills": 186,
+    "firstDeaths": 163,
+    "firstKillRate": 53.1,
+    "conversion5v4Rate": 71.5,
+    "comeback4v5Rate": 37.8,
+    "totalKills": 1292,
+    "totalDeaths": 1170,
+    "teamKd": 1.1,
+    "tradeKills": 245,
+    "tradedDeaths": 268,
+    "tradedDeathRate": 22.9,
+    "isolatedDeaths": 288,
+    "isolatedDeathRate": 24.6,
+    "avgNearestAllyDistOnDeathMeters": 17.0,
+    "postRoundSavedWeaponDeaths": 38,
+    "antiEcoThrows": 2,
+    "thriftyWins": 3,
+    "plants": 119,
+    "postPlantWinRate": 73.1,
+    "retakeAttempts": 127,
+    "retakeWinRate": 40.2,
+    "roster": [
+      "WG wpvmal#wpv",
+      "bielmonster#prime",
+      "dark#2107",
+      "entropy#fermi",
+      "filiceta#2107",
+      "nizk#777",
+      "salem#rosa",
+      "spx#six7",
+      "tay#hihi"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 4,
+        "won": 4,
+        "winRate": 100.0
+      },
+      "Haven": {
+        "played": 3,
+        "won": 3,
+        "winRate": 100.0
+      },
+      "Split": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Abyss": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Corrode (Summit)": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "macklogic_red",
+    "teamName": "MACKLOGIC RED",
+    "matchesPlayed": 11,
+    "matchesWon": 10,
+    "matchWinRate": 90.9,
+    "roundsPlayed": 228,
+    "roundsWon": 140,
+    "roundWinRate": 61.4,
+    "attackWinRate": 61.1,
+    "defenseWinRate": 61.7,
+    "pistolWinRate": 59.1,
+    "firstKills": 121,
+    "firstDeaths": 108,
+    "firstKillRate": 53.1,
+    "conversion5v4Rate": 76.9,
+    "comeback4v5Rate": 43.9,
+    "totalKills": 874,
+    "totalDeaths": 759,
+    "teamKd": 1.15,
+    "tradeKills": 136,
+    "tradedDeaths": 155,
+    "tradedDeathRate": 20.4,
+    "isolatedDeaths": 186,
+    "isolatedDeathRate": 24.5,
+    "avgNearestAllyDistOnDeathMeters": 17.2,
+    "postRoundSavedWeaponDeaths": 19,
+    "antiEcoThrows": 0,
+    "thriftyWins": 3,
+    "plants": 78,
+    "postPlantWinRate": 82.1,
+    "retakeAttempts": 67,
+    "retakeWinRate": 37.3,
+    "roster": [
+      "Choco#BAAM",
+      "Eu sou o Choco#fezes",
+      "Kato#lau",
+      "Katojin#Lena",
+      "gubert 水#SEP",
+      "hirama666#xoxo",
+      "kim#EG000",
+      "lule#dfnt",
+      "sick#bntz"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Haven": {
+        "played": 3,
+        "won": 3,
+        "winRate": 100.0
+      },
+      "Corrode (Summit)": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "axis_anteaters",
+    "teamName": "AXIS ANTEATERS",
+    "matchesPlayed": 13,
+    "matchesWon": 10,
+    "matchWinRate": 76.9,
+    "roundsPlayed": 280,
+    "roundsWon": 155,
+    "roundWinRate": 55.4,
+    "attackWinRate": 48.3,
+    "defenseWinRate": 62.8,
+    "pistolWinRate": 46.2,
+    "firstKills": 135,
+    "firstDeaths": 145,
+    "firstKillRate": 48.2,
+    "conversion5v4Rate": 82.2,
+    "comeback4v5Rate": 30.3,
+    "totalKills": 1024,
+    "totalDeaths": 937,
+    "teamKd": 1.09,
+    "tradeKills": 155,
+    "tradedDeaths": 171,
+    "tradedDeathRate": 18.2,
+    "isolatedDeaths": 216,
+    "isolatedDeathRate": 23.1,
+    "avgNearestAllyDistOnDeathMeters": 16.2,
+    "postRoundSavedWeaponDeaths": 32,
+    "antiEcoThrows": 0,
+    "thriftyWins": 4,
+    "plants": 107,
+    "postPlantWinRate": 63.6,
+    "retakeAttempts": 91,
+    "retakeWinRate": 45.1,
+    "roster": [
+      "Duduka#kvk",
+      "Luqueta#lizi",
+      "Zé Drops#sara",
+      "dnkzao#kvk",
+      "larpginger#00000",
+      "vladi#juubs"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Lotus": {
+        "played": 6,
+        "won": 5,
+        "winRate": 83.3
+      },
+      "Corrode (Summit)": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "a2e_uff",
+    "teamName": "A2E UFF",
+    "matchesPlayed": 18,
+    "matchesWon": 9,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 355,
+    "roundsWon": 182,
+    "roundWinRate": 51.3,
+    "attackWinRate": 52.6,
+    "defenseWinRate": 50.0,
+    "pistolWinRate": 38.9,
+    "firstKills": 186,
+    "firstDeaths": 168,
+    "firstKillRate": 52.4,
+    "conversion5v4Rate": 70.4,
+    "comeback4v5Rate": 30.2,
+    "totalKills": 1250,
+    "totalDeaths": 1240,
+    "teamKd": 1.01,
+    "tradeKills": 168,
+    "tradedDeaths": 181,
+    "tradedDeathRate": 14.6,
+    "isolatedDeaths": 343,
+    "isolatedDeathRate": 27.7,
+    "avgNearestAllyDistOnDeathMeters": 18.5,
+    "postRoundSavedWeaponDeaths": 24,
+    "antiEcoThrows": 5,
+    "thriftyWins": 2,
+    "plants": 122,
+    "postPlantWinRate": 73.0,
+    "retakeAttempts": 99,
+    "retakeWinRate": 18.2,
+    "roster": [
+      "RACFLU#2812",
+      "daviZao#japy",
+      "drk#calmo",
+      "evatoj#smoke",
+      "filipinwu#isaaa",
+      "mth ツ#high",
+      "ninker#tbest",
+      "rac#manu",
+      "tgzin#elis",
+      "zuw#wuz"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 9,
+        "won": 4,
+        "winRate": 44.4
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 5,
+        "won": 3,
+        "winRate": 60.0
+      },
+      "Abyss": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ceub_octopus",
+    "teamName": "CEUB OCTOPUS",
+    "matchesPlayed": 9,
+    "matchesWon": 9,
+    "matchWinRate": 100.0,
+    "roundsPlayed": 158,
+    "roundsWon": 117,
+    "roundWinRate": 74.1,
+    "attackWinRate": 82.4,
+    "defenseWinRate": 67.8,
+    "pistolWinRate": 77.8,
+    "firstKills": 94,
+    "firstDeaths": 64,
+    "firstKillRate": 59.5,
+    "conversion5v4Rate": 84.0,
+    "comeback4v5Rate": 59.4,
+    "totalKills": 670,
+    "totalDeaths": 462,
+    "teamKd": 1.45,
+    "tradeKills": 120,
+    "tradedDeaths": 126,
+    "tradedDeathRate": 27.3,
+    "isolatedDeaths": 110,
+    "isolatedDeathRate": 23.8,
+    "avgNearestAllyDistOnDeathMeters": 16.1,
+    "postRoundSavedWeaponDeaths": 13,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 53,
+    "postPlantWinRate": 92.5,
+    "retakeAttempts": 41,
+    "retakeWinRate": 36.6,
+    "roster": [
+      "JotaVe#2511",
+      "big0d#CEI",
+      "chadu#2007",
+      "chadu#lari",
+      "gbzz#CEI",
+      "kzr#bala",
+      "reyblock#rbck",
+      "seki#hanei"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Split": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Sunset": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Corrode (Summit)": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufpr_bbn",
+    "teamName": "UFPR BBN",
+    "matchesPlayed": 17,
+    "matchesWon": 8,
+    "matchWinRate": 47.1,
+    "roundsPlayed": 342,
+    "roundsWon": 155,
+    "roundWinRate": 45.3,
+    "attackWinRate": 50.0,
+    "defenseWinRate": 41.6,
+    "pistolWinRate": 35.3,
+    "firstKills": 164,
+    "firstDeaths": 178,
+    "firstKillRate": 48.0,
+    "conversion5v4Rate": 64.6,
+    "comeback4v5Rate": 27.5,
+    "totalKills": 1181,
+    "totalDeaths": 1257,
+    "teamKd": 0.94,
+    "tradeKills": 203,
+    "tradedDeaths": 222,
+    "tradedDeathRate": 17.7,
+    "isolatedDeaths": 335,
+    "isolatedDeathRate": 26.7,
+    "avgNearestAllyDistOnDeathMeters": 18.0,
+    "postRoundSavedWeaponDeaths": 44,
+    "antiEcoThrows": 0,
+    "thriftyWins": 2,
+    "plants": 97,
+    "postPlantWinRate": 72.2,
+    "retakeAttempts": 141,
+    "retakeWinRate": 22.0,
+    "roster": [
+      "BBN Aura67#Biel",
+      "BBN Biel#cwb",
+      "BBN MR MAGO#SUMIU",
+      "BBN Madara#763",
+      "BBN Tazyg#Maurn",
+      "BBN Yuri#B1ttn",
+      "BBN ishima#sccp",
+      "BBN mocejogafofo#troll",
+      "BBN wonDer#hope",
+      "Lucky#flex",
+      "ZhiShou 执守#Yuri"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 10,
+        "won": 5,
+        "winRate": 50.0
+      },
+      "Lotus": {
+        "played": 5,
+        "won": 2,
+        "winRate": 40.0
+      }
+    }
+  },
+  {
+    "teamSlug": "maua_blue",
+    "teamName": "MAUA BLUE",
+    "matchesPlayed": 13,
+    "matchesWon": 8,
+    "matchWinRate": 61.5,
+    "roundsPlayed": 261,
+    "roundsWon": 142,
+    "roundWinRate": 54.4,
+    "attackWinRate": 51.2,
+    "defenseWinRate": 57.5,
+    "pistolWinRate": 57.7,
+    "firstKills": 114,
+    "firstDeaths": 123,
+    "firstKillRate": 43.7,
+    "conversion5v4Rate": 71.9,
+    "comeback4v5Rate": 39.0,
+    "totalKills": 880,
+    "totalDeaths": 830,
+    "teamKd": 1.06,
+    "tradeKills": 168,
+    "tradedDeaths": 178,
+    "tradedDeathRate": 21.4,
+    "isolatedDeaths": 208,
+    "isolatedDeathRate": 25.1,
+    "avgNearestAllyDistOnDeathMeters": 16.6,
+    "postRoundSavedWeaponDeaths": 22,
+    "antiEcoThrows": 1,
+    "thriftyWins": 1,
+    "plants": 83,
+    "postPlantWinRate": 75.9,
+    "retakeAttempts": 77,
+    "retakeWinRate": 31.2,
+    "roster": [
+      "IMT Greed#ORV",
+      "IMT krownnl#ttv",
+      "IMT mXt#new",
+      "IMT prime#aimer",
+      "Pipão#RAWR",
+      "SNZ#JESUS",
+      "kikito#cfpq",
+      "miglin capudo#zzz"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 5,
+        "won": 3,
+        "winRate": 60.0
+      },
+      "Lotus": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Haven": {
+        "played": 4,
+        "won": 4,
+        "winRate": 100.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "minerva_thunders",
+    "teamName": "MINERVA THUNDERS",
+    "matchesPlayed": 14,
+    "matchesWon": 8,
+    "matchWinRate": 57.1,
+    "roundsPlayed": 291,
+    "roundsWon": 147,
+    "roundWinRate": 50.5,
+    "attackWinRate": 50.9,
+    "defenseWinRate": 50.0,
+    "pistolWinRate": 35.7,
+    "firstKills": 143,
+    "firstDeaths": 147,
+    "firstKillRate": 49.1,
+    "conversion5v4Rate": 69.9,
+    "comeback4v5Rate": 31.8,
+    "totalKills": 1043,
+    "totalDeaths": 1052,
+    "teamKd": 0.99,
+    "tradeKills": 161,
+    "tradedDeaths": 177,
+    "tradedDeathRate": 16.8,
+    "isolatedDeaths": 281,
+    "isolatedDeathRate": 26.7,
+    "avgNearestAllyDistOnDeathMeters": 18.1,
+    "postRoundSavedWeaponDeaths": 24,
+    "antiEcoThrows": 4,
+    "thriftyWins": 2,
+    "plants": 106,
+    "postPlantWinRate": 72.6,
+    "retakeAttempts": 98,
+    "retakeWinRate": 34.7,
+    "roster": [
+      "Freec#migs",
+      "Kaname#omg",
+      "Stalkzin#szz",
+      "TORONTO#lulu",
+      "mtch L#IMA",
+      "risk it all#szz",
+      "schroud 7wzz#nyc",
+      "swpz#1578",
+      "thenker#vaz"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 6,
+        "won": 3,
+        "winRate": 50.0
+      },
+      "Lotus": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Sunset": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "usp_stars",
+    "teamName": "USP STARS",
+    "matchesPlayed": 11,
+    "matchesWon": 8,
+    "matchWinRate": 72.7,
+    "roundsPlayed": 217,
+    "roundsWon": 121,
+    "roundWinRate": 55.8,
+    "attackWinRate": 58.3,
+    "defenseWinRate": 53.2,
+    "pistolWinRate": 59.1,
+    "firstKills": 113,
+    "firstDeaths": 104,
+    "firstKillRate": 52.1,
+    "conversion5v4Rate": 75.2,
+    "comeback4v5Rate": 34.6,
+    "totalKills": 819,
+    "totalDeaths": 747,
+    "teamKd": 1.1,
+    "tradeKills": 124,
+    "tradedDeaths": 136,
+    "tradedDeathRate": 18.2,
+    "isolatedDeaths": 213,
+    "isolatedDeathRate": 28.5,
+    "avgNearestAllyDistOnDeathMeters": 20.6,
+    "postRoundSavedWeaponDeaths": 19,
+    "antiEcoThrows": 0,
+    "thriftyWins": 1,
+    "plants": 85,
+    "postPlantWinRate": 74.1,
+    "retakeAttempts": 72,
+    "retakeWinRate": 34.7,
+    "roster": [
+      "Dioguera#CAASO",
+      "GPTTERAPIAAPOIA#ELIZA",
+      "GalloBill#yoyo",
+      "Rype#focus",
+      "quero um arduino#dma",
+      "yuta okkotsu#black"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Haven": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Sunset": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "caap_malditos",
+    "teamName": "CAAP MALDITOS",
+    "matchesPlayed": 11,
+    "matchesWon": 7,
+    "matchWinRate": 63.6,
+    "roundsPlayed": 229,
+    "roundsWon": 120,
+    "roundWinRate": 52.4,
+    "attackWinRate": 56.6,
+    "defenseWinRate": 48.3,
+    "pistolWinRate": 50.0,
+    "firstKills": 108,
+    "firstDeaths": 121,
+    "firstKillRate": 47.2,
+    "conversion5v4Rate": 75.9,
+    "comeback4v5Rate": 31.4,
+    "totalKills": 816,
+    "totalDeaths": 797,
+    "teamKd": 1.02,
+    "tradeKills": 120,
+    "tradedDeaths": 129,
+    "tradedDeathRate": 16.2,
+    "isolatedDeaths": 203,
+    "isolatedDeathRate": 25.5,
+    "avgNearestAllyDistOnDeathMeters": 17.8,
+    "postRoundSavedWeaponDeaths": 23,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 86,
+    "postPlantWinRate": 72.1,
+    "retakeAttempts": 87,
+    "retakeWinRate": 32.2,
+    "roster": [
+      "CAAP protanzy42#sobru",
+      "Doragon#Ana",
+      "anp4#jana",
+      "duarteskz#bruna",
+      "meno kabrinha#bruna",
+      "mist#2706"
+    ],
+    "mapsStats": {
+      "Sunset": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Corrode (Summit)": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Ascent": {
+        "played": 3,
+        "won": 3,
+        "winRate": 100.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "inatel_legacy",
+    "teamName": "INATEL LEGACY",
+    "matchesPlayed": 14,
+    "matchesWon": 6,
+    "matchWinRate": 42.9,
+    "roundsPlayed": 268,
+    "roundsWon": 128,
+    "roundWinRate": 47.8,
+    "attackWinRate": 46.5,
+    "defenseWinRate": 48.7,
+    "pistolWinRate": 42.9,
+    "firstKills": 127,
+    "firstDeaths": 140,
+    "firstKillRate": 47.4,
+    "conversion5v4Rate": 72.4,
+    "comeback4v5Rate": 25.5,
+    "totalKills": 912,
+    "totalDeaths": 969,
+    "teamKd": 0.94,
+    "tradeKills": 151,
+    "tradedDeaths": 166,
+    "tradedDeathRate": 17.1,
+    "isolatedDeaths": 275,
+    "isolatedDeathRate": 28.4,
+    "avgNearestAllyDistOnDeathMeters": 18.8,
+    "postRoundSavedWeaponDeaths": 28,
+    "antiEcoThrows": 1,
+    "thriftyWins": 1,
+    "plants": 80,
+    "postPlantWinRate": 63.7,
+    "retakeAttempts": 101,
+    "retakeWinRate": 24.8,
+    "roster": [
+      "Bebelzinh0#UNICO",
+      "BmZ#clt",
+      "Hide On Bush ﾒ#etern",
+      "INTL Psychovv#Mii",
+      "Izanagi#Fatox",
+      "Mtr#fps",
+      "Novinhu#hen",
+      "jdN#CLT",
+      "psч#Mii"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Lotus": {
+        "played": 5,
+        "won": 2,
+        "winRate": 40.0
+      },
+      "Breeze": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "octacore_python",
+    "teamName": "OCTACORE PYTHON",
+    "matchesPlayed": 12,
+    "matchesWon": 6,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 223,
+    "roundsWon": 110,
+    "roundWinRate": 49.3,
+    "attackWinRate": 41.4,
+    "defenseWinRate": 55.6,
+    "pistolWinRate": 54.2,
+    "firstKills": 120,
+    "firstDeaths": 103,
+    "firstKillRate": 53.8,
+    "conversion5v4Rate": 72.5,
+    "comeback4v5Rate": 22.3,
+    "totalKills": 787,
+    "totalDeaths": 770,
+    "teamKd": 1.02,
+    "tradeKills": 125,
+    "tradedDeaths": 139,
+    "tradedDeathRate": 18.1,
+    "isolatedDeaths": 214,
+    "isolatedDeathRate": 27.8,
+    "avgNearestAllyDistOnDeathMeters": 17.2,
+    "postRoundSavedWeaponDeaths": 20,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 59,
+    "postPlantWinRate": 64.4,
+    "retakeAttempts": 84,
+    "retakeWinRate": 35.7,
+    "roster": [
+      "Phioe#Phioe",
+      "Soulless#Only",
+      "TUK#deixa",
+      "Tonho#BRN1",
+      "floquinho67#9 10",
+      "haku#moca",
+      "near#nath"
+    ],
+    "mapsStats": {
+      "Split": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Ascent": {
+        "played": 4,
+        "won": 1,
+        "winRate": 25.0
+      },
+      "Lotus": {
+        "played": 5,
+        "won": 3,
+        "winRate": 60.0
+      }
+    }
+  },
+  {
+    "teamSlug": "pucc_cardinals",
+    "teamName": "PUCC CARDINALS",
+    "matchesPlayed": 12,
+    "matchesWon": 6,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 220,
+    "roundsWon": 106,
+    "roundWinRate": 48.2,
+    "attackWinRate": 52.1,
+    "defenseWinRate": 43.7,
+    "pistolWinRate": 45.8,
+    "firstKills": 98,
+    "firstDeaths": 121,
+    "firstKillRate": 44.5,
+    "conversion5v4Rate": 72.4,
+    "comeback4v5Rate": 28.7,
+    "totalKills": 771,
+    "totalDeaths": 791,
+    "teamKd": 0.97,
+    "tradeKills": 136,
+    "tradedDeaths": 144,
+    "tradedDeathRate": 18.2,
+    "isolatedDeaths": 184,
+    "isolatedDeathRate": 23.3,
+    "avgNearestAllyDistOnDeathMeters": 16.4,
+    "postRoundSavedWeaponDeaths": 31,
+    "antiEcoThrows": 1,
+    "thriftyWins": 1,
+    "plants": 79,
+    "postPlantWinRate": 73.4,
+    "retakeAttempts": 75,
+    "retakeWinRate": 29.3,
+    "roster": [
+      "PUCC Hasp#isa",
+      "PUCC Tiezo#kuro",
+      "PUCC maumauxdd1#doki",
+      "PUCC ttt#ttt",
+      "apo#TM 03",
+      "fr0st#new",
+      "htttps#ttt",
+      "nimu km#9049",
+      "é o maldito#crstl"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Ascent": {
+        "played": 5,
+        "won": 2,
+        "winRate": 40.0
+      },
+      "Split": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "furia_utfpr",
+    "teamName": "FURIA UTFPR",
+    "matchesPlayed": 12,
+    "matchesWon": 6,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 237,
+    "roundsWon": 102,
+    "roundWinRate": 43.0,
+    "attackWinRate": 52.5,
+    "defenseWinRate": 36.0,
+    "pistolWinRate": 37.5,
+    "firstKills": 102,
+    "firstDeaths": 135,
+    "firstKillRate": 43.0,
+    "conversion5v4Rate": 71.6,
+    "comeback4v5Rate": 21.5,
+    "totalKills": 780,
+    "totalDeaths": 895,
+    "teamKd": 0.87,
+    "tradeKills": 124,
+    "tradedDeaths": 129,
+    "tradedDeathRate": 14.4,
+    "isolatedDeaths": 279,
+    "isolatedDeathRate": 31.2,
+    "avgNearestAllyDistOnDeathMeters": 18.9,
+    "postRoundSavedWeaponDeaths": 21,
+    "antiEcoThrows": 0,
+    "thriftyWins": 1,
+    "plants": 72,
+    "postPlantWinRate": 70.8,
+    "retakeAttempts": 110,
+    "retakeWinRate": 22.7,
+    "roster": [
+      "AsianJack#ASIAN",
+      "GabrielH#3115",
+      "Veterano#2005",
+      "krozz#6ix",
+      "kssarato#RATO"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 5,
+        "won": 4,
+        "winRate": 80.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Ascent": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Corrode (Summit)": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Sunset": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "green_owls_jacurutu",
+    "teamName": "GREEN OWLS JACURUTU",
+    "matchesPlayed": 12,
+    "matchesWon": 6,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 247,
+    "roundsWon": 127,
+    "roundWinRate": 51.4,
+    "attackWinRate": 56.0,
+    "defenseWinRate": 46.7,
+    "pistolWinRate": 62.5,
+    "firstKills": 114,
+    "firstDeaths": 133,
+    "firstKillRate": 46.2,
+    "conversion5v4Rate": 75.4,
+    "comeback4v5Rate": 30.8,
+    "totalKills": 919,
+    "totalDeaths": 869,
+    "teamKd": 1.06,
+    "tradeKills": 157,
+    "tradedDeaths": 169,
+    "tradedDeathRate": 19.4,
+    "isolatedDeaths": 226,
+    "isolatedDeathRate": 26.0,
+    "avgNearestAllyDistOnDeathMeters": 18.2,
+    "postRoundSavedWeaponDeaths": 9,
+    "antiEcoThrows": 2,
+    "thriftyWins": 6,
+    "plants": 95,
+    "postPlantWinRate": 73.7,
+    "retakeAttempts": 79,
+    "retakeWinRate": 24.1,
+    "roster": [
+      "AIM Yasuzinn ツ#carol",
+      "Lisa#mstkz",
+      "Noya#Lilos",
+      "cavaloanão#3004",
+      "konnZ#ana",
+      "mistakeZ#xit"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Lotus": {
+        "played": 5,
+        "won": 2,
+        "winRate": 40.0
+      },
+      "Sunset": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "fei_whiteowls",
+    "teamName": "FEI WHITEOWLS",
+    "matchesPlayed": 13,
+    "matchesWon": 5,
+    "matchWinRate": 38.5,
+    "roundsPlayed": 238,
+    "roundsWon": 103,
+    "roundWinRate": 43.3,
+    "attackWinRate": 48.8,
+    "defenseWinRate": 37.4,
+    "pistolWinRate": 38.5,
+    "firstKills": 110,
+    "firstDeaths": 129,
+    "firstKillRate": 46.2,
+    "conversion5v4Rate": 64.5,
+    "comeback4v5Rate": 25.0,
+    "totalKills": 767,
+    "totalDeaths": 879,
+    "teamKd": 0.87,
+    "tradeKills": 126,
+    "tradedDeaths": 140,
+    "tradedDeathRate": 15.9,
+    "isolatedDeaths": 175,
+    "isolatedDeathRate": 19.9,
+    "avgNearestAllyDistOnDeathMeters": 14.6,
+    "postRoundSavedWeaponDeaths": 43,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 79,
+    "postPlantWinRate": 73.4,
+    "retakeAttempts": 100,
+    "retakeWinRate": 29.0,
+    "roster": [
+      "KamiKazeee#2001",
+      "Kayden#wired",
+      "Puosso#sccp",
+      "VelhøKami#Sfdin",
+      "bogao#001",
+      "fear me always#iwnl",
+      "fxz nightmare#prime",
+      "fxz não choraxx#pedra",
+      "huzuni#mine",
+      "japa#iwnl",
+      "metamorphosis#IFHY",
+      "motta#123",
+      "sunevj#luz",
+      "Ð Souza#Livia"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Haven": {
+        "played": 5,
+        "won": 1,
+        "winRate": 20.0
+      },
+      "Lotus": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "caap_auroras",
+    "teamName": "CAAP AURORAS",
+    "matchesPlayed": 13,
+    "matchesWon": 5,
+    "matchWinRate": 38.5,
+    "roundsPlayed": 245,
+    "roundsWon": 108,
+    "roundWinRate": 44.1,
+    "attackWinRate": 43.1,
+    "defenseWinRate": 45.1,
+    "pistolWinRate": 34.6,
+    "firstKills": 111,
+    "firstDeaths": 134,
+    "firstKillRate": 45.3,
+    "conversion5v4Rate": 72.1,
+    "comeback4v5Rate": 20.9,
+    "totalKills": 822,
+    "totalDeaths": 916,
+    "teamKd": 0.9,
+    "tradeKills": 133,
+    "tradedDeaths": 145,
+    "tradedDeathRate": 15.8,
+    "isolatedDeaths": 237,
+    "isolatedDeathRate": 25.9,
+    "avgNearestAllyDistOnDeathMeters": 16.5,
+    "postRoundSavedWeaponDeaths": 22,
+    "antiEcoThrows": 2,
+    "thriftyWins": 2,
+    "plants": 74,
+    "postPlantWinRate": 68.9,
+    "retakeAttempts": 89,
+    "retakeWinRate": 29.2,
+    "roster": [
+      "CAAP AnaGi#Hyuck",
+      "CAAP Meowolet#666",
+      "Cocci#nina",
+      "Hoopa#nina",
+      "Mimikyu#CAAP",
+      "haruauau#awa",
+      "jjzL#3669",
+      "mist#2706",
+      "sopas#2003",
+      "sopas#dxart"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Split": {
+        "played": 5,
+        "won": 2,
+        "winRate": 40.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "macklogic_rainbow",
+    "teamName": "MACKLOGIC RAINBOW",
+    "matchesPlayed": 7,
+    "matchesWon": 5,
+    "matchWinRate": 71.4,
+    "roundsPlayed": 122,
+    "roundsWon": 72,
+    "roundWinRate": 59.0,
+    "attackWinRate": 64.7,
+    "defenseWinRate": 54.9,
+    "pistolWinRate": 71.4,
+    "firstKills": 76,
+    "firstDeaths": 46,
+    "firstKillRate": 62.3,
+    "conversion5v4Rate": 76.3,
+    "comeback4v5Rate": 30.4,
+    "totalKills": 466,
+    "totalDeaths": 397,
+    "teamKd": 1.17,
+    "tradeKills": 64,
+    "tradedDeaths": 67,
+    "tradedDeathRate": 16.9,
+    "isolatedDeaths": 103,
+    "isolatedDeathRate": 25.9,
+    "avgNearestAllyDistOnDeathMeters": 17.2,
+    "postRoundSavedWeaponDeaths": 10,
+    "antiEcoThrows": 1,
+    "thriftyWins": 2,
+    "plants": 37,
+    "postPlantWinRate": 86.5,
+    "retakeAttempts": 35,
+    "retakeWinRate": 20.0,
+    "roster": [
+      "Jubz 山#dcn16",
+      "Katojin#Lena",
+      "Sea#yuumi",
+      "Sloretti#teté",
+      "instinct#lala",
+      "lule#dfnt",
+      "malagueta#brat",
+      "yonaha 山#8582"
+    ],
+    "mapsStats": {
+      "Split": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Ascent": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Haven": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "inatel",
+    "teamName": "INATEL",
+    "matchesPlayed": 11,
+    "matchesWon": 5,
+    "matchWinRate": 45.5,
+    "roundsPlayed": 221,
+    "roundsWon": 111,
+    "roundWinRate": 50.2,
+    "attackWinRate": 59.0,
+    "defenseWinRate": 43.0,
+    "pistolWinRate": 59.1,
+    "firstKills": 102,
+    "firstDeaths": 119,
+    "firstKillRate": 46.2,
+    "conversion5v4Rate": 72.5,
+    "comeback4v5Rate": 31.1,
+    "totalKills": 763,
+    "totalDeaths": 784,
+    "teamKd": 0.97,
+    "tradeKills": 109,
+    "tradedDeaths": 114,
+    "tradedDeathRate": 14.5,
+    "isolatedDeaths": 255,
+    "isolatedDeathRate": 32.5,
+    "avgNearestAllyDistOnDeathMeters": 19.0,
+    "postRoundSavedWeaponDeaths": 14,
+    "antiEcoThrows": 4,
+    "thriftyWins": 1,
+    "plants": 71,
+    "postPlantWinRate": 78.9,
+    "retakeAttempts": 81,
+    "retakeWinRate": 18.5,
+    "roster": [
+      "INTL DaviPsadelo#sfc",
+      "INTL Psychovv#Mii",
+      "Kauan#Júlia",
+      "NicotiNaa#ghoul",
+      "dan 光环#luiza",
+      "dan#lsz",
+      "乙ordaИ   乡#Mile",
+      "疲れた#Júlia"
+    ],
+    "mapsStats": {
+      "Breeze": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 5,
+        "won": 2,
+        "winRate": 40.0
+      },
+      "Lotus": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "green_owls_noctua",
+    "teamName": "GREEN OWLS NOCTUA",
+    "matchesPlayed": 12,
+    "matchesWon": 5,
+    "matchWinRate": 41.7,
+    "roundsPlayed": 242,
+    "roundsWon": 115,
+    "roundWinRate": 47.5,
+    "attackWinRate": 45.7,
+    "defenseWinRate": 49.6,
+    "pistolWinRate": 45.8,
+    "firstKills": 132,
+    "firstDeaths": 110,
+    "firstKillRate": 54.5,
+    "conversion5v4Rate": 69.7,
+    "comeback4v5Rate": 20.9,
+    "totalKills": 830,
+    "totalDeaths": 863,
+    "teamKd": 0.96,
+    "tradeKills": 137,
+    "tradedDeaths": 154,
+    "tradedDeathRate": 17.8,
+    "isolatedDeaths": 191,
+    "isolatedDeathRate": 22.1,
+    "avgNearestAllyDistOnDeathMeters": 15.9,
+    "postRoundSavedWeaponDeaths": 31,
+    "antiEcoThrows": 0,
+    "thriftyWins": 2,
+    "plants": 82,
+    "postPlantWinRate": 67.1,
+    "retakeAttempts": 80,
+    "retakeWinRate": 28.7,
+    "roster": [
+      "JoSueLanches#Jäger",
+      "Piubelli#60hz",
+      "Piubelli#GOUnB",
+      "Sense#seduz",
+      "Straw#0201",
+      "Verno sem mira#seduz",
+      "meisterJäger#trafa",
+      "melodoy washed#yas",
+      "otts#1of1",
+      "tequila#237"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Ascent": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Corrode (Summit)": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "unicamp_tritons_black",
+    "teamName": "UNICAMP TRITONS BLACK",
+    "matchesPlayed": 12,
+    "matchesWon": 4,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 237,
+    "roundsWon": 115,
+    "roundWinRate": 48.5,
+    "attackWinRate": 45.2,
+    "defenseWinRate": 52.2,
+    "pistolWinRate": 54.2,
+    "firstKills": 103,
+    "firstDeaths": 134,
+    "firstKillRate": 43.5,
+    "conversion5v4Rate": 73.8,
+    "comeback4v5Rate": 29.1,
+    "totalKills": 821,
+    "totalDeaths": 854,
+    "teamKd": 0.96,
+    "tradeKills": 158,
+    "tradedDeaths": 169,
+    "tradedDeathRate": 19.8,
+    "isolatedDeaths": 194,
+    "isolatedDeathRate": 22.7,
+    "avgNearestAllyDistOnDeathMeters": 16.0,
+    "postRoundSavedWeaponDeaths": 45,
+    "antiEcoThrows": 1,
+    "thriftyWins": 2,
+    "plants": 85,
+    "postPlantWinRate": 64.7,
+    "retakeAttempts": 81,
+    "retakeWinRate": 34.6,
+    "roster": [
+      "BRaim#nala",
+      "Driblas#BRaim",
+      "Driblas#TTS",
+      "Mcripx#0001",
+      "TTS Mv#0611",
+      "Whatsapp#ZAPP",
+      "drs1 rei de itu#banco",
+      "drs1 rei de itu#dela",
+      "grauna#1234",
+      "llenn#TTS",
+      "makola#deft",
+      "pivA#TTS",
+      "É O TAL DO MV#0611"
+    ],
+    "mapsStats": {
+      "Pearl": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Ascent": {
+        "played": 5,
+        "won": 1,
+        "winRate": 20.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "poli_plague",
+    "teamName": "POLI PLAGUE",
+    "matchesPlayed": 11,
+    "matchesWon": 4,
+    "matchWinRate": 36.4,
+    "roundsPlayed": 220,
+    "roundsWon": 88,
+    "roundWinRate": 40.0,
+    "attackWinRate": 38.6,
+    "defenseWinRate": 41.9,
+    "pistolWinRate": 31.8,
+    "firstKills": 90,
+    "firstDeaths": 130,
+    "firstKillRate": 40.9,
+    "conversion5v4Rate": 63.3,
+    "comeback4v5Rate": 23.8,
+    "totalKills": 703,
+    "totalDeaths": 837,
+    "teamKd": 0.84,
+    "tradeKills": 123,
+    "tradedDeaths": 134,
+    "tradedDeathRate": 16.0,
+    "isolatedDeaths": 186,
+    "isolatedDeathRate": 22.2,
+    "avgNearestAllyDistOnDeathMeters": 15.7,
+    "postRoundSavedWeaponDeaths": 26,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 81,
+    "postPlantWinRate": 56.8,
+    "retakeAttempts": 71,
+    "retakeWinRate": 26.8,
+    "roster": [
+      "LoveHatsuneMiku#1111",
+      "Lukako#lucas",
+      "Osíris#Nath",
+      "Vks#bru",
+      "littlecyber#vrum",
+      "ruido#sussy",
+      "ruidow#sussy"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 4,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Pearl": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Lotus": {
+        "played": 5,
+        "won": 3,
+        "winRate": 60.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "caap_momentum",
+    "teamName": "CAAP MOMENTUM",
+    "matchesPlayed": 8,
+    "matchesWon": 4,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 144,
+    "roundsWon": 78,
+    "roundWinRate": 54.2,
+    "attackWinRate": 55.9,
+    "defenseWinRate": 52.9,
+    "pistolWinRate": 50.0,
+    "firstKills": 83,
+    "firstDeaths": 61,
+    "firstKillRate": 57.6,
+    "conversion5v4Rate": 74.7,
+    "comeback4v5Rate": 26.2,
+    "totalKills": 535,
+    "totalDeaths": 478,
+    "teamKd": 1.12,
+    "tradeKills": 82,
+    "tradedDeaths": 94,
+    "tradedDeathRate": 19.7,
+    "isolatedDeaths": 114,
+    "isolatedDeathRate": 23.8,
+    "avgNearestAllyDistOnDeathMeters": 15.5,
+    "postRoundSavedWeaponDeaths": 26,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 42,
+    "postPlantWinRate": 73.8,
+    "retakeAttempts": 53,
+    "retakeWinRate": 28.3,
+    "roster": [
+      "CAAP SUPERPDR1N#manu",
+      "CAAP protanzy42#sobru",
+      "anzy#EBC",
+      "duarteskz#bruna",
+      "klouzz#ezhs",
+      "mist#2706",
+      "ric#kick",
+      "superpdr1n#burn"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Haven": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "pucgo_sistematica",
+    "teamName": "PUCGO SISTEMATICA",
+    "matchesPlayed": 8,
+    "matchesWon": 4,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 168,
+    "roundsWon": 79,
+    "roundWinRate": 47.0,
+    "attackWinRate": 59.5,
+    "defenseWinRate": 37.2,
+    "pistolWinRate": 43.8,
+    "firstKills": 79,
+    "firstDeaths": 89,
+    "firstKillRate": 47.0,
+    "conversion5v4Rate": 70.9,
+    "comeback4v5Rate": 25.8,
+    "totalKills": 582,
+    "totalDeaths": 638,
+    "teamKd": 0.91,
+    "tradeKills": 116,
+    "tradedDeaths": 122,
+    "tradedDeathRate": 19.1,
+    "isolatedDeaths": 172,
+    "isolatedDeathRate": 27.0,
+    "avgNearestAllyDistOnDeathMeters": 18.2,
+    "postRoundSavedWeaponDeaths": 9,
+    "antiEcoThrows": 2,
+    "thriftyWins": 0,
+    "plants": 56,
+    "postPlantWinRate": 75.0,
+    "retakeAttempts": 76,
+    "retakeWinRate": 25.0,
+    "roster": [
+      "DiZin#dzin",
+      "DiZinOnFire#dzin",
+      "Lzおあ#0001",
+      "Não é o Gui krl#777",
+      "Verts#FFF",
+      "darkzin 影#DARK",
+      "demon lz#fbl",
+      "lou#PEDRO"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "fametro_berserkers",
+    "teamName": "FAMETRO BERSERKERS",
+    "matchesPlayed": 5,
+    "matchesWon": 3,
+    "matchWinRate": 60.0,
+    "roundsPlayed": 98,
+    "roundsWon": 58,
+    "roundWinRate": 59.2,
+    "attackWinRate": 58.5,
+    "defenseWinRate": 59.6,
+    "pistolWinRate": 50.0,
+    "firstKills": 60,
+    "firstDeaths": 38,
+    "firstKillRate": 61.2,
+    "conversion5v4Rate": 75.0,
+    "comeback4v5Rate": 34.2,
+    "totalKills": 373,
+    "totalDeaths": 325,
+    "teamKd": 1.15,
+    "tradeKills": 62,
+    "tradedDeaths": 74,
+    "tradedDeathRate": 22.8,
+    "isolatedDeaths": 92,
+    "isolatedDeathRate": 28.3,
+    "avgNearestAllyDistOnDeathMeters": 18.3,
+    "postRoundSavedWeaponDeaths": 15,
+    "antiEcoThrows": 0,
+    "thriftyWins": 2,
+    "plants": 33,
+    "postPlantWinRate": 72.7,
+    "retakeAttempts": 40,
+    "retakeWinRate": 42.5,
+    "roster": [
+      "MRK#MAO",
+      "Targ1no 神#092",
+      "mindos 22#astr0",
+      "mrn777#092",
+      "neguzera69#aura",
+      "suino#02812"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 4,
+        "won": 3,
+        "winRate": 75.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufu_saints_auryn",
+    "teamName": "UFU SAINTS AURYN",
+    "matchesPlayed": 6,
+    "matchesWon": 2,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 103,
+    "roundsWon": 38,
+    "roundWinRate": 36.9,
+    "attackWinRate": 35.7,
+    "defenseWinRate": 39.4,
+    "pistolWinRate": 41.7,
+    "firstKills": 44,
+    "firstDeaths": 59,
+    "firstKillRate": 42.7,
+    "conversion5v4Rate": 68.2,
+    "comeback4v5Rate": 13.6,
+    "totalKills": 315,
+    "totalDeaths": 407,
+    "teamKd": 0.77,
+    "tradeKills": 53,
+    "tradedDeaths": 60,
+    "tradedDeathRate": 14.7,
+    "isolatedDeaths": 89,
+    "isolatedDeathRate": 21.9,
+    "avgNearestAllyDistOnDeathMeters": 15.1,
+    "postRoundSavedWeaponDeaths": 8,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 34,
+    "postPlantWinRate": 70.6,
+    "retakeAttempts": 24,
+    "retakeWinRate": 16.7,
+    "roster": [
+      "FFS candeLARIa#vlr",
+      "Siren#mehro",
+      "chamuska#σωσ",
+      "fronk#croc",
+      "jettlag#omen",
+      "juju engenheira#glock"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Split": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      }
+    }
+  },
+  {
+    "teamSlug": "fatec_pg",
+    "teamName": "FATEC PG",
+    "matchesPlayed": 6,
+    "matchesWon": 2,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 148,
+    "roundsWon": 73,
+    "roundWinRate": 49.3,
+    "attackWinRate": 44.6,
+    "defenseWinRate": 53.0,
+    "pistolWinRate": 75.0,
+    "firstKills": 72,
+    "firstDeaths": 52,
+    "firstKillRate": 48.6,
+    "conversion5v4Rate": 70.8,
+    "comeback4v5Rate": 19.2,
+    "totalKills": 441,
+    "totalDeaths": 436,
+    "teamKd": 1.01,
+    "tradeKills": 60,
+    "tradedDeaths": 63,
+    "tradedDeathRate": 14.4,
+    "isolatedDeaths": 123,
+    "isolatedDeathRate": 28.2,
+    "avgNearestAllyDistOnDeathMeters": 18.1,
+    "postRoundSavedWeaponDeaths": 26,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 39,
+    "postPlantWinRate": 66.7,
+    "retakeAttempts": 52,
+    "retakeWinRate": 26.9,
+    "roster": [
+      "Ademar Mangueira#3702",
+      "Artzz XD#NTC",
+      "Liquid Amon#NOX",
+      "TTV paivaz01#soph",
+      "katori#kkj",
+      "n0isy 성#1202",
+      "set#ssj",
+      "shisui#mgks"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "unicamp_tritons_red",
+    "teamName": "UNICAMP TRITONS RED",
+    "matchesPlayed": 6,
+    "matchesWon": 2,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 133,
+    "roundsWon": 61,
+    "roundWinRate": 45.9,
+    "attackWinRate": 43.3,
+    "defenseWinRate": 48.5,
+    "pistolWinRate": 33.3,
+    "firstKills": 74,
+    "firstDeaths": 59,
+    "firstKillRate": 55.6,
+    "conversion5v4Rate": 71.6,
+    "comeback4v5Rate": 13.6,
+    "totalKills": 454,
+    "totalDeaths": 485,
+    "teamKd": 0.94,
+    "tradeKills": 72,
+    "tradedDeaths": 79,
+    "tradedDeathRate": 16.3,
+    "isolatedDeaths": 122,
+    "isolatedDeathRate": 25.2,
+    "avgNearestAllyDistOnDeathMeters": 16.2,
+    "postRoundSavedWeaponDeaths": 23,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 44,
+    "postPlantWinRate": 63.6,
+    "retakeAttempts": 54,
+    "retakeWinRate": 37.0,
+    "roster": [
+      "BRaim#nala",
+      "drs1 rei de itu#dela",
+      "goavyy#2022",
+      "makola#deft",
+      "É O TAL DO MV#0611"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 3,
+        "won": 1,
+        "winRate": 33.3
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ibmec_sharks",
+    "teamName": "IBMEC SHARKS",
+    "matchesPlayed": 4,
+    "matchesWon": 2,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 76,
+    "roundsWon": 41,
+    "roundWinRate": 53.9,
+    "attackWinRate": 45.2,
+    "defenseWinRate": 64.7,
+    "pistolWinRate": 62.5,
+    "firstKills": 39,
+    "firstDeaths": 37,
+    "firstKillRate": 51.3,
+    "conversion5v4Rate": 71.8,
+    "comeback4v5Rate": 35.1,
+    "totalKills": 277,
+    "totalDeaths": 275,
+    "teamKd": 1.01,
+    "tradeKills": 51,
+    "tradedDeaths": 55,
+    "tradedDeathRate": 20.0,
+    "isolatedDeaths": 55,
+    "isolatedDeathRate": 20.0,
+    "avgNearestAllyDistOnDeathMeters": 15.0,
+    "postRoundSavedWeaponDeaths": 4,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 30,
+    "postPlantWinRate": 63.3,
+    "retakeAttempts": 15,
+    "retakeWinRate": 26.7,
+    "roster": [
+      "Jannuzz1#malu",
+      "LKzin#LK1",
+      "Mith#Iive",
+      "deiv the kid#Br6",
+      "nao estou xitado#xiter"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufg_eagles",
+    "teamName": "UFG EAGLES",
+    "matchesPlayed": 4,
+    "matchesWon": 2,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 71,
+    "roundsWon": 45,
+    "roundWinRate": 63.4,
+    "attackWinRate": 34.8,
+    "defenseWinRate": 77.1,
+    "pistolWinRate": 87.5,
+    "firstKills": 45,
+    "firstDeaths": 26,
+    "firstKillRate": 63.4,
+    "conversion5v4Rate": 75.6,
+    "comeback4v5Rate": 42.3,
+    "totalKills": 285,
+    "totalDeaths": 208,
+    "teamKd": 1.37,
+    "tradeKills": 28,
+    "tradedDeaths": 29,
+    "tradedDeathRate": 13.9,
+    "isolatedDeaths": 53,
+    "isolatedDeathRate": 25.5,
+    "avgNearestAllyDistOnDeathMeters": 17.9,
+    "postRoundSavedWeaponDeaths": 7,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 14,
+    "postPlantWinRate": 57.1,
+    "retakeAttempts": 23,
+    "retakeWinRate": 52.2,
+    "roster": [
+      "CVN#DALE",
+      "darnubra#BANDO",
+      "docas culture#4i20",
+      "raap#barbs",
+      "reh#reh"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 2,
+        "won": 2,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "macklogic_white",
+    "teamName": "MACKLOGIC WHITE",
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchWinRate": 40.0,
+    "roundsPlayed": 107,
+    "roundsWon": 52,
+    "roundWinRate": 48.6,
+    "attackWinRate": 56.0,
+    "defenseWinRate": 42.1,
+    "pistolWinRate": 30.0,
+    "firstKills": 53,
+    "firstDeaths": 54,
+    "firstKillRate": 49.5,
+    "conversion5v4Rate": 67.9,
+    "comeback4v5Rate": 29.6,
+    "totalKills": 355,
+    "totalDeaths": 405,
+    "teamKd": 0.88,
+    "tradeKills": 70,
+    "tradedDeaths": 77,
+    "tradedDeathRate": 19.0,
+    "isolatedDeaths": 103,
+    "isolatedDeathRate": 25.4,
+    "avgNearestAllyDistOnDeathMeters": 16.8,
+    "postRoundSavedWeaponDeaths": 20,
+    "antiEcoThrows": 0,
+    "thriftyWins": 1,
+    "plants": 40,
+    "postPlantWinRate": 67.5,
+    "retakeAttempts": 46,
+    "retakeWinRate": 30.4,
+    "roster": [
+      "Elden#Rot",
+      "Foca Não#SCCP",
+      "Jungkook#giu",
+      "Leanza#1111",
+      "Lodon6#dumb",
+      "hirama#xoxo",
+      "kpoper maldito#jkook",
+      "neymar 11 goat#NEY",
+      "sqrtl peek#BONK",
+      "zezinhoDasPARTY#1111"
+    ],
+    "mapsStats": {
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      }
+    }
+  },
+  {
+    "teamSlug": "inatel_dois",
+    "teamName": "INATEL DOIS",
+    "matchesPlayed": 8,
+    "matchesWon": 2,
+    "matchWinRate": 25.0,
+    "roundsPlayed": 149,
+    "roundsWon": 63,
+    "roundWinRate": 42.3,
+    "attackWinRate": 51.1,
+    "defenseWinRate": 28.1,
+    "pistolWinRate": 43.8,
+    "firstKills": 70,
+    "firstDeaths": 79,
+    "firstKillRate": 47.0,
+    "conversion5v4Rate": 67.1,
+    "comeback4v5Rate": 20.3,
+    "totalKills": 491,
+    "totalDeaths": 565,
+    "teamKd": 0.87,
+    "tradeKills": 76,
+    "tradedDeaths": 83,
+    "tradedDeathRate": 14.7,
+    "isolatedDeaths": 164,
+    "isolatedDeathRate": 29.0,
+    "avgNearestAllyDistOnDeathMeters": 18.2,
+    "postRoundSavedWeaponDeaths": 6,
+    "antiEcoThrows": 1,
+    "thriftyWins": 2,
+    "plants": 62,
+    "postPlantWinRate": 75.8,
+    "retakeAttempts": 48,
+    "retakeWinRate": 16.7,
+    "roster": [
+      "12 ama o galo#GALO",
+      "JGRB#5926",
+      "Lamine Yamal#AAAA",
+      "Nero#1v5",
+      "Road To Glory#1v5",
+      "TotyZ#Lurke",
+      "sane#imfck",
+      "twelve will win#1212"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Split": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 4,
+        "won": 2,
+        "winRate": 50.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "gambiarra_ufg",
+    "teamName": "GAMBIARRA UFG",
+    "matchesPlayed": 4,
+    "matchesWon": 2,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 80,
+    "roundsWon": 38,
+    "roundWinRate": 47.5,
+    "attackWinRate": 46.9,
+    "defenseWinRate": 47.9,
+    "pistolWinRate": 25.0,
+    "firstKills": 38,
+    "firstDeaths": 42,
+    "firstKillRate": 47.5,
+    "conversion5v4Rate": 76.3,
+    "comeback4v5Rate": 21.4,
+    "totalKills": 263,
+    "totalDeaths": 296,
+    "teamKd": 0.89,
+    "tradeKills": 52,
+    "tradedDeaths": 58,
+    "tradedDeathRate": 19.6,
+    "isolatedDeaths": 81,
+    "isolatedDeathRate": 27.4,
+    "avgNearestAllyDistOnDeathMeters": 17.4,
+    "postRoundSavedWeaponDeaths": 9,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 24,
+    "postPlantWinRate": 62.5,
+    "retakeAttempts": 34,
+    "retakeWinRate": 26.5,
+    "roster": [
+      "Br0sツ#Astra",
+      "Kebi Láo#mtsCM",
+      "a3e3 Kurts#kurts",
+      "balao#777",
+      "suco de gesso 2#jonas"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "brutal_esports",
+    "teamName": "BRUTAL ESPORTS",
+    "matchesPlayed": 4,
+    "matchesWon": 2,
+    "matchWinRate": 50.0,
+    "roundsPlayed": 80,
+    "roundsWon": 38,
+    "roundWinRate": 47.5,
+    "attackWinRate": 46.9,
+    "defenseWinRate": 47.9,
+    "pistolWinRate": 50.0,
+    "firstKills": 38,
+    "firstDeaths": 42,
+    "firstKillRate": 47.5,
+    "conversion5v4Rate": 68.4,
+    "comeback4v5Rate": 28.6,
+    "totalKills": 272,
+    "totalDeaths": 280,
+    "teamKd": 0.97,
+    "tradeKills": 42,
+    "tradedDeaths": 43,
+    "tradedDeathRate": 15.4,
+    "isolatedDeaths": 80,
+    "isolatedDeathRate": 28.6,
+    "avgNearestAllyDistOnDeathMeters": 18.6,
+    "postRoundSavedWeaponDeaths": 12,
+    "antiEcoThrows": 0,
+    "thriftyWins": 1,
+    "plants": 24,
+    "postPlantWinRate": 62.5,
+    "retakeAttempts": 39,
+    "retakeWinRate": 38.5,
+    "roster": [
+      "Dirt#Terra",
+      "Lozartan#GALO",
+      "aiko#kamui",
+      "bmo#JOY",
+      "nw 友#2007"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 3,
+        "won": 2,
+        "winRate": 66.7
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "tigre_branco",
+    "teamName": "TIGRE BRANCO",
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 74,
+    "roundsWon": 34,
+    "roundWinRate": 45.9,
+    "attackWinRate": 48.7,
+    "defenseWinRate": 42.9,
+    "pistolWinRate": 50.0,
+    "firstKills": 32,
+    "firstDeaths": 42,
+    "firstKillRate": 43.2,
+    "conversion5v4Rate": 68.8,
+    "comeback4v5Rate": 28.6,
+    "totalKills": 242,
+    "totalDeaths": 284,
+    "teamKd": 0.85,
+    "tradeKills": 40,
+    "tradedDeaths": 43,
+    "tradedDeathRate": 15.1,
+    "isolatedDeaths": 87,
+    "isolatedDeathRate": 30.6,
+    "avgNearestAllyDistOnDeathMeters": 18.4,
+    "postRoundSavedWeaponDeaths": 20,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 27,
+    "postPlantWinRate": 70.4,
+    "retakeAttempts": 29,
+    "retakeWinRate": 31.0,
+    "roster": [
+      "Brandão#smoke",
+      "Gutp#Sayy",
+      "Th7#8504",
+      "World Hold on#XSQDL",
+      "nataN#ntc",
+      "z1n#erig"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "panterao_gaming",
+    "teamName": "PANTERAO GAMING",
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchWinRate": 25.0,
+    "roundsPlayed": 77,
+    "roundsWon": 28,
+    "roundWinRate": 36.4,
+    "attackWinRate": 41.5,
+    "defenseWinRate": 30.6,
+    "pistolWinRate": 37.5,
+    "firstKills": 31,
+    "firstDeaths": 46,
+    "firstKillRate": 40.3,
+    "conversion5v4Rate": 58.1,
+    "comeback4v5Rate": 21.7,
+    "totalKills": 239,
+    "totalDeaths": 307,
+    "teamKd": 0.78,
+    "tradeKills": 39,
+    "tradedDeaths": 47,
+    "tradedDeathRate": 15.3,
+    "isolatedDeaths": 77,
+    "isolatedDeathRate": 25.1,
+    "avgNearestAllyDistOnDeathMeters": 17.8,
+    "postRoundSavedWeaponDeaths": 7,
+    "antiEcoThrows": 1,
+    "thriftyWins": 2,
+    "plants": 27,
+    "postPlantWinRate": 63.0,
+    "retakeAttempts": 33,
+    "retakeWinRate": 27.3,
+    "roster": [
+      "Didado#0208",
+      "ESCkey#OBoss",
+      "Teuzyn o editor#duq",
+      "Teuzyn#day",
+      "Vani#cdtt",
+      "tcguedess#YHWH"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Fracture": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "usp_stars_gc",
+    "teamName": "USP STARS GC",
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 55,
+    "roundsWon": 24,
+    "roundWinRate": 43.6,
+    "attackWinRate": 51.7,
+    "defenseWinRate": 34.6,
+    "pistolWinRate": 50.0,
+    "firstKills": 24,
+    "firstDeaths": 31,
+    "firstKillRate": 43.6,
+    "conversion5v4Rate": 75.0,
+    "comeback4v5Rate": 19.4,
+    "totalKills": 181,
+    "totalDeaths": 201,
+    "teamKd": 0.9,
+    "tradeKills": 28,
+    "tradedDeaths": 32,
+    "tradedDeathRate": 15.9,
+    "isolatedDeaths": 54,
+    "isolatedDeathRate": 26.9,
+    "avgNearestAllyDistOnDeathMeters": 17.2,
+    "postRoundSavedWeaponDeaths": 6,
+    "antiEcoThrows": 0,
+    "thriftyWins": 1,
+    "plants": 20,
+    "postPlantWinRate": 75.0,
+    "retakeAttempts": 21,
+    "retakeWinRate": 19.0,
+    "roster": [
+      "Kelvin#0grau",
+      "Ndmi#n02",
+      "kharuy#8908",
+      "misstressa#1902",
+      "thaly#gus"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "azure_bears_white",
+    "teamName": "AZURE BEARS WHITE",
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 53,
+    "roundsWon": 20,
+    "roundWinRate": 37.7,
+    "attackWinRate": 47.8,
+    "defenseWinRate": 30.0,
+    "pistolWinRate": 33.3,
+    "firstKills": 22,
+    "firstDeaths": 31,
+    "firstKillRate": 41.5,
+    "conversion5v4Rate": 77.3,
+    "comeback4v5Rate": 9.7,
+    "totalKills": 171,
+    "totalDeaths": 208,
+    "teamKd": 0.82,
+    "tradeKills": 29,
+    "tradedDeaths": 32,
+    "tradedDeathRate": 15.4,
+    "isolatedDeaths": 52,
+    "isolatedDeathRate": 25.0,
+    "avgNearestAllyDistOnDeathMeters": 16.2,
+    "postRoundSavedWeaponDeaths": 10,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 18,
+    "postPlantWinRate": 61.1,
+    "retakeAttempts": 25,
+    "retakeWinRate": 20.0,
+    "roster": [
+      "Andronicca#mel",
+      "Maki Zenin 全員#sopa",
+      "ScherBi#Kick",
+      "moonッ#szE",
+      "trix#maa"
+    ],
+    "mapsStats": {
+      "Sunset": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufg_eagles_blue",
+    "teamName": "UFG EAGLES BLUE",
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchWinRate": 20.0,
+    "roundsPlayed": 90,
+    "roundsWon": 35,
+    "roundWinRate": 38.9,
+    "attackWinRate": 44.0,
+    "defenseWinRate": 32.5,
+    "pistolWinRate": 50.0,
+    "firstKills": 47,
+    "firstDeaths": 43,
+    "firstKillRate": 52.2,
+    "conversion5v4Rate": 46.8,
+    "comeback4v5Rate": 30.2,
+    "totalKills": 288,
+    "totalDeaths": 347,
+    "teamKd": 0.83,
+    "tradeKills": 37,
+    "tradedDeaths": 42,
+    "tradedDeathRate": 12.1,
+    "isolatedDeaths": 104,
+    "isolatedDeathRate": 30.0,
+    "avgNearestAllyDistOnDeathMeters": 18.4,
+    "postRoundSavedWeaponDeaths": 4,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 33,
+    "postPlantWinRate": 63.6,
+    "retakeAttempts": 28,
+    "retakeWinRate": 10.7,
+    "roster": [
+      "Fabdgno#Digno",
+      "KADDES#capa",
+      "artsi#anaju",
+      "j3ssax#damn",
+      "llucky#4our",
+      "we cry together#jessa",
+      "yFreakks2#lenza"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "axis_aura",
+    "teamName": "AXIS AURA",
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 58,
+    "roundsWon": 22,
+    "roundWinRate": 37.9,
+    "attackWinRate": 47.2,
+    "defenseWinRate": 22.7,
+    "pistolWinRate": 16.7,
+    "firstKills": 24,
+    "firstDeaths": 34,
+    "firstKillRate": 41.4,
+    "conversion5v4Rate": 54.2,
+    "comeback4v5Rate": 26.5,
+    "totalKills": 181,
+    "totalDeaths": 224,
+    "teamKd": 0.81,
+    "tradeKills": 22,
+    "tradedDeaths": 25,
+    "tradedDeathRate": 11.2,
+    "isolatedDeaths": 73,
+    "isolatedDeathRate": 32.6,
+    "avgNearestAllyDistOnDeathMeters": 17.7,
+    "postRoundSavedWeaponDeaths": 1,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 25,
+    "postPlantWinRate": 64.0,
+    "retakeAttempts": 17,
+    "retakeWinRate": 17.6,
+    "roster": [
+      "Calangod#pora",
+      "Duduka#dudu",
+      "Madrini#MTB",
+      "Nightrise#void",
+      "ySantosz#4406"
+    ],
+    "mapsStats": {
+      "Pearl": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      },
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "azure_bears_silver",
+    "teamName": "AZURE BEARS SILVER",
+    "matchesPlayed": 7,
+    "matchesWon": 1,
+    "matchWinRate": 14.3,
+    "roundsPlayed": 141,
+    "roundsWon": 52,
+    "roundWinRate": 36.9,
+    "attackWinRate": 40.3,
+    "defenseWinRate": 32.8,
+    "pistolWinRate": 50.0,
+    "firstKills": 63,
+    "firstDeaths": 78,
+    "firstKillRate": 44.7,
+    "conversion5v4Rate": 52.4,
+    "comeback4v5Rate": 24.4,
+    "totalKills": 469,
+    "totalDeaths": 560,
+    "teamKd": 0.84,
+    "tradeKills": 85,
+    "tradedDeaths": 94,
+    "tradedDeathRate": 16.8,
+    "isolatedDeaths": 143,
+    "isolatedDeathRate": 25.5,
+    "avgNearestAllyDistOnDeathMeters": 17.4,
+    "postRoundSavedWeaponDeaths": 30,
+    "antiEcoThrows": 2,
+    "thriftyWins": 0,
+    "plants": 47,
+    "postPlantWinRate": 61.7,
+    "retakeAttempts": 51,
+    "retakeWinRate": 21.6,
+    "roster": [
+      "Andronicca#mel",
+      "Rapunzel#ELA",
+      "dvd isnt perfect#yas",
+      "khianh#gabiw",
+      "s kd#alskd",
+      "ÔMEGA 9x90#solo"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Sunset": {
+        "played": 4,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Abyss": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "unifesp_erex",
+    "teamName": "UNIFESP EREX",
+    "matchesPlayed": 7,
+    "matchesWon": 1,
+    "matchWinRate": 14.3,
+    "roundsPlayed": 141,
+    "roundsWon": 52,
+    "roundWinRate": 36.9,
+    "attackWinRate": 42.0,
+    "defenseWinRate": 31.9,
+    "pistolWinRate": 21.4,
+    "firstKills": 63,
+    "firstDeaths": 78,
+    "firstKillRate": 44.7,
+    "conversion5v4Rate": 58.7,
+    "comeback4v5Rate": 19.2,
+    "totalKills": 422,
+    "totalDeaths": 546,
+    "teamKd": 0.77,
+    "tradeKills": 74,
+    "tradedDeaths": 79,
+    "tradedDeathRate": 14.5,
+    "isolatedDeaths": 153,
+    "isolatedDeathRate": 28.0,
+    "avgNearestAllyDistOnDeathMeters": 16.8,
+    "postRoundSavedWeaponDeaths": 20,
+    "antiEcoThrows": 1,
+    "thriftyWins": 1,
+    "plants": 43,
+    "postPlantWinRate": 60.5,
+    "retakeAttempts": 60,
+    "retakeWinRate": 18.3,
+    "roster": [
+      "EUDISPARADO#1337",
+      "Flangø#smoke",
+      "Lica#0664",
+      "VELOSO#EREX",
+      "asca#rss",
+      "happen#vlr",
+      "jordan#6489",
+      "pai#2305"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 4,
+        "won": 1,
+        "winRate": 25.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufmg_fenix_b",
+    "teamName": "UFMG FENIX B",
+    "matchesPlayed": 7,
+    "matchesWon": 1,
+    "matchWinRate": 14.3,
+    "roundsPlayed": 135,
+    "roundsWon": 49,
+    "roundWinRate": 36.3,
+    "attackWinRate": 31.7,
+    "defenseWinRate": 40.0,
+    "pistolWinRate": 50.0,
+    "firstKills": 57,
+    "firstDeaths": 78,
+    "firstKillRate": 42.2,
+    "conversion5v4Rate": 66.7,
+    "comeback4v5Rate": 14.1,
+    "totalKills": 405,
+    "totalDeaths": 524,
+    "teamKd": 0.77,
+    "tradeKills": 74,
+    "tradedDeaths": 79,
+    "tradedDeathRate": 15.1,
+    "isolatedDeaths": 123,
+    "isolatedDeathRate": 23.5,
+    "avgNearestAllyDistOnDeathMeters": 16.5,
+    "postRoundSavedWeaponDeaths": 20,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 29,
+    "postPlantWinRate": 58.6,
+    "retakeAttempts": 65,
+    "retakeWinRate": 32.3,
+    "roster": [
+      "Cientista#5245",
+      "Indra The Runner#237",
+      "Kamachow#5598",
+      "MacMolho#7485",
+      "Sai#237",
+      "Sunny#lola"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 3,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Pearl": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Ascent": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      }
+    }
+  },
+  {
+    "teamSlug": "pucgo_sistematica_academy",
+    "teamName": "PUCGO SISTEMATICA ACADEMY",
+    "matchesPlayed": 6,
+    "matchesWon": 1,
+    "matchWinRate": 16.7,
+    "roundsPlayed": 140,
+    "roundsWon": 60,
+    "roundWinRate": 42.9,
+    "attackWinRate": 45.5,
+    "defenseWinRate": 39.7,
+    "pistolWinRate": 58.3,
+    "firstKills": 59,
+    "firstDeaths": 81,
+    "firstKillRate": 42.1,
+    "conversion5v4Rate": 71.2,
+    "comeback4v5Rate": 22.2,
+    "totalKills": 446,
+    "totalDeaths": 530,
+    "teamKd": 0.84,
+    "tradeKills": 59,
+    "tradedDeaths": 66,
+    "tradedDeathRate": 12.5,
+    "isolatedDeaths": 144,
+    "isolatedDeathRate": 27.2,
+    "avgNearestAllyDistOnDeathMeters": 17.4,
+    "postRoundSavedWeaponDeaths": 35,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 57,
+    "postPlantWinRate": 61.4,
+    "retakeAttempts": 50,
+    "retakeWinRate": 26.0,
+    "roster": [
+      "DAYBREAK#0007",
+      "Dunstere#GIGI",
+      "Hamun#Sarah",
+      "Rudini#MAGIC",
+      "Victhos#77777",
+      "nonimo#Jesus",
+      "zwei#tatu"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 3,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Ascent": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      },
+      "Sunset": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "liga_vulkanica",
+    "teamName": "LIGA VULKANICA",
+    "matchesPlayed": 7,
+    "matchesWon": 1,
+    "matchWinRate": 14.3,
+    "roundsPlayed": 128,
+    "roundsWon": 42,
+    "roundWinRate": 32.8,
+    "attackWinRate": 50.0,
+    "defenseWinRate": 23.8,
+    "pistolWinRate": 57.1,
+    "firstKills": 51,
+    "firstDeaths": 77,
+    "firstKillRate": 39.8,
+    "conversion5v4Rate": 56.9,
+    "comeback4v5Rate": 16.9,
+    "totalKills": 370,
+    "totalDeaths": 501,
+    "teamKd": 0.74,
+    "tradeKills": 56,
+    "tradedDeaths": 64,
+    "tradedDeathRate": 12.8,
+    "isolatedDeaths": 124,
+    "isolatedDeathRate": 24.8,
+    "avgNearestAllyDistOnDeathMeters": 16.8,
+    "postRoundSavedWeaponDeaths": 11,
+    "antiEcoThrows": 2,
+    "thriftyWins": 0,
+    "plants": 33,
+    "postPlantWinRate": 66.7,
+    "retakeAttempts": 74,
+    "retakeWinRate": 17.6,
+    "roster": [
+      "BK 47#PSBK",
+      "LHC JF#Bomda",
+      "LHC Kayto#Kayto",
+      "Lowyu#Kayto",
+      "Mateuspa#3556",
+      "SloW aim#noob1",
+      "the demon bird#noob1"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 6,
+        "won": 1,
+        "winRate": 16.7
+      }
+    }
+  },
+  {
+    "teamSlug": "ufrj_minerva",
+    "teamName": "UFRJ MINERVA",
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 60,
+    "roundsWon": 30,
+    "roundWinRate": 50.0,
+    "attackWinRate": 55.6,
+    "defenseWinRate": 41.7,
+    "pistolWinRate": 33.3,
+    "firstKills": 27,
+    "firstDeaths": 34,
+    "firstKillRate": 45.0,
+    "conversion5v4Rate": 74.1,
+    "comeback4v5Rate": 30.3,
+    "totalKills": 220,
+    "totalDeaths": 211,
+    "teamKd": 1.04,
+    "tradeKills": 28,
+    "tradedDeaths": 31,
+    "tradedDeathRate": 14.7,
+    "isolatedDeaths": 58,
+    "isolatedDeathRate": 27.5,
+    "avgNearestAllyDistOnDeathMeters": 18.4,
+    "postRoundSavedWeaponDeaths": 3,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 31,
+    "postPlantWinRate": 64.5,
+    "retakeAttempts": 21,
+    "retakeWinRate": 38.1,
+    "roster": [
+      "BBL lovers rock#1912",
+      "DG  叶#Deus",
+      "Kozolove#br1",
+      "loverman#yzz",
+      "ブレンノ#jjk"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Abyss": {
+        "played": 2,
+        "won": 1,
+        "winRate": 50.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufu_saints_trigons",
+    "teamName": "UFU SAINTS TRIGONS",
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchWinRate": 33.3,
+    "roundsPlayed": 59,
+    "roundsWon": 23,
+    "roundWinRate": 39.0,
+    "attackWinRate": 53.3,
+    "defenseWinRate": 24.1,
+    "pistolWinRate": 33.3,
+    "firstKills": 32,
+    "firstDeaths": 27,
+    "firstKillRate": 54.2,
+    "conversion5v4Rate": 56.2,
+    "comeback4v5Rate": 18.5,
+    "totalKills": 188,
+    "totalDeaths": 219,
+    "teamKd": 0.86,
+    "tradeKills": 35,
+    "tradedDeaths": 36,
+    "tradedDeathRate": 16.4,
+    "isolatedDeaths": 66,
+    "isolatedDeathRate": 30.1,
+    "avgNearestAllyDistOnDeathMeters": 19.2,
+    "postRoundSavedWeaponDeaths": 11,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 23,
+    "postPlantWinRate": 69.6,
+    "retakeAttempts": 25,
+    "retakeWinRate": 12.0,
+    "roster": [
+      "Athos778#sagaz",
+      "lovers rock#speed",
+      "ppeuz#2109",
+      "trashzerra#1601",
+      "warplane#gsN"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 1,
+        "winRate": 100.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ime_wolves_red",
+    "teamName": "IME WOLVES RED",
+    "matchesPlayed": 4,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 64,
+    "roundsWon": 12,
+    "roundWinRate": 18.8,
+    "attackWinRate": 18.8,
+    "defenseWinRate": 18.8,
+    "pistolWinRate": 25.0,
+    "firstKills": 27,
+    "firstDeaths": 37,
+    "firstKillRate": 42.2,
+    "conversion5v4Rate": 40.7,
+    "comeback4v5Rate": 2.7,
+    "totalKills": 152,
+    "totalDeaths": 281,
+    "teamKd": 0.54,
+    "tradeKills": 22,
+    "tradedDeaths": 27,
+    "tradedDeathRate": 9.6,
+    "isolatedDeaths": 82,
+    "isolatedDeathRate": 29.2,
+    "avgNearestAllyDistOnDeathMeters": 18.1,
+    "postRoundSavedWeaponDeaths": 11,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 8,
+    "postPlantWinRate": 37.5,
+    "retakeAttempts": 42,
+    "retakeWinRate": 7.1,
+    "roster": [
+      "Ayslan loves L#china",
+      "Elph Tcanmar#蓮聖星",
+      "MpaToh#br1",
+      "O CALVINISTA#Tulip",
+      "katsuchi#00001",
+      "kharuy#8908",
+      "kiwi#xyno",
+      "taverz#4129"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Haven": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "octacore_javascript",
+    "teamName": "OCTACORE JAVASCRIPT",
+    "matchesPlayed": 6,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 117,
+    "roundsWon": 39,
+    "roundWinRate": 33.3,
+    "attackWinRate": 21.3,
+    "defenseWinRate": 41.4,
+    "pistolWinRate": 50.0,
+    "firstKills": 43,
+    "firstDeaths": 74,
+    "firstKillRate": 36.8,
+    "conversion5v4Rate": 53.5,
+    "comeback4v5Rate": 21.6,
+    "totalKills": 349,
+    "totalDeaths": 485,
+    "teamKd": 0.72,
+    "tradeKills": 72,
+    "tradedDeaths": 81,
+    "tradedDeathRate": 16.7,
+    "isolatedDeaths": 104,
+    "isolatedDeathRate": 21.4,
+    "avgNearestAllyDistOnDeathMeters": 18.6,
+    "postRoundSavedWeaponDeaths": 12,
+    "antiEcoThrows": 2,
+    "thriftyWins": 0,
+    "plants": 30,
+    "postPlantWinRate": 26.7,
+    "retakeAttempts": 58,
+    "retakeWinRate": 31.0,
+    "roster": [
+      "Ice#20O3",
+      "KNZ#00001",
+      "S E Y P H A#6 9",
+      "Soulless#Only",
+      "Zé Leão#OCTA",
+      "gyukaa#moon"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 3,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 3,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "inatel_gray",
+    "teamName": "INATEL GRAY",
+    "matchesPlayed": 8,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 133,
+    "roundsWon": 29,
+    "roundWinRate": 21.8,
+    "attackWinRate": 23.3,
+    "defenseWinRate": 20.5,
+    "pistolWinRate": 31.2,
+    "firstKills": 48,
+    "firstDeaths": 85,
+    "firstKillRate": 36.1,
+    "conversion5v4Rate": 45.8,
+    "comeback4v5Rate": 8.2,
+    "totalKills": 312,
+    "totalDeaths": 581,
+    "teamKd": 0.54,
+    "tradeKills": 52,
+    "tradedDeaths": 56,
+    "tradedDeathRate": 9.6,
+    "isolatedDeaths": 159,
+    "isolatedDeathRate": 27.4,
+    "avgNearestAllyDistOnDeathMeters": 17.1,
+    "postRoundSavedWeaponDeaths": 10,
+    "antiEcoThrows": 1,
+    "thriftyWins": 0,
+    "plants": 29,
+    "postPlantWinRate": 41.4,
+    "retakeAttempts": 64,
+    "retakeWinRate": 12.5,
+    "roster": [
+      "INTL Juh#Kauan",
+      "INTL chica#dan",
+      "INTL chica#ppl",
+      "INTL kyria#9245",
+      "INTL mile#zords",
+      "INTL tambaqui#math",
+      "LUMBRIGA#wlw",
+      "catdrug#077",
+      "lost#cega"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Breeze": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Ascent": {
+        "played": 3,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "pucc_canaries",
+    "teamName": "PUCC CANARIES",
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 43,
+    "roundsWon": 17,
+    "roundWinRate": 39.5,
+    "attackWinRate": 38.1,
+    "defenseWinRate": 40.9,
+    "pistolWinRate": 25.0,
+    "firstKills": 17,
+    "firstDeaths": 26,
+    "firstKillRate": 39.5,
+    "conversion5v4Rate": 70.6,
+    "comeback4v5Rate": 19.2,
+    "totalKills": 141,
+    "totalDeaths": 169,
+    "teamKd": 0.83,
+    "tradeKills": 26,
+    "tradedDeaths": 27,
+    "tradedDeathRate": 16.0,
+    "isolatedDeaths": 47,
+    "isolatedDeathRate": 27.8,
+    "avgNearestAllyDistOnDeathMeters": 17.8,
+    "postRoundSavedWeaponDeaths": 6,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 15,
+    "postPlantWinRate": 53.3,
+    "retakeAttempts": 17,
+    "retakeWinRate": 23.5,
+    "roster": [
+      "Crystallinee#br1",
+      "MMZ Larissinha#036",
+      "azitromicina#0033",
+      "honeymoon#tmsz",
+      "madu#1104",
+      "raye#90210"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "homem_passaro",
+    "teamName": "HOMEM PASSARO",
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 33,
+    "roundsWon": 7,
+    "roundWinRate": 21.2,
+    "attackWinRate": 15.0,
+    "defenseWinRate": 30.8,
+    "pistolWinRate": 50.0,
+    "firstKills": 10,
+    "firstDeaths": 23,
+    "firstKillRate": 30.3,
+    "conversion5v4Rate": 50.0,
+    "comeback4v5Rate": 8.7,
+    "totalKills": 74,
+    "totalDeaths": 146,
+    "teamKd": 0.51,
+    "tradeKills": 16,
+    "tradedDeaths": 16,
+    "tradedDeathRate": 11.0,
+    "isolatedDeaths": 35,
+    "isolatedDeathRate": 24.0,
+    "avgNearestAllyDistOnDeathMeters": 16.5,
+    "postRoundSavedWeaponDeaths": 2,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 9,
+    "postPlantWinRate": 33.3,
+    "retakeAttempts": 10,
+    "retakeWinRate": 20.0,
+    "roster": [
+      "dexter morgan#cami",
+      "dybala 021#mzn",
+      "letz#piuz",
+      "stit#1000",
+      "washed#1407"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "ufg_gc_eagles",
+    "teamName": "UFG GC EAGLES",
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 26,
+    "roundsWon": 0,
+    "roundWinRate": 0.0,
+    "attackWinRate": 0.0,
+    "defenseWinRate": 0.0,
+    "pistolWinRate": 0.0,
+    "firstKills": 6,
+    "firstDeaths": 20,
+    "firstKillRate": 23.1,
+    "conversion5v4Rate": 0.0,
+    "comeback4v5Rate": 0.0,
+    "totalKills": 37,
+    "totalDeaths": 130,
+    "teamKd": 0.28,
+    "tradeKills": 10,
+    "tradedDeaths": 11,
+    "tradedDeathRate": 8.5,
+    "isolatedDeaths": 37,
+    "isolatedDeathRate": 28.5,
+    "avgNearestAllyDistOnDeathMeters": 17.5,
+    "postRoundSavedWeaponDeaths": 0,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 2,
+    "postPlantWinRate": 0.0,
+    "retakeAttempts": 12,
+    "retakeWinRate": 0.0,
+    "roster": [
+      "CherryX#1601",
+      "Pferes#02090",
+      "VuiCiK#SnOw",
+      "ajaxy#nerd",
+      "akzinha#linda",
+      "clara em neve#ana"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 2,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "gdu_ufpb",
+    "teamName": "GDU UFPB",
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 17,
+    "roundsWon": 4,
+    "roundWinRate": 23.5,
+    "attackWinRate": 25.0,
+    "defenseWinRate": 20.0,
+    "pistolWinRate": 100.0,
+    "firstKills": 9,
+    "firstDeaths": 8,
+    "firstKillRate": 52.9,
+    "conversion5v4Rate": 44.4,
+    "comeback4v5Rate": 0.0,
+    "totalKills": 54,
+    "totalDeaths": 75,
+    "teamKd": 0.72,
+    "tradeKills": 12,
+    "tradedDeaths": 11,
+    "tradedDeathRate": 14.7,
+    "isolatedDeaths": 15,
+    "isolatedDeathRate": 20.0,
+    "avgNearestAllyDistOnDeathMeters": 15.4,
+    "postRoundSavedWeaponDeaths": 0,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 7,
+    "postPlantWinRate": 42.9,
+    "retakeAttempts": 3,
+    "retakeWinRate": 0.0,
+    "roster": [
+      "Bad Rez#JINX",
+      "MEU IOIÔ#uibou",
+      "Xing RAX#CLARA",
+      "romedes#br1",
+      "šŁg シ#slg00"
+    ],
+    "mapsStats": {
+      "Split": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "rahnag",
+    "teamName": "RAHNAG",
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 16,
+    "roundsWon": 3,
+    "roundWinRate": 18.8,
+    "attackWinRate": 25.0,
+    "defenseWinRate": 0.0,
+    "pistolWinRate": 0.0,
+    "firstKills": 4,
+    "firstDeaths": 12,
+    "firstKillRate": 25.0,
+    "conversion5v4Rate": 75.0,
+    "comeback4v5Rate": 0.0,
+    "totalKills": 26,
+    "totalDeaths": 75,
+    "teamKd": 0.35,
+    "tradeKills": 6,
+    "tradedDeaths": 7,
+    "tradedDeathRate": 9.3,
+    "isolatedDeaths": 21,
+    "isolatedDeathRate": 28.0,
+    "avgNearestAllyDistOnDeathMeters": 18.0,
+    "postRoundSavedWeaponDeaths": 3,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 7,
+    "postPlantWinRate": 42.9,
+    "retakeAttempts": 4,
+    "retakeWinRate": 0.0,
+    "roster": [
+      "Cabeça ツ#BR01",
+      "Triplo#AAA",
+      "miojo  XTRANHO#GOTIK",
+      "p2c#jubs",
+      "qweqawq#11111"
+    ],
+    "mapsStats": {
+      "Ascent": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "unirio_krakens",
+    "teamName": "UNIRIO KRAKENS",
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 33,
+    "roundsWon": 7,
+    "roundWinRate": 21.2,
+    "attackWinRate": 25.0,
+    "defenseWinRate": 17.6,
+    "pistolWinRate": 50.0,
+    "firstKills": 11,
+    "firstDeaths": 23,
+    "firstKillRate": 33.3,
+    "conversion5v4Rate": 36.4,
+    "comeback4v5Rate": 13.6,
+    "totalKills": 77,
+    "totalDeaths": 151,
+    "teamKd": 0.51,
+    "tradeKills": 15,
+    "tradedDeaths": 16,
+    "tradedDeathRate": 10.6,
+    "isolatedDeaths": 33,
+    "isolatedDeathRate": 21.9,
+    "avgNearestAllyDistOnDeathMeters": 19.0,
+    "postRoundSavedWeaponDeaths": 7,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 7,
+    "postPlantWinRate": 57.1,
+    "retakeAttempts": 17,
+    "retakeWinRate": 17.6,
+    "roster": [
+      "KRK Camlui12#IMH",
+      "KRK LT#fogo",
+      "KRK Lucky#Bel",
+      "KRK сатюяо#ntc",
+      "KRK 天鎖斬月#Laufy"
+    ],
+    "mapsStats": {
+      "Abyss": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      },
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "sistematica_unievangelica",
+    "teamName": "SISTEMATICA UNIEVANGELICA",
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 21,
+    "roundsWon": 8,
+    "roundWinRate": 38.1,
+    "attackWinRate": 25.0,
+    "defenseWinRate": 55.6,
+    "pistolWinRate": 0.0,
+    "firstKills": 12,
+    "firstDeaths": 9,
+    "firstKillRate": 57.1,
+    "conversion5v4Rate": 66.7,
+    "comeback4v5Rate": 0.0,
+    "totalKills": 63,
+    "totalDeaths": 81,
+    "teamKd": 0.78,
+    "tradeKills": 14,
+    "tradedDeaths": 14,
+    "tradedDeathRate": 17.3,
+    "isolatedDeaths": 16,
+    "isolatedDeathRate": 19.8,
+    "avgNearestAllyDistOnDeathMeters": 15.3,
+    "postRoundSavedWeaponDeaths": 4,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 7,
+    "postPlantWinRate": 42.9,
+    "retakeAttempts": 6,
+    "retakeWinRate": 33.3,
+    "roster": [
+      "JF冷殺手#3110",
+      "Joji#barca",
+      "enzokawai#solo",
+      "mattheex#3107",
+      "prido1227#duda"
+    ],
+    "mapsStats": {
+      "Lotus": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "sheriff_iff",
+    "teamName": "SHERIFF IFF",
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 16,
+    "roundsWon": 3,
+    "roundWinRate": 18.8,
+    "attackWinRate": 0.0,
+    "defenseWinRate": 25.0,
+    "pistolWinRate": 0.0,
+    "firstKills": 6,
+    "firstDeaths": 10,
+    "firstKillRate": 37.5,
+    "conversion5v4Rate": 33.3,
+    "comeback4v5Rate": 10.0,
+    "totalKills": 47,
+    "totalDeaths": 67,
+    "teamKd": 0.7,
+    "tradeKills": 4,
+    "tradedDeaths": 5,
+    "tradedDeathRate": 7.5,
+    "isolatedDeaths": 18,
+    "isolatedDeathRate": 26.9,
+    "avgNearestAllyDistOnDeathMeters": 18.3,
+    "postRoundSavedWeaponDeaths": 0,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 2,
+    "postPlantWinRate": 0.0,
+    "retakeAttempts": 11,
+    "retakeWinRate": 18.2,
+    "roster": [
+      "Eraj#001",
+      "Fael#Love",
+      "aQc#0000",
+      "lucKZin#KLZ",
+      "rahg#Jesus"
+    ],
+    "mapsStats": {
+      "Haven": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  },
+  {
+    "teamSlug": "nox_unievangelica",
+    "teamName": "NOX UNIEVANGELICA",
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchWinRate": 0.0,
+    "roundsPlayed": 14,
+    "roundsWon": 1,
+    "roundWinRate": 7.1,
+    "attackWinRate": 8.3,
+    "defenseWinRate": 0.0,
+    "pistolWinRate": 0.0,
+    "firstKills": 4,
+    "firstDeaths": 10,
+    "firstKillRate": 28.6,
+    "conversion5v4Rate": 25.0,
+    "comeback4v5Rate": 0.0,
+    "totalKills": 32,
+    "totalDeaths": 68,
+    "teamKd": 0.47,
+    "tradeKills": 8,
+    "tradedDeaths": 8,
+    "tradedDeathRate": 11.8,
+    "isolatedDeaths": 13,
+    "isolatedDeathRate": 19.1,
+    "avgNearestAllyDistOnDeathMeters": 17.0,
+    "postRoundSavedWeaponDeaths": 2,
+    "antiEcoThrows": 0,
+    "thriftyWins": 0,
+    "plants": 5,
+    "postPlantWinRate": 20.0,
+    "retakeAttempts": 1,
+    "retakeWinRate": 0.0,
+    "roster": [
+      "Nyolzheimer#2460",
+      "PLUKAS#2025",
+      "Yuuketts#Furry",
+      "eddyflickzx#swagg",
+      "sonoflickzx#wind"
+    ],
+    "mapsStats": {
+      "Sunset": {
+        "played": 1,
+        "won": 0,
+        "winRate": 0.0
+      }
+    }
+  }
+]
