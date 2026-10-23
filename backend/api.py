@@ -5,7 +5,6 @@ from typing import Optional
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
-# Garante que a raiz do projeto esteja no sys.path para importar database.loader
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT_DIR not in sys.path:
     sys.path.insert(0, ROOT_DIR)
@@ -26,15 +25,62 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Cache em memória para respostas instantâneas
 CACHE = {}
+
+ROLE_WEIGHTS = {
+    "Duelista": {
+        "combate": 3.0,
+        "dano": 2.5,
+        "agressividade": 2.0,
+        "mira": 1.5,
+        "consistencia": 0.5,
+        "suporte": 0.5,
+        "focus": "Se não der dano e não buscar o primeiro abate, a nota despenca. Suporte quase não importa.",
+    },
+    "Iniciador": {
+        "suporte": 3.0,
+        "consistencia": 2.0,
+        "dano": 2.0,
+        "combate": 1.5,
+        "mira": 1.0,
+        "agressividade": 0.5,
+        "focus": "É obrigado a acumular assistências e facilitar a entrada dos duelistas.",
+    },
+    "Controlador": {
+        "consistencia": 3.0,
+        "suporte": 2.0,
+        "mira": 2.0,
+        "combate": 1.5,
+        "dano": 1.0,
+        "agressividade": 0.5,
+        "focus": "Morrer cedo é pecado grave. Valoriza fumaças cirúrgicas e ficar vivo até o final do round para manter o controle do mapa.",
+    },
+    "Sentinela": {
+        "consistencia": 3.5,
+        "mira": 2.5,
+        "combate": 1.5,
+        "dano": 1.5,
+        "suporte": 1.0,
+        "agressividade": 0.0,
+        "focus": "Jogo frio. Não é penalizado por ter 0 de Agressividade (FK). O foco é travar o bomb e punir o avanço inimigo.",
+    },
+}
 
 
 def clamp_score(val: float) -> float:
     return round(max(0.0, min(100.0, val)), 1)
 
 
-def compute_hexagon(acs: float, kast_pct: float, hs_pct: float, first_kills: int, adr: float, assists: int, rounds_played: int) -> dict:
+def compute_hexagon(
+    acs: float,
+    kast_pct: float,
+    hs_pct: float,
+    first_kills: int,
+    adr: float,
+    assists: int,
+    rounds_played: int,
+    role: str = "Flex",
+) -> dict:
     rp = max(1, rounds_played)
     combate = clamp_score(acs / 3.0)
     consistencia = clamp_score(kast_pct * 1.1)
@@ -42,7 +88,35 @@ def compute_hexagon(acs: float, kast_pct: float, hs_pct: float, first_kills: int
     agressividade = clamp_score((first_kills / rp) * 450.0)
     dano = clamp_score(adr / 1.7)
     suporte = clamp_score((assists / rp) * 200.0)
-    overall = round((combate + consistencia + mira + agressividade + dano + suporte) / 6.0, 1)
+
+    w = ROLE_WEIGHTS.get(role)
+    if w:
+        overall = round(
+            (
+                combate * w["combate"]
+                + consistencia * w["consistencia"]
+                + mira * w["mira"]
+                + agressividade * w["agressividade"]
+                + dano * w["dano"]
+                + suporte * w["suporte"]
+            )
+            / 10.0,
+            1,
+        )
+        weights_dict = {k: v for k, v in w.items() if k != "focus"}
+        focus_text = w["focus"]
+    else:
+        overall = round((combate + consistencia + mira + agressividade + dano + suporte) / 6.0, 1)
+        weights_dict = {
+            "combate": 1.67,
+            "consistencia": 1.67,
+            "mira": 1.67,
+            "agressividade": 1.67,
+            "dano": 1.67,
+            "suporte": 1.67,
+        }
+        focus_text = "Equilíbrio versátil entre todas as funções táticas."
+
     return {
         "combate": combate,
         "consistencia": consistencia,
@@ -51,6 +125,9 @@ def compute_hexagon(acs: float, kast_pct: float, hs_pct: float, first_kills: int
         "dano": dano,
         "suporte": suporte,
         "overall": overall,
+        "role": role,
+        "weights": weights_dict,
+        "focus": focus_text,
     }
 
 
@@ -67,10 +144,8 @@ def load_cache():
 
 
 def generate_team_coaching_feedback(team: dict, roster_stats: list, synergy: list, econ_stats: dict) -> list:
-    """Gera insights automáticos de coaching baseados nos 3 pilares do projeto."""
     feedback = []
 
-    # 1. Frente 1: Engajamento, First Kill, Trades e Espaçamento
     conv_5v4 = team.get("conversion5v4Rate", 0)
     fk_rate = team.get("firstKillRate", 0)
     iso_rate = team.get("isolatedDeathRate", 0)
@@ -108,7 +183,6 @@ def generate_team_coaching_feedback(team: dict, roster_stats: list, synergy: lis
             "description": f"A equipe joga próxima (distância média de {team.get('avgNearestAllyDistOnDeathMeters', 0)}m do aliado na morte) e mantém {100 - iso_rate:.1f}% das mortes dentro de zona de suporte."
         })
 
-    # 2. Frente 2: Termômetro de Economia
     saved_deaths = team.get("postRoundSavedWeaponDeaths", 0)
     anti_eco_throws = team.get("antiEcoThrows", 0)
     thrifty_wins = team.get("thriftyWins", 0)
@@ -124,7 +198,6 @@ def generate_team_coaching_feedback(team: dict, roster_stats: list, synergy: lis
             ),
         })
 
-    # 3. Frente 3: Impacto Invisível (Habilidades, Dano de Suporte e Sinergia)
     if roster_stats:
         top_support = max(roster_stats, key=lambda x: x["supportDamageTotal"])
         top_caster = max(roster_stats, key=lambda x: x["castsPerRound"])
@@ -190,7 +263,6 @@ def get_team_detail(team_slug: str):
     if not team:
         raise HTTPException(status_code=404, detail=f"Equipe '{team_slug}' não encontrada")
 
-    # Filtra atuações dos jogadores especificamente por esta equipe
     mp_rows = [r for r in CACHE["match_players"] if r["teamSlug"] == ts]
     p_agg = defaultdict(lambda: {
         "puuid": "",
@@ -261,7 +333,8 @@ def get_team_detail(team_slug: str):
         adr_val = round(p["adrSum"] / rp, 1)
         hs_val = round((p["headshots"] / shots) * 100.0, 1) if shots > 0 else 0.0
         kast_val = round((p["kastRounds"] / rp) * 100.0, 1)
-        hex_val = compute_hexagon(acs_val, kast_val, hs_val, p["firstKills"], adr_val, p["assists"], rp)
+        role_val = p["roles"].most_common(1)[0][0] if p["roles"] else "Flex"
+        hex_val = compute_hexagon(acs_val, kast_val, hs_val, p["firstKills"], adr_val, p["assists"], rp, role_val)
         roster_stats.append({
             "puuid": puuid,
             "gameName": p["gameName"],
@@ -270,7 +343,7 @@ def get_team_detail(team_slug: str):
             "matchesPlayed": p["matchesPlayed"],
             "roundsPlayed": p["roundsPlayed"],
             "topAgent": p["agents"].most_common(1)[0][0] if p["agents"] else "",
-            "topRole": p["roles"].most_common(1)[0][0] if p["roles"] else "",
+            "topRole": role_val,
             "agentsPool": dict(p["agents"]),
             "kills": p["kills"],
             "deaths": p["deaths"],
@@ -295,9 +368,8 @@ def get_team_detail(team_slug: str):
             "castsPerRound": round(p["totalAbilityCasts"] / rp, 2),
         })
 
-    roster_stats.sort(key=lambda x: x["acs"], reverse=True)
+    roster_stats.sort(key=lambda x: x["hexagon"]["overall"], reverse=True)
 
-    # Economia por tipo de compra
     team_rounds = [
         r for r in CACHE["rounds"]
         if r["redTeamSlug"] == ts or r["blueTeamSlug"] == ts
