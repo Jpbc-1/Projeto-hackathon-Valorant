@@ -115,6 +115,30 @@ def classify_team_buy(avg_loadout, round_num):
     return "Full-Buy (Armado)"
 
 
+def clamp_score(val):
+    return round(max(0.0, min(100.0, val)), 1)
+
+
+def compute_hexagon(acs, kast_pct, hs_pct, first_kills, adr, assists, rounds_played):
+    rp = max(1, rounds_played)
+    combate = clamp_score(acs / 3.0)
+    consistencia = clamp_score(kast_pct * 1.1)
+    mira = clamp_score(hs_pct * 2.5)
+    agressividade = clamp_score((first_kills / rp) * 450.0)
+    dano = clamp_score(adr / 1.7)
+    suporte = clamp_score((assists / rp) * 200.0)
+    overall = round((combate + consistencia + mira + agressividade + dano + suporte) / 6.0, 1)
+    return {
+        "combate": combate,
+        "consistencia": consistencia,
+        "mira": mira,
+        "agressividade": agressividade,
+        "dano": dano,
+        "suporte": suporte,
+        "overall": overall,
+    }
+
+
 def get_attacker_team(round_num):
     """
     No VALORANT padrão:
@@ -238,6 +262,7 @@ def main():
         "postRoundDeaths": 0,
         "supportDamageRounds": 0,  # Rounds em que causou >=50 dano sem pegar a kill e o alvo morreu
         "supportDamageTotal": 0,
+        "kastRounds": 0,
         "grenadeCasts": 0,
         "ability1Casts": 0,
         "ability2Casts": 0,
@@ -348,6 +373,7 @@ def main():
                 "legshots": 0,
                 "supportDamageTotal": 0,
                 "supportDamageRounds": 0,
+                "kastRounds": 0,
                 "totalSpent": 0,
                 "totalLoadoutValue": 0,
             }
@@ -470,6 +496,10 @@ def main():
             elif r_result == "Bomb defused" and defuse_time > 0:
                 objective_end_ms = defuse_time
 
+            round_killers_set = set()
+            round_assisters_set = set()
+            round_traded_victims_set = set()
+
             for idx, k in enumerate(round_kills_raw):
                 k_time = k.get("timeSinceRoundStartMillis", 0) or 0
                 killer = k.get("killer", "")
@@ -520,6 +550,7 @@ def main():
                     killer_info["tradeKills"] += 1
                     team_agg[killer_info["teamSlug"]]["tradeKills"] += 1
                 if was_traded:
+                    round_traded_victims_set.add(victim)
                     victim_info["tradedDeaths"] += 1
                     team_agg[victim_info["teamSlug"]]["tradedDeaths"] += 1
                     if traded_by_puuid in players_in_match and traded_by_puuid != victim:
@@ -576,9 +607,11 @@ def main():
                 weapon_used_name = w_lookup["name"]
                 player_agg[killer]["weaponsKills"][weapon_used_name] += 1
 
-                # Contabiliza sinergia de assistências
+                # Contabiliza sinergia de assistências e KAST no round
+                round_killers_set.add(killer)
                 assistants = [a for a in k.get("assistants", []) if a in players_in_match]
                 for a_puuid in assistants:
+                    round_assisters_set.add(a_puuid)
                     if players_in_match[a_puuid]["teamColor"] == k_color and a_puuid != killer:
                         p1, p2 = sorted([killer, a_puuid])
                         syn_key = (killer_info["teamSlug"], p1, p2)
@@ -619,6 +652,17 @@ def main():
                     "victimY": vy,
                     "assistantsCount": len(assistants),
                 })
+
+            # Contabiliza KAST do round para todos os 10 jogadores (Kill, Assist, Survived ou Traded)
+            for p_uuid, p_obj in players_in_match.items():
+                survived_round = (p_uuid not in victims_killer)
+                if (
+                    p_uuid in round_killers_set
+                    or p_uuid in round_assisters_set
+                    or survived_round
+                    or p_uuid in round_traded_victims_set
+                ):
+                    p_obj["kastRounds"] += 1
 
             # Classificação econômica do round por equipe
             red_avg_loadout = round(team_loadout["Red"] / 5.0, 0)
@@ -724,6 +768,8 @@ def main():
             acs = round(score / r_played, 1) if r_played > 0 else 0.0
             adr = round(p_info["totalDamage"] / r_played, 1) if r_played > 0 else 0.0
             kd = round(kills / max(1, deaths), 2)
+            kast_pct = round((p_info["kastRounds"] / r_played) * 100.0, 1) if r_played > 0 else 0.0
+            hex_stats = compute_hexagon(acs, kast_pct, hs_pct, p_info["firstKills"], adr, assists, r_played)
             avg_ally_dist_m = (
                 round((p_info["sumAllyDistOnDeath"] / p_info["deathsWithAllyCount"]) / 100.0, 1)
                 if p_info["deathsWithAllyCount"] > 0
@@ -755,7 +801,10 @@ def main():
                 "kdRatio": kd,
                 "acs": acs,
                 "adr": adr,
+                "kastRounds": p_info["kastRounds"],
+                "kastPercent": kast_pct,
                 "hsPercent": hs_pct,
+                "hexagon": hex_stats,
                 "headshots": p_info["headshots"],
                 "bodyshots": p_info["bodyshots"],
                 "legshots": p_info["legshots"],
@@ -808,6 +857,7 @@ def main():
             pa["postRoundDeaths"] += p_info["postRoundDeaths"]
             pa["supportDamageRounds"] += p_info["supportDamageRounds"]
             pa["supportDamageTotal"] += p_info["supportDamageTotal"]
+            pa["kastRounds"] += p_info["kastRounds"]
             pa["grenadeCasts"] += g_casts
             pa["ability1Casts"] += a1_casts
             pa["ability2Casts"] += a2_casts
@@ -915,6 +965,12 @@ def main():
         top_weapon = pa["weaponsKills"].most_common(1)[0][0] if pa["weaponsKills"] else ""
         total_casts = pa["grenadeCasts"] + pa["ability1Casts"] + pa["ability2Casts"] + pa["ultimateCasts"]
 
+        acs_val = round(pa["score"] / r_played, 1)
+        adr_val = round(pa["totalDamage"] / r_played, 1)
+        hs_val = round((pa["headshots"] / total_shots) * 100.0, 1) if total_shots > 0 else 0.0
+        kast_val = round((pa["kastRounds"] / r_played) * 100.0, 1)
+        hex_val = compute_hexagon(acs_val, kast_val, hs_val, pa["firstKills"], adr_val, pa["assists"], r_played)
+
         players_summary.append({
             "puuid": puuid,
             "gameName": pa["gameName"],
@@ -933,9 +989,12 @@ def main():
             "deaths": pa["deaths"],
             "assists": pa["assists"],
             "kdRatio": round(pa["kills"] / deaths, 2),
-            "acs": round(pa["score"] / r_played, 1),
-            "adr": round(pa["totalDamage"] / r_played, 1),
-            "hsPercent": round((pa["headshots"] / total_shots) * 100.0, 1) if total_shots > 0 else 0.0,
+            "acs": acs_val,
+            "adr": adr_val,
+            "kastRounds": pa["kastRounds"],
+            "kastPercent": kast_val,
+            "hsPercent": hs_val,
+            "hexagon": hex_val,
             "firstKills": pa["firstKills"],
             "firstDeaths": pa["firstDeaths"],
             "firstKillDiff": pa["firstKills"] - pa["firstDeaths"],
@@ -997,7 +1056,10 @@ def main():
             {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v) for k, v in row.items()}
             for row in players_summary
         ]),
-        ("match_players.csv", match_players_list),
+        ("match_players.csv", [
+            {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v) for k, v in row.items()}
+            for row in match_players_list
+        ]),
         ("rounds.csv", rounds_list),
         ("kills_tactical.csv", kills_tactical_list),
         ("synergy_pairs.csv", synergy_list),
@@ -1026,7 +1088,10 @@ def main():
             {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v) for k, v in row.items()}
             for row in players_summary
         ]),
-        ("match_players", match_players_list),
+        ("match_players", [
+            {k: (json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v) for k, v in row.items()}
+            for row in match_players_list
+        ]),
         ("rounds", rounds_list),
         ("kills_tactical", kills_tactical_list),
         ("synergy_pairs", synergy_list),

@@ -30,6 +30,30 @@ app.add_middleware(
 CACHE = {}
 
 
+def clamp_score(val: float) -> float:
+    return round(max(0.0, min(100.0, val)), 1)
+
+
+def compute_hexagon(acs: float, kast_pct: float, hs_pct: float, first_kills: int, adr: float, assists: int, rounds_played: int) -> dict:
+    rp = max(1, rounds_played)
+    combate = clamp_score(acs / 3.0)
+    consistencia = clamp_score(kast_pct * 1.1)
+    mira = clamp_score(hs_pct * 2.5)
+    agressividade = clamp_score((first_kills / rp) * 450.0)
+    dano = clamp_score(adr / 1.7)
+    suporte = clamp_score((assists / rp) * 200.0)
+    overall = round((combate + consistencia + mira + agressividade + dano + suporte) / 6.0, 1)
+    return {
+        "combate": combate,
+        "consistencia": consistencia,
+        "mira": mira,
+        "agressividade": agressividade,
+        "dano": dano,
+        "suporte": suporte,
+        "overall": overall,
+    }
+
+
 @app.on_event("startup")
 def load_cache():
     CACHE["dictionary"] = loader.get_dictionary()
@@ -180,6 +204,7 @@ def get_team_detail(team_slug: str):
         "assists": 0,
         "acsSum": 0.0,
         "adrSum": 0.0,
+        "kastRounds": 0,
         "headshots": 0,
         "bodyshots": 0,
         "legshots": 0,
@@ -210,6 +235,7 @@ def get_team_detail(team_slug: str):
         p["assists"] += r["assists"]
         p["acsSum"] += r["acs"] * r["roundsPlayed"]
         p["adrSum"] += r["adr"] * r["roundsPlayed"]
+        p["kastRounds"] += r.get("kastRounds", 0)
         p["headshots"] += r["headshots"]
         p["bodyshots"] += r["bodyshots"]
         p["legshots"] += r["legshots"]
@@ -231,6 +257,11 @@ def get_team_detail(team_slug: str):
         rp = max(1, p["roundsPlayed"])
         deaths = max(1, p["deaths"])
         shots = p["headshots"] + p["bodyshots"] + p["legshots"]
+        acs_val = round(p["acsSum"] / rp, 1)
+        adr_val = round(p["adrSum"] / rp, 1)
+        hs_val = round((p["headshots"] / shots) * 100.0, 1) if shots > 0 else 0.0
+        kast_val = round((p["kastRounds"] / rp) * 100.0, 1)
+        hex_val = compute_hexagon(acs_val, kast_val, hs_val, p["firstKills"], adr_val, p["assists"], rp)
         roster_stats.append({
             "puuid": puuid,
             "gameName": p["gameName"],
@@ -245,9 +276,11 @@ def get_team_detail(team_slug: str):
             "deaths": p["deaths"],
             "assists": p["assists"],
             "kdRatio": round(p["kills"] / deaths, 2),
-            "acs": round(p["acsSum"] / rp, 1),
-            "adr": round(p["adrSum"] / rp, 1),
-            "hsPercent": round((p["headshots"] / shots) * 100.0, 1) if shots > 0 else 0.0,
+            "acs": acs_val,
+            "adr": adr_val,
+            "kastPercent": kast_val,
+            "hsPercent": hs_val,
+            "hexagon": hex_val,
             "firstKills": p["firstKills"],
             "firstDeaths": p["firstDeaths"],
             "firstKillDiff": p["firstKills"] - p["firstDeaths"],
