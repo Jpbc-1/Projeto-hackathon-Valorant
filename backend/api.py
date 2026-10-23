@@ -36,11 +36,11 @@ def clamp_score(val: float) -> float:
 
 def compute_hexagon(acs: float, kast_pct: float, hs_pct: float, first_kills: int, adr: float, assists: int, rounds_played: int) -> dict:
     rp = max(1, rounds_played)
-    combate = clamp_score((acs - 100.0) / 2.0)
-    consistencia = clamp_score((kast_pct - 50.0) * 2.0)
-    mira = clamp_score((hs_pct - 10.0) * 3.33)
+    combate = clamp_score(acs / 3.0)
+    consistencia = clamp_score(kast_pct * 1.1)
+    mira = clamp_score(hs_pct * 2.5)
     agressividade = clamp_score((first_kills / rp) * 450.0)
-    dano = clamp_score((adr - 70.0) * 1.0)
+    dano = clamp_score(adr / 1.7)
     suporte = clamp_score((assists / rp) * 200.0)
     overall = round((combate + consistencia + mira + agressividade + dano + suporte) / 6.0, 1)
     return {

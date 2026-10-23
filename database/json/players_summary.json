@@ -23,13 +23,13 @@
     "kastPercent": 70.9,
     "hsPercent": 34.7,
     "hexagon": {
-      "combate": 76.2,
-      "consistencia": 41.8,
-      "mira": 82.3,
+      "combate": 84.1,
+      "consistencia": 78.0,
+      "mira": 86.8,
       "agressividade": 65.1,
       "dano": 100.0,
       "suporte": 44.5,
-      "overall": 68.3
+      "overall": 76.4
     },
     "firstKills": 102,
     "firstDeaths": 74,
@@ -98,13 +98,13 @@
     "kastPercent": 76.7,
     "hsPercent": 28.1,
     "hexagon": {
-      "combate": 80.1,
-      "consistencia": 53.4,
-      "mira": 60.3,
+      "combate": 86.7,
+      "consistencia": 84.4,
+      "mira": 70.2,
       "agressividade": 96.8,
       "dano": 100.0,
       "suporte": 35.6,
-      "overall": 71.0
+      "overall": 79.0
     },
     "firstKills": 133,
     "firstDeaths": 66,
@@ -172,13 +172,13 @@
     "kastPercent": 74.5,
     "hsPercent": 21.9,
     "hexagon": {
-      "combate": 71.6,
-      "consistencia": 49.0,
-      "mira": 39.6,
+      "combate": 81.1,
+      "consistencia": 82.0,
+      "mira": 54.8,
       "agressividade": 71.9,
-      "dano": 92.5,
+      "dano": 95.6,
       "suporte": 54.0,
-      "overall": 63.1
+      "overall": 73.2
     },
     "firstKills": 106,
     "firstDeaths": 74,
@@ -249,13 +249,13 @@
     "kastPercent": 78.2,
     "hsPercent": 27.6,
     "hexagon": {
-      "combate": 71.0,
-      "consistencia": 56.4,
-      "mira": 58.6,
+      "combate": 80.7,
+      "consistencia": 86.0,
+      "mira": 69.0,
       "agressividade": 46.6,
       "dano": 100.0,
       "suporte": 63.1,
-      "overall": 66.0
+      "overall": 74.2
     },
     "firstKills": 64,
     "firstDeaths": 55,
@@ -323,13 +323,13 @@
     "kastPercent": 78.9,
     "hsPercent": 22.4,
     "hexagon": {
-      "combate": 55.0,
-      "consistencia": 57.8,
-      "mira": 41.3,
+      "combate": 70.0,
+      "consistencia": 86.8,
+      "mira": 56.0,
       "agressividade": 30.0,
-      "dano": 81.1,
+      "dano": 88.9,
       "suporte": 80.9,
-      "overall": 57.7
+      "overall": 68.8
     },
     "firstKills": 47,
     "firstDeaths": 34,
@@ -395,13 +395,13 @@
     "kastPercent": 73.3,
     "hsPercent": 31.7,
     "hexagon": {
-      "combate": 61.1,
-      "consistencia": 46.6,
-      "mira": 72.3,
+      "combate": 74.1,
+      "consistencia": 80.6,
+      "mira": 79.2,
       "agressividade": 56.8,
-      "dano": 82.6,
+      "dano": 89.8,
       "suporte": 41.1,
-      "overall": 60.1
+      "overall": 70.3
     },
     "firstKills": 78,
     "firstDeaths": 57,
@@ -470,13 +470,13 @@
     "kastPercent": 70.6,
     "hsPercent": 22.6,
     "hexagon": {
-      "combate": 49.5,
-      "consistencia": 41.2,
-      "mira": 42.0,
+      "combate": 66.3,
+      "consistencia": 77.7,
+      "mira": 56.5,
       "agressividade": 42.1,
-      "dano": 70.1,
+      "dano": 82.4,
       "suporte": 59.6,
-      "overall": 50.8
+      "overall": 64.1
     },
     "firstKills": 66,
     "firstDeaths": 72,
@@ -543,13 +543,13 @@
     "kastPercent": 73.3,
     "hsPercent": 24.4,
     "hexagon": {
-      "combate": 42.8,
-      "consistencia": 46.6,
-      "mira": 48.0,
+      "combate": 61.8,
+      "consistencia": 80.6,
+      "mira": 61.0,
       "agressividade": 33.8,
-      "dano": 57.1,
+      "dano": 74.8,
       "suporte": 73.2,
-      "overall": 50.2
+      "overall": 64.2
     },
     "firstKills": 53,
     "firstDeaths": 61,
@@ -623,13 +623,13 @@
     "kastPercent": 78.2,
     "hsPercent": 24.6,
     "hexagon": {
-      "combate": 56.5,
-      "consistencia": 56.4,
-      "mira": 48.6,
+      "combate": 71.0,
+      "consistencia": 86.0,
+      "mira": 61.5,
       "agressividade": 39.3,
-      "dano": 82.7,
+      "dano": 89.8,
       "suporte": 62.8,
-      "overall": 57.7
+      "overall": 68.4
     },
     "firstKills": 54,
     "firstDeaths": 34,
@@ -691,13 +691,13 @@
     "kastPercent": 68.7,
     "hsPercent": 27.8,
     "hexagon": {
-      "combate": 59.2,
-      "consistencia": 37.4,
-      "mira": 59.3,
+      "combate": 72.8,
+      "consistencia": 75.6,
+      "mira": 69.5,
       "agressividade": 65.0,
-      "dano": 83.7,
+      "dano": 90.4,
       "suporte": 49.1,
-      "overall": 58.9
+      "overall": 70.4
     },
     "firstKills": 86,
     "firstDeaths": 93,
@@ -768,13 +768,13 @@
     "kastPercent": 72.9,
     "hsPercent": 22.7,
     "hexagon": {
-      "combate": 59.7,
-      "consistencia": 45.8,
-      "mira": 42.3,
+      "combate": 73.1,
+      "consistencia": 80.2,
+      "mira": 56.8,
       "agressividade": 53.5,
-      "dano": 82.2,
+      "dano": 89.5,
       "suporte": 50.3,
-      "overall": 55.6
+      "overall": 67.2
     },
     "firstKills": 69,
     "firstDeaths": 58,
@@ -841,13 +841,13 @@
     "kastPercent": 71.3,
     "hsPercent": 29.5,
     "hexagon": {
-      "combate": 44.5,
-      "consistencia": 42.6,
-      "mira": 64.9,
+      "combate": 63.0,
+      "consistencia": 78.4,
+      "mira": 73.8,
       "agressividade": 40.0,
-      "dano": 69.4,
+      "dano": 82.0,
       "suporte": 54.3,
-      "overall": 52.6
+      "overall": 65.2
     },
     "firstKills": 59,
     "firstDeaths": 57,
@@ -914,13 +914,13 @@
     "kastPercent": 72.5,
     "hsPercent": 17.4,
     "hexagon": {
-      "combate": 61.0,
-      "consistencia": 45.0,
-      "mira": 24.6,
+      "combate": 74.0,
+      "consistencia": 79.8,
+      "mira": 43.5,
       "agressividade": 73.4,
-      "dano": 72.2,
+      "dano": 83.6,
       "suporte": 39.0,
-      "overall": 52.5
+      "overall": 65.6
     },
     "firstKills": 92,
     "firstDeaths": 98,
@@ -984,13 +984,13 @@
     "kastPercent": 73.3,
     "hsPercent": 23.5,
     "hexagon": {
-      "combate": 53.6,
-      "consistencia": 46.6,
-      "mira": 45.0,
+      "combate": 69.1,
+      "consistencia": 80.6,
+      "mira": 58.8,
       "agressividade": 48.5,
-      "dano": 74.8,
+      "dano": 85.2,
       "suporte": 45.8,
-      "overall": 52.4
+      "overall": 64.7
     },
     "firstKills": 65,
     "firstDeaths": 54,
@@ -1050,13 +1050,13 @@
     "kastPercent": 74.1,
     "hsPercent": 13.8,
     "hexagon": {
-      "combate": 77.6,
-      "consistencia": 48.2,
-      "mira": 12.7,
+      "combate": 85.1,
+      "consistencia": 81.5,
+      "mira": 34.5,
       "agressividade": 60.7,
-      "dano": 99.7,
+      "dano": 99.8,
       "suporte": 59.7,
-      "overall": 59.8
+      "overall": 70.2
     },
     "firstKills": 71,
     "firstDeaths": 69,
@@ -1117,13 +1117,13 @@
     "kastPercent": 76.2,
     "hsPercent": 28.6,
     "hexagon": {
-      "combate": 38.8,
-      "consistencia": 52.4,
-      "mira": 61.9,
+      "combate": 59.2,
+      "consistencia": 83.8,
+      "mira": 71.5,
       "agressividade": 28.4,
-      "dano": 55.4,
+      "dano": 73.8,
       "suporte": 66.3,
-      "overall": 50.5
+      "overall": 63.8
     },
     "firstKills": 39,
     "firstDeaths": 37,
@@ -1191,13 +1191,13 @@
     "kastPercent": 72.9,
     "hsPercent": 28.4,
     "hexagon": {
-      "combate": 37.5,
-      "consistencia": 45.8,
-      "mira": 61.3,
+      "combate": 58.3,
+      "consistencia": 80.2,
+      "mira": 71.0,
       "agressividade": 27.8,
-      "dano": 59.3,
+      "dano": 76.1,
       "suporte": 68.5,
-      "overall": 50.0
+      "overall": 63.6
     },
     "firstKills": 41,
     "firstDeaths": 52,
@@ -1262,13 +1262,13 @@
     "kastPercent": 72.2,
     "hsPercent": 25.0,
     "hexagon": {
-      "combate": 71.2,
-      "consistencia": 44.4,
-      "mira": 50.0,
+      "combate": 80.8,
+      "consistencia": 79.4,
+      "mira": 62.5,
       "agressividade": 64.0,
-      "dano": 89.4,
+      "dano": 93.8,
       "suporte": 41.4,
-      "overall": 60.1
+      "overall": 70.3
     },
     "firstKills": 68,
     "firstDeaths": 66,
@@ -1334,13 +1334,13 @@
     "kastPercent": 68.1,
     "hsPercent": 27.0,
     "hexagon": {
-      "combate": 54.0,
-      "consistencia": 36.2,
-      "mira": 56.6,
+      "combate": 69.3,
+      "consistencia": 74.9,
+      "mira": 67.5,
       "agressividade": 50.7,
-      "dano": 71.1,
+      "dano": 83.0,
       "suporte": 62.7,
-      "overall": 55.2
+      "overall": 68.0
     },
     "firstKills": 65,
     "firstDeaths": 81,
@@ -1409,13 +1409,13 @@
     "kastPercent": 74.1,
     "hsPercent": 25.9,
     "hexagon": {
-      "combate": 53.7,
-      "consistencia": 48.2,
-      "mira": 52.9,
+      "combate": 69.1,
+      "consistencia": 81.5,
+      "mira": 64.8,
       "agressividade": 37.6,
-      "dano": 68.2,
+      "dano": 81.3,
       "suporte": 67.3,
-      "overall": 54.7
+      "overall": 66.9
     },
     "firstKills": 44,
     "firstDeaths": 34,
@@ -1476,13 +1476,13 @@
     "kastPercent": 74.7,
     "hsPercent": 23.2,
     "hexagon": {
-      "combate": 76.5,
-      "consistencia": 49.4,
-      "mira": 44.0,
+      "combate": 84.4,
+      "consistencia": 82.2,
+      "mira": 58.0,
       "agressividade": 87.9,
       "dano": 100.0,
       "suporte": 49.8,
-      "overall": 67.9
+      "overall": 77.0
     },
     "firstKills": 84,
     "firstDeaths": 63,
@@ -1550,13 +1550,13 @@
     "kastPercent": 71.2,
     "hsPercent": 37.4,
     "hexagon": {
-      "combate": 81.0,
-      "consistencia": 42.4,
-      "mira": 91.2,
+      "combate": 87.3,
+      "consistencia": 78.3,
+      "mira": 93.5,
       "agressividade": 87.0,
       "dano": 100.0,
       "suporte": 39.2,
-      "overall": 73.5
+      "overall": 80.9
     },
     "firstKills": 76,
     "firstDeaths": 63,
@@ -1621,13 +1621,13 @@
     "kastPercent": 74.1,
     "hsPercent": 26.5,
     "hexagon": {
-      "combate": 53.2,
-      "consistencia": 48.2,
-      "mira": 54.9,
+      "combate": 68.8,
+      "consistencia": 81.5,
+      "mira": 66.2,
       "agressividade": 24.5,
-      "dano": 73.4,
+      "dano": 84.4,
       "suporte": 59.0,
-      "overall": 52.2
+      "overall": 64.1
     },
     "firstKills": 26,
     "firstDeaths": 29,
@@ -1688,13 +1688,13 @@
     "kastPercent": 72.6,
     "hsPercent": 30.3,
     "hexagon": {
-      "combate": 40.0,
-      "consistencia": 45.2,
-      "mira": 67.6,
+      "combate": 60.0,
+      "consistencia": 79.9,
+      "mira": 75.8,
       "agressividade": 22.6,
-      "dano": 59.8,
+      "dano": 76.4,
       "suporte": 93.2,
-      "overall": 54.7
+      "overall": 68.0
     },
     "firstKills": 29,
     "firstDeaths": 28,
@@ -1752,13 +1752,13 @@
     "kastPercent": 76.7,
     "hsPercent": 22.6,
     "hexagon": {
-      "combate": 83.5,
-      "consistencia": 53.4,
-      "mira": 42.0,
+      "combate": 89.0,
+      "consistencia": 84.4,
+      "mira": 56.5,
       "agressividade": 84.5,
       "dano": 100.0,
       "suporte": 43.4,
-      "overall": 67.8
+      "overall": 76.3
     },
     "firstKills": 70,
     "firstDeaths": 56,
@@ -1823,13 +1823,13 @@
     "kastPercent": 69.0,
     "hsPercent": 29.1,
     "hexagon": {
-      "combate": 58.5,
-      "consistencia": 38.0,
-      "mira": 63.6,
+      "combate": 72.3,
+      "consistencia": 75.9,
+      "mira": 72.8,
       "agressividade": 63.1,
-      "dano": 82.3,
+      "dano": 89.6,
       "suporte": 54.4,
-      "overall": 60.0
+      "overall": 71.4
     },
     "firstKills": 67,
     "firstDeaths": 54,
@@ -1894,13 +1894,13 @@
     "kastPercent": 71.1,
     "hsPercent": 34.4,
     "hexagon": {
-      "combate": 54.1,
-      "consistencia": 42.2,
-      "mira": 81.3,
+      "combate": 69.4,
+      "consistencia": 78.2,
+      "mira": 86.0,
       "agressividade": 70.6,
-      "dano": 71.9,
+      "dano": 83.5,
       "suporte": 48.1,
-      "overall": 61.4
+      "overall": 72.6
     },
     "firstKills": 75,
     "firstDeaths": 40,
@@ -1970,13 +1970,13 @@
     "kastPercent": 76.6,
     "hsPercent": 30.8,
     "hexagon": {
-      "combate": 87.2,
-      "consistencia": 53.2,
-      "mira": 69.3,
+      "combate": 91.5,
+      "consistencia": 84.3,
+      "mira": 77.0,
       "agressividade": 86.1,
       "dano": 100.0,
       "suporte": 42.9,
-      "overall": 73.1
+      "overall": 80.3
     },
     "firstKills": 67,
     "firstDeaths": 53,
@@ -2036,13 +2036,13 @@
     "kastPercent": 70.7,
     "hsPercent": 27.0,
     "hexagon": {
-      "combate": 34.1,
-      "consistencia": 41.4,
-      "mira": 56.6,
+      "combate": 56.1,
+      "consistencia": 77.8,
+      "mira": 67.5,
       "agressividade": 17.2,
-      "dano": 44.6,
+      "dano": 67.4,
       "suporte": 64.1,
-      "overall": 43.0
+      "overall": 58.4
     },
     "firstKills": 22,
     "firstDeaths": 41,
@@ -2107,13 +2107,13 @@
     "kastPercent": 65.2,
     "hsPercent": 33.6,
     "hexagon": {
-      "combate": 48.7,
-      "consistencia": 30.4,
-      "mira": 78.6,
+      "combate": 65.8,
+      "consistencia": 71.7,
+      "mira": 84.0,
       "agressividade": 27.9,
-      "dano": 68.3,
+      "dano": 81.4,
       "suporte": 39.7,
-      "overall": 48.9
+      "overall": 61.8
     },
     "firstKills": 29,
     "firstDeaths": 46,
@@ -2173,13 +2173,13 @@
     "kastPercent": 78.3,
     "hsPercent": 28.0,
     "hexagon": {
-      "combate": 81.4,
-      "consistencia": 56.6,
-      "mira": 59.9,
+      "combate": 87.6,
+      "consistencia": 86.1,
+      "mira": 70.0,
       "agressividade": 86.1,
       "dano": 100.0,
       "suporte": 69.6,
-      "overall": 75.6
+      "overall": 83.2
     },
     "firstKills": 66,
     "firstDeaths": 39,
@@ -2240,13 +2240,13 @@
     "kastPercent": 75.1,
     "hsPercent": 31.5,
     "hexagon": {
-      "combate": 84.1,
-      "consistencia": 50.2,
-      "mira": 71.6,
+      "combate": 89.4,
+      "consistencia": 82.6,
+      "mira": 78.8,
       "agressividade": 60.4,
       "dano": 100.0,
       "suporte": 34.5,
-      "overall": 66.8
+      "overall": 74.3
     },
     "firstKills": 42,
     "firstDeaths": 11,
@@ -2312,13 +2312,13 @@
     "kastPercent": 74.1,
     "hsPercent": 35.0,
     "hexagon": {
-      "combate": 80.9,
-      "consistencia": 48.2,
-      "mira": 83.2,
+      "combate": 87.3,
+      "consistencia": 81.5,
+      "mira": 87.5,
       "agressividade": 79.6,
       "dano": 100.0,
       "suporte": 48.2,
-      "overall": 73.3
+      "overall": 80.7
     },
     "firstKills": 58,
     "firstDeaths": 39,
@@ -2383,13 +2383,13 @@
     "kastPercent": 67.0,
     "hsPercent": 24.5,
     "hexagon": {
-      "combate": 46.8,
-      "consistencia": 34.0,
-      "mira": 48.3,
+      "combate": 64.6,
+      "consistencia": 73.7,
+      "mira": 61.2,
       "agressividade": 34.4,
-      "dano": 67.4,
+      "dano": 80.8,
       "suporte": 46.7,
-      "overall": 46.3
+      "overall": 60.2
     },
     "firstKills": 34,
     "firstDeaths": 42,
@@ -2461,13 +2461,13 @@
     "kastPercent": 72.9,
     "hsPercent": 28.0,
     "hexagon": {
-      "combate": 50.5,
-      "consistencia": 45.8,
-      "mira": 59.9,
+      "combate": 67.0,
+      "consistencia": 80.2,
+      "mira": 70.0,
       "agressividade": 35.3,
-      "dano": 78.6,
+      "dano": 87.4,
       "suporte": 67.9,
-      "overall": 56.3
+      "overall": 68.0
     },
     "firstKills": 33,
     "firstDeaths": 22,
@@ -2528,13 +2528,13 @@
     "kastPercent": 72.6,
     "hsPercent": 26.4,
     "hexagon": {
-      "combate": 42.0,
-      "consistencia": 45.2,
-      "mira": 54.6,
+      "combate": 61.3,
+      "consistencia": 79.9,
+      "mira": 66.0,
       "agressividade": 24.1,
-      "dano": 64.3,
+      "dano": 79.0,
       "suporte": 42.3,
-      "overall": 45.4
+      "overall": 58.8
     },
     "firstKills": 23,
     "firstDeaths": 20,
@@ -2594,13 +2594,13 @@
     "kastPercent": 69.8,
     "hsPercent": 29.9,
     "hexagon": {
-      "combate": 69.0,
-      "consistencia": 39.6,
-      "mira": 66.3,
+      "combate": 79.3,
+      "consistencia": 76.8,
+      "mira": 74.8,
       "agressividade": 55.9,
-      "dano": 89.8,
+      "dano": 94.0,
       "suporte": 34.9,
-      "overall": 59.2
+      "overall": 69.3
     },
     "firstKills": 42,
     "firstDeaths": 41,
@@ -2661,13 +2661,13 @@
     "kastPercent": 72.8,
     "hsPercent": 30.1,
     "hexagon": {
-      "combate": 63.0,
-      "consistencia": 45.6,
-      "mira": 66.9,
+      "combate": 75.3,
+      "consistencia": 80.1,
+      "mira": 75.2,
       "agressividade": 55.3,
-      "dano": 87.9,
+      "dano": 92.9,
       "suporte": 65.5,
-      "overall": 64.0
+      "overall": 74.0
     },
     "firstKills": 42,
     "firstDeaths": 26,
@@ -2731,13 +2731,13 @@
     "kastPercent": 71.7,
     "hsPercent": 29.1,
     "hexagon": {
-      "combate": 75.6,
-      "consistencia": 43.4,
-      "mira": 63.6,
+      "combate": 83.7,
+      "consistencia": 78.9,
+      "mira": 72.8,
       "agressividade": 78.8,
-      "dano": 99.0,
+      "dano": 99.4,
       "suporte": 59.9,
-      "overall": 70.0
+      "overall": 78.9
     },
     "firstKills": 55,
     "firstDeaths": 39,
@@ -2804,13 +2804,13 @@
     "kastPercent": 80.7,
     "hsPercent": 21.7,
     "hexagon": {
-      "combate": 52.4,
-      "consistencia": 61.4,
-      "mira": 39.0,
+      "combate": 68.3,
+      "consistencia": 88.8,
+      "mira": 54.2,
       "agressividade": 23.6,
-      "dano": 91.2,
+      "dano": 94.8,
       "suporte": 76.8,
-      "overall": 57.4
+      "overall": 67.8
     },
     "firstKills": 19,
     "firstDeaths": 17,
@@ -2872,13 +2872,13 @@
     "kastPercent": 68.0,
     "hsPercent": 25.3,
     "hexagon": {
-      "combate": 36.0,
-      "consistencia": 36.0,
-      "mira": 50.9,
+      "combate": 57.4,
+      "consistencia": 74.8,
+      "mira": 63.2,
       "agressividade": 37.9,
-      "dano": 47.6,
+      "dano": 69.2,
       "suporte": 43.5,
-      "overall": 42.0
+      "overall": 57.7
     },
     "firstKills": 36,
     "firstDeaths": 26,
@@ -2942,13 +2942,13 @@
     "kastPercent": 78.3,
     "hsPercent": 34.3,
     "hexagon": {
-      "combate": 53.3,
-      "consistencia": 56.6,
-      "mira": 80.9,
+      "combate": 68.9,
+      "consistencia": 86.1,
+      "mira": 85.8,
       "agressividade": 24.8,
-      "dano": 63.4,
+      "dano": 78.5,
       "suporte": 76.5,
-      "overall": 59.2
+      "overall": 70.1
     },
     "firstKills": 19,
     "firstDeaths": 15,
@@ -3008,13 +3008,13 @@
     "kastPercent": 74.0,
     "hsPercent": 25.7,
     "hexagon": {
-      "combate": 49.3,
-      "consistencia": 48.0,
-      "mira": 52.3,
+      "combate": 66.2,
+      "consistencia": 81.4,
+      "mira": 64.2,
       "agressividade": 41.0,
-      "dano": 76.8,
+      "dano": 86.4,
       "suporte": 51.9,
-      "overall": 53.2
+      "overall": 65.2
     },
     "firstKills": 33,
     "firstDeaths": 34,
@@ -3081,13 +3081,13 @@
     "kastPercent": 70.7,
     "hsPercent": 30.7,
     "hexagon": {
-      "combate": 77.8,
-      "consistencia": 41.4,
-      "mira": 68.9,
+      "combate": 85.2,
+      "consistencia": 77.8,
+      "mira": 76.8,
       "agressividade": 78.8,
-      "dano": 96.2,
+      "dano": 97.8,
       "suporte": 52.9,
-      "overall": 69.3
+      "overall": 78.2
     },
     "firstKills": 49,
     "firstDeaths": 43,
@@ -3156,13 +3156,13 @@
     "kastPercent": 76.9,
     "hsPercent": 22.4,
     "hexagon": {
-      "combate": 51.7,
-      "consistencia": 53.8,
-      "mira": 41.3,
+      "combate": 67.8,
+      "consistencia": 84.6,
+      "mira": 56.0,
       "agressividade": 30.9,
-      "dano": 59.9,
+      "dano": 76.4,
       "suporte": 81.1,
-      "overall": 53.1
+      "overall": 66.1
     },
     "firstKills": 24,
     "firstDeaths": 18,
@@ -3219,13 +3219,13 @@
     "kastPercent": 78.4,
     "hsPercent": 27.1,
     "hexagon": {
-      "combate": 52.8,
-      "consistencia": 56.8,
-      "mira": 56.9,
+      "combate": 68.5,
+      "consistencia": 86.2,
+      "mira": 67.8,
       "agressividade": 39.9,
-      "dano": 79.5,
+      "dano": 87.9,
       "suporte": 96.4,
-      "overall": 63.7
+      "overall": 74.4
     },
     "firstKills": 30,
     "firstDeaths": 20,
@@ -3281,13 +3281,13 @@
     "kastPercent": 67.0,
     "hsPercent": 30.8,
     "hexagon": {
-      "combate": 53.2,
-      "consistencia": 34.0,
-      "mira": 69.3,
+      "combate": 68.8,
+      "consistencia": 73.7,
+      "mira": 77.0,
       "agressividade": 63.9,
-      "dano": 72.2,
+      "dano": 83.6,
       "suporte": 38.3,
-      "overall": 55.2
+      "overall": 67.5
     },
     "firstKills": 49,
     "firstDeaths": 41,
@@ -3354,13 +3354,13 @@
     "kastPercent": 78.2,
     "hsPercent": 21.1,
     "hexagon": {
-      "combate": 87.3,
-      "consistencia": 56.4,
-      "mira": 37.0,
+      "combate": 91.5,
+      "consistencia": 86.0,
+      "mira": 52.8,
       "agressividade": 72.4,
       "dano": 100.0,
       "suporte": 67.4,
-      "overall": 70.1
+      "overall": 78.4
     },
     "firstKills": 42,
     "firstDeaths": 27,
@@ -3420,13 +3420,13 @@
     "kastPercent": 67.8,
     "hsPercent": 23.9,
     "hexagon": {
-      "combate": 55.1,
-      "consistencia": 35.6,
-      "mira": 46.3,
+      "combate": 70.1,
+      "consistencia": 74.6,
+      "mira": 59.8,
       "agressividade": 40.8,
-      "dano": 67.9,
+      "dano": 81.1,
       "suporte": 72.5,
-      "overall": 53.0
+      "overall": 66.5
     },
     "firstKills": 31,
     "firstDeaths": 35,
@@ -3486,13 +3486,13 @@
     "kastPercent": 73.4,
     "hsPercent": 30.3,
     "hexagon": {
-      "combate": 85.9,
-      "consistencia": 46.8,
-      "mira": 67.6,
+      "combate": 90.6,
+      "consistencia": 80.7,
+      "mira": 75.8,
       "agressividade": 91.4,
       "dano": 100.0,
       "suporte": 52.3,
-      "overall": 74.0
+      "overall": 81.8
     },
     "firstKills": 52,
     "firstDeaths": 38,
@@ -3553,13 +3553,13 @@
     "kastPercent": 75.7,
     "hsPercent": 27.4,
     "hexagon": {
-      "combate": 87.4,
-      "consistencia": 51.4,
-      "mira": 57.9,
+      "combate": 91.6,
+      "consistencia": 83.3,
+      "mira": 68.5,
       "agressividade": 56.5,
       "dano": 100.0,
       "suporte": 49.4,
-      "overall": 67.1
+      "overall": 74.9
     },
     "firstKills": 31,
     "firstDeaths": 23,
@@ -3620,13 +3620,13 @@
     "kastPercent": 68.3,
     "hsPercent": 20.6,
     "hexagon": {
-      "combate": 56.0,
-      "consistencia": 36.6,
-      "mira": 35.3,
+      "combate": 70.7,
+      "consistencia": 75.1,
+      "mira": 51.5,
       "agressividade": 56.2,
-      "dano": 63.9,
+      "dano": 78.8,
       "suporte": 48.7,
-      "overall": 49.4
+      "overall": 63.5
     },
     "firstKills": 39,
     "firstDeaths": 48,
@@ -3687,13 +3687,13 @@
     "kastPercent": 71.7,
     "hsPercent": 29.5,
     "hexagon": {
-      "combate": 43.0,
-      "consistencia": 43.4,
-      "mira": 64.9,
+      "combate": 62.0,
+      "consistencia": 78.9,
+      "mira": 73.8,
       "agressividade": 54.0,
-      "dano": 62.0,
+      "dano": 77.6,
       "suporte": 32.6,
-      "overall": 50.0
+      "overall": 63.1
     },
     "firstKills": 42,
     "firstDeaths": 31,
@@ -3751,13 +3751,13 @@
     "kastPercent": 78.9,
     "hsPercent": 25.3,
     "hexagon": {
-      "combate": 85.3,
-      "consistencia": 57.8,
-      "mira": 50.9,
+      "combate": 90.2,
+      "consistencia": 86.8,
+      "mira": 63.2,
       "agressividade": 47.4,
-      "dano": 97.4,
+      "dano": 98.5,
       "suporte": 93.9,
-      "overall": 72.1
+      "overall": 80.0
     },
     "firstKills": 26,
     "firstDeaths": 12,
@@ -3812,13 +3812,13 @@
     "kastPercent": 73.4,
     "hsPercent": 22.5,
     "hexagon": {
-      "combate": 51.3,
-      "consistencia": 46.8,
-      "mira": 41.6,
+      "combate": 67.6,
+      "consistencia": 80.7,
+      "mira": 56.2,
       "agressividade": 31.6,
-      "dano": 73.0,
+      "dano": 84.1,
       "suporte": 67.3,
-      "overall": 51.9
+      "overall": 64.6
     },
     "firstKills": 24,
     "firstDeaths": 29,
@@ -3884,13 +3884,13 @@
     "kastPercent": 69.3,
     "hsPercent": 26.8,
     "hexagon": {
-      "combate": 41.2,
-      "consistencia": 38.6,
-      "mira": 55.9,
+      "combate": 60.8,
+      "consistencia": 76.2,
+      "mira": 67.0,
       "agressividade": 43.5,
-      "dano": 60.2,
+      "dano": 76.6,
       "suporte": 49.4,
-      "overall": 48.1
+      "overall": 62.2
     },
     "firstKills": 34,
     "firstDeaths": 34,
@@ -3954,13 +3954,13 @@
     "kastPercent": 74.1,
     "hsPercent": 25.7,
     "hexagon": {
-      "combate": 59.9,
-      "consistencia": 48.2,
-      "mira": 52.3,
+      "combate": 73.3,
+      "consistencia": 81.5,
+      "mira": 64.2,
       "agressividade": 47.6,
-      "dano": 97.2,
+      "dano": 98.4,
       "suporte": 60.8,
-      "overall": 61.0
+      "overall": 71.0
     },
     "firstKills": 31,
     "firstDeaths": 34,
@@ -4023,13 +4023,13 @@
     "kastPercent": 72.8,
     "hsPercent": 26.3,
     "hexagon": {
-      "combate": 42.3,
-      "consistencia": 45.6,
-      "mira": 54.3,
+      "combate": 61.5,
+      "consistencia": 80.1,
+      "mira": 65.8,
       "agressividade": 32.6,
-      "dano": 64.2,
+      "dano": 78.9,
       "suporte": 48.1,
-      "overall": 47.9
+      "overall": 61.2
     },
     "firstKills": 25,
     "firstDeaths": 21,
@@ -4086,13 +4086,13 @@
     "kastPercent": 76.8,
     "hsPercent": 36.9,
     "hexagon": {
-      "combate": 46.3,
-      "consistencia": 53.6,
-      "mira": 89.6,
+      "combate": 64.2,
+      "consistencia": 84.5,
+      "mira": 92.2,
       "agressividade": 27.4,
-      "dano": 71.5,
+      "dano": 83.2,
       "suporte": 74.8,
-      "overall": 60.5
+      "overall": 71.0
     },
     "firstKills": 21,
     "firstDeaths": 18,
@@ -4152,13 +4152,13 @@
     "kastPercent": 80.1,
     "hsPercent": 30.7,
     "hexagon": {
-      "combate": 93.7,
-      "consistencia": 60.2,
-      "mira": 68.9,
+      "combate": 95.8,
+      "consistencia": 88.1,
+      "mira": 76.8,
       "agressividade": 100.0,
       "dano": 100.0,
       "suporte": 58.8,
-      "overall": 80.3
+      "overall": 86.6
     },
     "firstKills": 50,
     "firstDeaths": 14,
@@ -4222,13 +4222,13 @@
     "kastPercent": 67.7,
     "hsPercent": 29.5,
     "hexagon": {
-      "combate": 57.2,
-      "consistencia": 35.4,
-      "mira": 64.9,
+      "combate": 71.5,
+      "consistencia": 74.5,
+      "mira": 73.8,
       "agressividade": 63.4,
-      "dano": 70.5,
+      "dano": 82.6,
       "suporte": 29.6,
-      "overall": 53.5
+      "overall": 65.9
     },
     "firstKills": 41,
     "firstDeaths": 29,
@@ -4290,13 +4290,13 @@
     "kastPercent": 69.3,
     "hsPercent": 28.2,
     "hexagon": {
-      "combate": 43.8,
-      "consistencia": 38.6,
-      "mira": 60.6,
+      "combate": 62.5,
+      "consistencia": 76.2,
+      "mira": 70.5,
       "agressividade": 35.5,
-      "dano": 58.7,
+      "dano": 75.7,
       "suporte": 53.5,
-      "overall": 48.4
+      "overall": 62.3
     },
     "firstKills": 28,
     "firstDeaths": 27,
@@ -4359,13 +4359,13 @@
     "kastPercent": 68.2,
     "hsPercent": 22.1,
     "hexagon": {
-      "combate": 85.0,
-      "consistencia": 36.4,
-      "mira": 40.3,
+      "combate": 90.0,
+      "consistencia": 75.0,
+      "mira": 55.2,
       "agressividade": 100.0,
       "dano": 100.0,
       "suporte": 48.2,
-      "overall": 68.3
+      "overall": 78.1
     },
     "firstKills": 55,
     "firstDeaths": 48,
@@ -4423,13 +4423,13 @@
     "kastPercent": 63.4,
     "hsPercent": 35.3,
     "hexagon": {
-      "combate": 74.1,
-      "consistencia": 26.8,
-      "mira": 84.2,
+      "combate": 82.7,
+      "consistencia": 69.7,
+      "mira": 88.2,
       "agressividade": 94.4,
-      "dano": 91.3,
+      "dano": 94.9,
       "suporte": 23.9,
-      "overall": 65.8
+      "overall": 75.6
     },
     "firstKills": 51,
     "firstDeaths": 53,
@@ -4485,13 +4485,13 @@
     "kastPercent": 67.4,
     "hsPercent": 36.1,
     "hexagon": {
-      "combate": 65.9,
-      "consistencia": 34.8,
-      "mira": 86.9,
+      "combate": 77.3,
+      "consistencia": 74.1,
+      "mira": 90.2,
       "agressividade": 56.2,
-      "dano": 89.2,
+      "dano": 93.6,
       "suporte": 31.8,
-      "overall": 60.8
+      "overall": 70.5
     },
     "firstKills": 33,
     "firstDeaths": 32,
@@ -4550,13 +4550,13 @@
     "kastPercent": 78.2,
     "hsPercent": 24.0,
     "hexagon": {
-      "combate": 54.6,
-      "consistencia": 56.4,
-      "mira": 46.6,
+      "combate": 69.7,
+      "consistencia": 86.0,
+      "mira": 60.0,
       "agressividade": 36.2,
-      "dano": 70.6,
+      "dano": 82.7,
       "suporte": 86.6,
-      "overall": 58.5
+      "overall": 70.2
     },
     "firstKills": 24,
     "firstDeaths": 26,
@@ -4612,13 +4612,13 @@
     "kastPercent": 72.8,
     "hsPercent": 34.4,
     "hexagon": {
-      "combate": 62.0,
-      "consistencia": 45.6,
-      "mira": 81.3,
+      "combate": 74.7,
+      "consistencia": 80.1,
+      "mira": 86.0,
       "agressividade": 39.7,
-      "dano": 93.7,
+      "dano": 96.3,
       "suporte": 55.2,
-      "overall": 62.9
+      "overall": 72.0
     },
     "firstKills": 23,
     "firstDeaths": 12,
@@ -4676,13 +4676,13 @@
     "kastPercent": 76.6,
     "hsPercent": 26.4,
     "hexagon": {
-      "combate": 60.3,
-      "consistencia": 53.2,
-      "mira": 54.6,
+      "combate": 73.5,
+      "consistencia": 84.3,
+      "mira": 66.0,
       "agressividade": 50.0,
-      "dano": 77.3,
+      "dano": 86.6,
       "suporte": 41.4,
-      "overall": 56.1
+      "overall": 67.0
     },
     "firstKills": 29,
     "firstDeaths": 22,
@@ -4744,13 +4744,13 @@
     "kastPercent": 69.8,
     "hsPercent": 24.5,
     "hexagon": {
-      "combate": 75.7,
-      "consistencia": 39.6,
-      "mira": 48.3,
+      "combate": 83.8,
+      "consistencia": 76.8,
+      "mira": 61.2,
       "agressividade": 68.8,
-      "dano": 95.7,
+      "dano": 97.5,
       "suporte": 53.7,
-      "overall": 63.6
+      "overall": 73.6
     },
     "firstKills": 37,
     "firstDeaths": 39,
@@ -4811,13 +4811,13 @@
     "kastPercent": 72.4,
     "hsPercent": 29.7,
     "hexagon": {
-      "combate": 71.0,
-      "consistencia": 44.8,
-      "mira": 65.6,
+      "combate": 80.7,
+      "consistencia": 79.6,
+      "mira": 74.2,
       "agressividade": 60.1,
-      "dano": 93.0,
+      "dano": 95.9,
       "suporte": 50.9,
-      "overall": 64.2
+      "overall": 73.6
     },
     "firstKills": 31,
     "firstDeaths": 14,
@@ -4875,13 +4875,13 @@
     "kastPercent": 68.3,
     "hsPercent": 21.9,
     "hexagon": {
-      "combate": 44.9,
-      "consistencia": 36.6,
-      "mira": 39.6,
+      "combate": 63.3,
+      "consistencia": 75.1,
+      "mira": 54.8,
       "agressividade": 57.7,
-      "dano": 62.6,
+      "dano": 78.0,
       "suporte": 44.2,
-      "overall": 47.6
+      "overall": 62.2
     },
     "firstKills": 40,
     "firstDeaths": 34,
@@ -4944,13 +4944,13 @@
     "kastPercent": 68.4,
     "hsPercent": 23.5,
     "hexagon": {
-      "combate": 36.7,
-      "consistencia": 36.8,
-      "mira": 45.0,
+      "combate": 57.8,
+      "consistencia": 75.2,
+      "mira": 58.8,
       "agressividade": 22.8,
-      "dano": 60.9,
+      "dano": 77.0,
       "suporte": 50.6,
-      "overall": 42.1
+      "overall": 57.0
     },
     "firstKills": 16,
     "firstDeaths": 19,
@@ -5006,13 +5006,13 @@
     "kastPercent": 66.1,
     "hsPercent": 21.3,
     "hexagon": {
-      "combate": 42.1,
-      "consistencia": 32.2,
-      "mira": 37.6,
+      "combate": 61.4,
+      "consistencia": 72.7,
+      "mira": 53.2,
       "agressividade": 52.3,
-      "dano": 59.2,
+      "dano": 76.0,
       "suporte": 46.5,
-      "overall": 45.0
+      "overall": 60.4
     },
     "firstKills": 35,
     "firstDeaths": 49,
@@ -5080,13 +5080,13 @@
     "kastPercent": 67.6,
     "hsPercent": 38.8,
     "hexagon": {
-      "combate": 59.9,
-      "consistencia": 35.2,
-      "mira": 95.9,
+      "combate": 73.3,
+      "consistencia": 74.4,
+      "mira": 97.0,
       "agressividade": 85.6,
-      "dano": 74.2,
+      "dano": 84.8,
       "suporte": 31.6,
-      "overall": 63.7
+      "overall": 74.5
     },
     "firstKills": 47,
     "firstDeaths": 60,
@@ -5145,13 +5145,13 @@
     "kastPercent": 63.3,
     "hsPercent": 27.1,
     "hexagon": {
-      "combate": 53.1,
-      "consistencia": 26.6,
-      "mira": 56.9,
+      "combate": 68.7,
+      "consistencia": 69.6,
+      "mira": 67.8,
       "agressividade": 43.9,
-      "dano": 81.3,
+      "dano": 89.0,
       "suporte": 32.0,
-      "overall": 49.0
+      "overall": 61.8
     },
     "firstKills": 25,
     "firstDeaths": 40,
@@ -5209,13 +5209,13 @@
     "kastPercent": 75.8,
     "hsPercent": 22.9,
     "hexagon": {
-      "combate": 47.5,
-      "consistencia": 51.6,
-      "mira": 43.0,
+      "combate": 65.0,
+      "consistencia": 83.4,
+      "mira": 57.2,
       "agressividade": 22.2,
-      "dano": 56.1,
+      "dano": 74.2,
       "suporte": 86.4,
-      "overall": 51.1
+      "overall": 64.7
     },
     "firstKills": 13,
     "firstDeaths": 17,
@@ -5269,13 +5269,13 @@
     "kastPercent": 65.0,
     "hsPercent": 23.7,
     "hexagon": {
-      "combate": 64.5,
-      "consistencia": 30.0,
-      "mira": 45.6,
+      "combate": 76.3,
+      "consistencia": 71.5,
+      "mira": 59.2,
       "agressividade": 58.9,
-      "dano": 80.9,
+      "dano": 88.8,
       "suporte": 43.0,
-      "overall": 53.8
+      "overall": 66.3
     },
     "firstKills": 31,
     "firstDeaths": 33,
@@ -5339,13 +5339,13 @@
     "kastPercent": 69.0,
     "hsPercent": 29.4,
     "hexagon": {
-      "combate": 66.3,
-      "consistencia": 38.0,
-      "mira": 64.6,
+      "combate": 77.5,
+      "consistencia": 75.9,
+      "mira": 73.5,
       "agressividade": 39.3,
-      "dano": 89.4,
+      "dano": 93.8,
       "suporte": 62.9,
-      "overall": 60.1
+      "overall": 70.5
     },
     "firstKills": 20,
     "firstDeaths": 23,
@@ -5406,13 +5406,13 @@
     "kastPercent": 75.6,
     "hsPercent": 27.6,
     "hexagon": {
-      "combate": 76.5,
-      "consistencia": 51.2,
-      "mira": 58.6,
+      "combate": 84.4,
+      "consistencia": 83.2,
+      "mira": 69.0,
       "agressividade": 80.6,
       "dano": 100.0,
       "suporte": 47.8,
-      "overall": 69.1
+      "overall": 77.5
     },
     "firstKills": 36,
     "firstDeaths": 32,
@@ -5472,13 +5472,13 @@
     "kastPercent": 67.3,
     "hsPercent": 25.3,
     "hexagon": {
-      "combate": 66.0,
-      "consistencia": 34.6,
-      "mira": 50.9,
+      "combate": 77.4,
+      "consistencia": 74.0,
+      "mira": 63.2,
       "agressividade": 40.9,
-      "dano": 93.9,
+      "dano": 96.4,
       "suporte": 32.7,
-      "overall": 53.2
+      "overall": 64.1
     },
     "firstKills": 20,
     "firstDeaths": 24,
@@ -5540,13 +5540,13 @@
     "kastPercent": 67.9,
     "hsPercent": 25.5,
     "hexagon": {
-      "combate": 58.5,
-      "consistencia": 35.8,
-      "mira": 51.6,
+      "combate": 72.4,
+      "consistencia": 74.7,
+      "mira": 63.8,
       "agressividade": 73.3,
-      "dano": 78.0,
+      "dano": 87.1,
       "suporte": 28.1,
-      "overall": 54.2
+      "overall": 66.6
     },
     "firstKills": 36,
     "firstDeaths": 22,
@@ -5600,13 +5600,13 @@
     "kastPercent": 79.7,
     "hsPercent": 17.8,
     "hexagon": {
-      "combate": 49.7,
-      "consistencia": 59.4,
-      "mira": 26.0,
+      "combate": 66.4,
+      "consistencia": 87.7,
+      "mira": 44.5,
       "agressividade": 22.4,
-      "dano": 64.7,
+      "dano": 79.2,
       "suporte": 66.7,
-      "overall": 48.1
+      "overall": 61.2
     },
     "firstKills": 13,
     "firstDeaths": 12,
@@ -5666,13 +5666,13 @@
     "kastPercent": 77.0,
     "hsPercent": 18.3,
     "hexagon": {
-      "combate": 69.2,
-      "consistencia": 54.0,
-      "mira": 27.6,
+      "combate": 79.5,
+      "consistencia": 84.7,
+      "mira": 45.8,
       "agressividade": 58.1,
-      "dano": 90.4,
+      "dano": 94.4,
       "suporte": 77.4,
-      "overall": 62.8
+      "overall": 73.3
     },
     "firstKills": 28,
     "firstDeaths": 20,
@@ -5740,13 +5740,13 @@
     "kastPercent": 74.7,
     "hsPercent": 21.1,
     "hexagon": {
-      "combate": 55.9,
-      "consistencia": 49.4,
-      "mira": 37.0,
+      "combate": 70.6,
+      "consistencia": 82.2,
+      "mira": 52.8,
       "agressividade": 37.3,
-      "dano": 71.5,
+      "dano": 83.2,
       "suporte": 63.1,
-      "overall": 52.4
+      "overall": 64.9
     },
     "firstKills": 20,
     "firstDeaths": 20,
@@ -5806,13 +5806,13 @@
     "kastPercent": 81.0,
     "hsPercent": 25.8,
     "hexagon": {
-      "combate": 90.8,
-      "consistencia": 62.0,
-      "mira": 52.6,
+      "combate": 93.9,
+      "consistencia": 89.1,
+      "mira": 64.5,
       "agressividade": 40.2,
       "dano": 100.0,
       "suporte": 72.6,
-      "overall": 69.7
+      "overall": 76.7
     },
     "firstKills": 16,
     "firstDeaths": 20,
@@ -5870,13 +5870,13 @@
     "kastPercent": 73.5,
     "hsPercent": 20.3,
     "hexagon": {
-      "combate": 62.4,
-      "consistencia": 47.0,
-      "mira": 34.3,
+      "combate": 74.9,
+      "consistencia": 80.9,
+      "mira": 50.8,
       "agressividade": 50.4,
-      "dano": 89.6,
+      "dano": 93.9,
       "suporte": 67.3,
-      "overall": 58.5
+      "overall": 69.7
     },
     "firstKills": 25,
     "firstDeaths": 16,
@@ -5938,13 +5938,13 @@
     "kastPercent": 69.6,
     "hsPercent": 21.6,
     "hexagon": {
-      "combate": 29.1,
-      "consistencia": 39.2,
-      "mira": 38.6,
+      "combate": 52.7,
+      "consistencia": 76.6,
+      "mira": 54.0,
       "agressividade": 15.7,
-      "dano": 50.2,
+      "dano": 70.7,
       "suporte": 63.9,
-      "overall": 39.5
+      "overall": 55.6
     },
     "firstKills": 11,
     "firstDeaths": 20,
@@ -6008,13 +6008,13 @@
     "kastPercent": 74.3,
     "hsPercent": 20.4,
     "hexagon": {
-      "combate": 47.5,
-      "consistencia": 48.6,
-      "mira": 34.6,
+      "combate": 65.0,
+      "consistencia": 81.7,
+      "mira": 51.0,
       "agressividade": 33.8,
-      "dano": 60.9,
+      "dano": 77.0,
       "suporte": 100.0,
-      "overall": 54.2
+      "overall": 68.1
     },
     "firstKills": 21,
     "firstDeaths": 33,
@@ -6076,13 +6076,13 @@
     "kastPercent": 64.6,
     "hsPercent": 27.7,
     "hexagon": {
-      "combate": 53.0,
-      "consistencia": 29.2,
-      "mira": 58.9,
+      "combate": 68.7,
+      "consistencia": 71.1,
+      "mira": 69.2,
       "agressividade": 38.0,
-      "dano": 73.4,
+      "dano": 84.4,
       "suporte": 65.0,
-      "overall": 52.9
+      "overall": 66.1
     },
     "firstKills": 20,
     "firstDeaths": 27,
@@ -6143,13 +6143,13 @@
     "kastPercent": 62.4,
     "hsPercent": 33.1,
     "hexagon": {
-      "combate": 55.3,
-      "consistencia": 24.8,
-      "mira": 76.9,
+      "combate": 70.2,
+      "consistencia": 68.6,
+      "mira": 82.8,
       "agressividade": 53.2,
-      "dano": 65.0,
+      "dano": 79.4,
       "suporte": 26.2,
-      "overall": 50.2
+      "overall": 63.4
     },
     "firstKills": 28,
     "firstDeaths": 33,
@@ -6205,13 +6205,13 @@
     "kastPercent": 71.0,
     "hsPercent": 31.1,
     "hexagon": {
-      "combate": 52.5,
-      "consistencia": 42.0,
-      "mira": 70.3,
+      "combate": 68.3,
+      "consistencia": 78.1,
+      "mira": 77.8,
       "agressividade": 28.4,
-      "dano": 72.8,
+      "dano": 84.0,
       "suporte": 52.1,
-      "overall": 53.0
+      "overall": 64.8
     },
     "firstKills": 15,
     "firstDeaths": 32,
@@ -6267,13 +6267,13 @@
     "kastPercent": 70.2,
     "hsPercent": 28.7,
     "hexagon": {
-      "combate": 41.2,
-      "consistencia": 40.4,
-      "mira": 62.3,
+      "combate": 60.8,
+      "consistencia": 77.2,
+      "mira": 71.8,
       "agressividade": 38.1,
-      "dano": 50.0,
+      "dano": 70.6,
       "suporte": 70.6,
-      "overall": 50.4
+      "overall": 64.9
     },
     "firstKills": 23,
     "firstDeaths": 21,
@@ -6337,13 +6337,13 @@
     "kastPercent": 70.9,
     "hsPercent": 23.8,
     "hexagon": {
-      "combate": 80.9,
-      "consistencia": 41.8,
-      "mira": 46.0,
+      "combate": 87.3,
+      "consistencia": 78.0,
+      "mira": 59.5,
       "agressividade": 89.0,
       "dano": 100.0,
       "suporte": 52.7,
-      "overall": 68.4
+      "overall": 77.8
     },
     "firstKills": 36,
     "firstDeaths": 31,
@@ -6401,13 +6401,13 @@
     "kastPercent": 69.7,
     "hsPercent": 27.9,
     "hexagon": {
-      "combate": 60.8,
-      "consistencia": 39.4,
-      "mira": 59.6,
+      "combate": 73.9,
+      "consistencia": 76.7,
+      "mira": 69.8,
       "agressividade": 36.7,
-      "dano": 82.1,
+      "dano": 89.5,
       "suporte": 41.6,
-      "overall": 53.4
+      "overall": 64.7
     },
     "firstKills": 18,
     "firstDeaths": 17,
@@ -6464,13 +6464,13 @@
     "kastPercent": 68.8,
     "hsPercent": 25.6,
     "hexagon": {
-      "combate": 52.8,
-      "consistencia": 37.6,
-      "mira": 51.9,
+      "combate": 68.5,
+      "consistencia": 75.7,
+      "mira": 64.0,
       "agressividade": 32.6,
-      "dano": 68.7,
+      "dano": 81.6,
       "suporte": 60.6,
-      "overall": 50.7
+      "overall": 63.8
     },
     "firstKills": 16,
     "firstDeaths": 22,
@@ -6528,13 +6528,13 @@
     "kastPercent": 73.5,
     "hsPercent": 20.1,
     "hexagon": {
-      "combate": 52.1,
-      "consistencia": 47.0,
-      "mira": 33.6,
+      "combate": 68.1,
+      "consistencia": 80.9,
+      "mira": 50.2,
       "agressividade": 26.2,
-      "dano": 78.9,
+      "dano": 87.6,
       "suporte": 58.3,
-      "overall": 49.3
+      "overall": 61.9
     },
     "firstKills": 13,
     "firstDeaths": 13,
@@ -6593,13 +6593,13 @@
     "kastPercent": 65.5,
     "hsPercent": 21.8,
     "hexagon": {
-      "combate": 61.9,
-      "consistencia": 31.0,
-      "mira": 39.3,
+      "combate": 74.6,
+      "consistencia": 72.1,
+      "mira": 54.5,
       "agressividade": 51.1,
-      "dano": 96.2,
+      "dano": 97.8,
       "suporte": 48.2,
-      "overall": 54.6
+      "overall": 66.4
     },
     "firstKills": 25,
     "firstDeaths": 29,
@@ -6657,13 +6657,13 @@
     "kastPercent": 79.8,
     "hsPercent": 26.1,
     "hexagon": {
-      "combate": 86.9,
-      "consistencia": 59.6,
-      "mira": 53.6,
+      "combate": 91.3,
+      "consistencia": 87.8,
+      "mira": 65.2,
       "agressividade": 83.2,
       "dano": 100.0,
       "suporte": 64.7,
-      "overall": 74.7
+      "overall": 82.0
     },
     "firstKills": 32,
     "firstDeaths": 21,
@@ -6726,13 +6726,13 @@
     "kastPercent": 79.1,
     "hsPercent": 31.2,
     "hexagon": {
-      "combate": 80.3,
-      "consistencia": 58.2,
-      "mira": 70.6,
+      "combate": 86.9,
+      "consistencia": 87.0,
+      "mira": 78.0,
       "agressividade": 65.5,
       "dano": 100.0,
       "suporte": 31.6,
-      "overall": 67.7
+      "overall": 74.8
     },
     "firstKills": 23,
     "firstDeaths": 14,
@@ -6793,13 +6793,13 @@
     "kastPercent": 60.4,
     "hsPercent": 19.1,
     "hexagon": {
-      "combate": 41.8,
-      "consistencia": 20.8,
-      "mira": 30.3,
+      "combate": 61.2,
+      "consistencia": 66.4,
+      "mira": 47.8,
       "agressividade": 44.1,
-      "dano": 48.8,
+      "dano": 69.9,
       "suporte": 35.9,
-      "overall": 37.0
+      "overall": 54.2
     },
     "firstKills": 24,
     "firstDeaths": 34,
@@ -6855,13 +6855,13 @@
     "kastPercent": 75.1,
     "hsPercent": 22.1,
     "hexagon": {
-      "combate": 51.2,
-      "consistencia": 50.2,
-      "mira": 40.3,
+      "combate": 67.5,
+      "consistencia": 82.6,
+      "mira": 55.2,
       "agressividade": 26.5,
-      "dano": 67.3,
+      "dano": 80.8,
       "suporte": 64.3,
-      "overall": 50.0
+      "overall": 62.8
     },
     "firstKills": 13,
     "firstDeaths": 16,
@@ -6922,13 +6922,13 @@
     "kastPercent": 75.6,
     "hsPercent": 21.5,
     "hexagon": {
-      "combate": 51.2,
-      "consistencia": 51.2,
-      "mira": 38.3,
+      "combate": 67.5,
+      "consistencia": 83.2,
+      "mira": 53.8,
       "agressividade": 35.3,
-      "dano": 68.4,
+      "dano": 81.4,
       "suporte": 76.5,
-      "overall": 53.5
+      "overall": 66.3
     },
     "firstKills": 17,
     "firstDeaths": 20,
@@ -6990,13 +6990,13 @@
     "kastPercent": 69.0,
     "hsPercent": 30.1,
     "hexagon": {
-      "combate": 31.5,
-      "consistencia": 38.0,
-      "mira": 66.9,
+      "combate": 54.3,
+      "consistencia": 75.9,
+      "mira": 75.2,
       "agressividade": 15.1,
-      "dano": 44.4,
+      "dano": 67.3,
       "suporte": 70.9,
-      "overall": 44.5
+      "overall": 59.8
     },
     "firstKills": 9,
     "firstDeaths": 13,
@@ -7055,13 +7055,13 @@
     "kastPercent": 68.0,
     "hsPercent": 28.4,
     "hexagon": {
-      "combate": 44.5,
-      "consistencia": 36.0,
-      "mira": 61.3,
+      "combate": 63.0,
+      "consistencia": 74.8,
+      "mira": 71.0,
       "agressividade": 35.5,
-      "dano": 57.9,
+      "dano": 75.2,
       "suporte": 50.0,
-      "overall": 47.5
+      "overall": 61.6
     },
     "firstKills": 18,
     "firstDeaths": 24,
@@ -7117,13 +7117,13 @@
     "kastPercent": 77.5,
     "hsPercent": 29.9,
     "hexagon": {
-      "combate": 56.8,
-      "consistencia": 55.0,
-      "mira": 66.3,
+      "combate": 71.2,
+      "consistencia": 85.2,
+      "mira": 74.8,
       "agressividade": 59.6,
-      "dano": 69.8,
+      "dano": 82.2,
       "suporte": 50.0,
-      "overall": 59.6
+      "overall": 70.5
     },
     "firstKills": 27,
     "firstDeaths": 17,
@@ -7183,13 +7183,13 @@
     "kastPercent": 74.5,
     "hsPercent": 28.7,
     "hexagon": {
-      "combate": 32.5,
-      "consistencia": 49.0,
-      "mira": 62.3,
+      "combate": 55.0,
+      "consistencia": 82.0,
+      "mira": 71.8,
       "agressividade": 12.8,
-      "dano": 41.1,
+      "dano": 65.4,
       "suporte": 39.7,
-      "overall": 39.6
+      "overall": 54.4
     },
     "firstKills": 7,
     "firstDeaths": 20,
@@ -7246,13 +7246,13 @@
     "kastPercent": 66.1,
     "hsPercent": 23.4,
     "hexagon": {
-      "combate": 40.2,
-      "consistencia": 32.2,
-      "mira": 44.6,
+      "combate": 60.1,
+      "consistencia": 72.7,
+      "mira": 58.5,
       "agressividade": 39.0,
-      "dano": 50.4,
+      "dano": 70.8,
       "suporte": 66.1,
-      "overall": 45.4
+      "overall": 61.2
     },
     "firstKills": 21,
     "firstDeaths": 20,
@@ -7311,13 +7311,13 @@
     "kastPercent": 70.0,
     "hsPercent": 30.5,
     "hexagon": {
-      "combate": 44.5,
-      "consistencia": 40.0,
-      "mira": 68.3,
+      "combate": 63.0,
+      "consistencia": 77.0,
+      "mira": 76.2,
       "agressividade": 22.8,
-      "dano": 55.2,
+      "dano": 73.6,
       "suporte": 67.5,
-      "overall": 49.7
+      "overall": 63.4
     },
     "firstKills": 12,
     "firstDeaths": 17,
@@ -7372,13 +7372,13 @@
     "kastPercent": 67.3,
     "hsPercent": 21.0,
     "hexagon": {
-      "combate": 44.0,
-      "consistencia": 34.6,
-      "mira": 36.6,
+      "combate": 62.7,
+      "consistencia": 74.0,
+      "mira": 52.5,
       "agressividade": 29.0,
-      "dano": 58.6,
+      "dano": 75.6,
       "suporte": 60.8,
-      "overall": 43.9
+      "overall": 59.1
     },
     "firstKills": 14,
     "firstDeaths": 15,
@@ -7436,13 +7436,13 @@
     "kastPercent": 70.4,
     "hsPercent": 34.9,
     "hexagon": {
-      "combate": 66.5,
-      "consistencia": 40.8,
-      "mira": 82.9,
+      "combate": 77.7,
+      "consistencia": 77.4,
+      "mira": 87.2,
       "agressividade": 48.4,
-      "dano": 88.5,
+      "dano": 93.2,
       "suporte": 49.5,
-      "overall": 62.8
+      "overall": 72.2
     },
     "firstKills": 20,
     "firstDeaths": 24,
@@ -7502,13 +7502,13 @@
     "kastPercent": 72.2,
     "hsPercent": 33.2,
     "hexagon": {
-      "combate": 77.8,
-      "consistencia": 44.4,
-      "mira": 77.3,
+      "combate": 85.2,
+      "consistencia": 79.4,
+      "mira": 83.0,
       "agressividade": 63.9,
       "dano": 100.0,
       "suporte": 35.8,
-      "overall": 66.5
+      "overall": 74.5
     },
     "firstKills": 23,
     "firstDeaths": 26,
@@ -7569,13 +7569,13 @@
     "kastPercent": 64.0,
     "hsPercent": 19.5,
     "hexagon": {
-      "combate": 61.9,
-      "consistencia": 28.0,
-      "mira": 31.6,
+      "combate": 74.6,
+      "consistencia": 70.4,
+      "mira": 48.8,
       "agressividade": 48.0,
-      "dano": 79.3,
+      "dano": 87.8,
       "suporte": 61.9,
-      "overall": 51.8
+      "overall": 65.2
     },
     "firstKills": 21,
     "firstDeaths": 18,
@@ -7632,13 +7632,13 @@
     "kastPercent": 61.8,
     "hsPercent": 26.1,
     "hexagon": {
-      "combate": 47.9,
-      "consistencia": 23.6,
-      "mira": 53.6,
+      "combate": 65.3,
+      "consistencia": 68.0,
+      "mira": 65.2,
       "agressividade": 63.7,
-      "dano": 68.6,
+      "dano": 81.5,
       "suporte": 30.2,
-      "overall": 47.9
+      "overall": 62.3
     },
     "firstKills": 30,
     "firstDeaths": 28,
@@ -7696,13 +7696,13 @@
     "kastPercent": 63.5,
     "hsPercent": 18.0,
     "hexagon": {
-      "combate": 44.9,
-      "consistencia": 27.0,
-      "mira": 26.6,
+      "combate": 63.3,
+      "consistencia": 69.9,
+      "mira": 45.0,
       "agressividade": 36.7,
-      "dano": 62.3,
+      "dano": 77.8,
       "suporte": 48.9,
-      "overall": 41.1
+      "overall": 56.9
     },
     "firstKills": 19,
     "firstDeaths": 29,
@@ -7768,13 +7768,13 @@
     "kastPercent": 79.7,
     "hsPercent": 20.1,
     "hexagon": {
-      "combate": 75.6,
-      "consistencia": 59.4,
-      "mira": 33.6,
+      "combate": 83.7,
+      "consistencia": 87.7,
+      "mira": 50.2,
       "agressividade": 65.5,
-      "dano": 87.5,
+      "dano": 92.6,
       "suporte": 35.4,
-      "overall": 59.5
+      "overall": 69.2
     },
     "firstKills": 23,
     "firstDeaths": 16,
@@ -7833,13 +7833,13 @@
     "kastPercent": 70.6,
     "hsPercent": 27.2,
     "hexagon": {
-      "combate": 31.8,
-      "consistencia": 41.2,
-      "mira": 57.3,
+      "combate": 54.6,
+      "consistencia": 77.7,
+      "mira": 68.0,
       "agressividade": 14.7,
-      "dano": 45.8,
+      "dano": 68.1,
       "suporte": 68.6,
-      "overall": 43.2
+      "overall": 58.6
     },
     "firstKills": 8,
     "firstDeaths": 13,
@@ -7892,13 +7892,13 @@
     "kastPercent": 76.3,
     "hsPercent": 30.6,
     "hexagon": {
-      "combate": 33.2,
-      "consistencia": 52.6,
-      "mira": 68.6,
+      "combate": 55.4,
+      "consistencia": 83.9,
+      "mira": 76.5,
       "agressividade": 17.8,
-      "dano": 50.3,
+      "dano": 70.8,
       "suporte": 77.2,
-      "overall": 49.9
+      "overall": 63.6
     },
     "firstKills": 9,
     "firstDeaths": 20,
@@ -7955,13 +7955,13 @@
     "kastPercent": 72.0,
     "hsPercent": 13.2,
     "hexagon": {
-      "combate": 29.3,
-      "consistencia": 44.0,
-      "mira": 10.7,
+      "combate": 52.9,
+      "consistencia": 79.2,
+      "mira": 33.0,
       "agressividade": 41.4,
-      "dano": 36.4,
+      "dano": 62.6,
       "suporte": 58.2,
-      "overall": 36.7
+      "overall": 54.6
     },
     "firstKills": 24,
     "firstDeaths": 42,
@@ -8026,13 +8026,13 @@
     "kastPercent": 70.9,
     "hsPercent": 27.1,
     "hexagon": {
-      "combate": 60.6,
-      "consistencia": 41.8,
-      "mira": 56.9,
+      "combate": 73.7,
+      "consistencia": 78.0,
+      "mira": 67.8,
       "agressividade": 24.7,
-      "dano": 74.0,
+      "dano": 84.7,
       "suporte": 56.0,
-      "overall": 52.3
+      "overall": 64.1
     },
     "firstKills": 10,
     "firstDeaths": 10,
@@ -8091,13 +8091,13 @@
     "kastPercent": 72.0,
     "hsPercent": 25.7,
     "hexagon": {
-      "combate": 62.9,
-      "consistencia": 44.0,
-      "mira": 52.3,
+      "combate": 75.3,
+      "consistencia": 79.2,
+      "mira": 64.2,
       "agressividade": 56.2,
-      "dano": 87.5,
+      "dano": 92.6,
       "suporte": 46.4,
-      "overall": 58.2
+      "overall": 69.0
     },
     "firstKills": 21,
     "firstDeaths": 14,
@@ -8157,13 +8157,13 @@
     "kastPercent": 71.4,
     "hsPercent": 22.7,
     "hexagon": {
-      "combate": 70.5,
-      "consistencia": 42.8,
-      "mira": 42.3,
+      "combate": 80.3,
+      "consistencia": 78.5,
+      "mira": 56.8,
       "agressividade": 100.0,
-      "dano": 84.6,
+      "dano": 90.9,
       "suporte": 31.1,
-      "overall": 61.9
+      "overall": 72.9
     },
     "firstKills": 37,
     "firstDeaths": 28,
@@ -8220,13 +8220,13 @@
     "kastPercent": 69.2,
     "hsPercent": 19.3,
     "hexagon": {
-      "combate": 51.9,
-      "consistencia": 38.4,
-      "mira": 31.0,
+      "combate": 67.9,
+      "consistencia": 76.1,
+      "mira": 48.2,
       "agressividade": 51.1,
-      "dano": 65.2,
+      "dano": 79.5,
       "suporte": 44.3,
-      "overall": 47.0
+      "overall": 61.2
     },
     "firstKills": 21,
     "firstDeaths": 23,
@@ -8285,13 +8285,13 @@
     "kastPercent": 78.0,
     "hsPercent": 33.1,
     "hexagon": {
-      "combate": 91.8,
-      "consistencia": 56.0,
-      "mira": 76.9,
+      "combate": 94.5,
+      "consistencia": 85.8,
+      "mira": 82.8,
       "agressividade": 88.6,
       "dano": 100.0,
       "suporte": 74.2,
-      "overall": 81.2
+      "overall": 87.7
     },
     "firstKills": 26,
     "firstDeaths": 14,
@@ -8349,13 +8349,13 @@
     "kastPercent": 67.3,
     "hsPercent": 22.5,
     "hexagon": {
-      "combate": 32.4,
-      "consistencia": 34.6,
-      "mira": 41.6,
+      "combate": 54.9,
+      "consistencia": 74.0,
+      "mira": 56.2,
       "agressividade": 18.4,
-      "dano": 38.6,
+      "dano": 63.9,
       "suporte": 58.2,
-      "overall": 37.3
+      "overall": 54.3
     },
     "firstKills": 9,
     "firstDeaths": 15,
@@ -8412,13 +8412,13 @@
     "kastPercent": 70.8,
     "hsPercent": 29.2,
     "hexagon": {
-      "combate": 56.0,
-      "consistencia": 41.6,
-      "mira": 63.9,
+      "combate": 70.6,
+      "consistencia": 77.9,
+      "mira": 73.0,
       "agressividade": 32.1,
-      "dano": 72.9,
+      "dano": 84.1,
       "suporte": 60.7,
-      "overall": 54.5
+      "overall": 66.4
     },
     "firstKills": 12,
     "firstDeaths": 14,
@@ -8478,13 +8478,13 @@
     "kastPercent": 62.6,
     "hsPercent": 26.0,
     "hexagon": {
-      "combate": 55.8,
-      "consistencia": 25.2,
-      "mira": 53.3,
+      "combate": 70.6,
+      "consistencia": 68.9,
+      "mira": 65.0,
       "agressividade": 71.7,
-      "dano": 67.9,
+      "dano": 81.1,
       "suporte": 33.0,
-      "overall": 51.1
+      "overall": 65.0
     },
     "firstKills": 29,
     "firstDeaths": 36,
@@ -8545,13 +8545,13 @@
     "kastPercent": 70.0,
     "hsPercent": 23.3,
     "hexagon": {
-      "combate": 36.8,
-      "consistencia": 40.0,
-      "mira": 44.3,
+      "combate": 57.8,
+      "consistencia": 77.0,
+      "mira": 58.2,
       "agressividade": 24.2,
-      "dano": 50.9,
+      "dano": 71.1,
       "suporte": 55.6,
-      "overall": 42.0
+      "overall": 57.3
     },
     "firstKills": 12,
     "firstDeaths": 8,
@@ -8610,13 +8610,13 @@
     "kastPercent": 71.3,
     "hsPercent": 26.6,
     "hexagon": {
-      "combate": 52.3,
-      "consistencia": 42.6,
-      "mira": 55.3,
+      "combate": 68.2,
+      "consistencia": 78.4,
+      "mira": 66.5,
       "agressividade": 28.4,
-      "dano": 81.8,
+      "dano": 89.3,
       "suporte": 49.4,
-      "overall": 51.6
+      "overall": 63.4
     },
     "firstKills": 11,
     "firstDeaths": 11,
@@ -8675,13 +8675,13 @@
     "kastPercent": 67.9,
     "hsPercent": 32.9,
     "hexagon": {
-      "combate": 34.5,
-      "consistencia": 35.8,
-      "mira": 76.3,
+      "combate": 56.3,
+      "consistencia": 74.7,
+      "mira": 82.2,
       "agressividade": 32.6,
-      "dano": 49.5,
+      "dano": 70.3,
       "suporte": 60.6,
-      "overall": 48.2
+      "overall": 62.8
     },
     "firstKills": 16,
     "firstDeaths": 27,
@@ -8740,13 +8740,13 @@
     "kastPercent": 68.4,
     "hsPercent": 21.0,
     "hexagon": {
-      "combate": 48.2,
-      "consistencia": 36.8,
-      "mira": 36.6,
+      "combate": 65.4,
+      "consistencia": 75.2,
+      "mira": 52.5,
       "agressividade": 37.9,
-      "dano": 74.8,
+      "dano": 85.2,
       "suporte": 48.4,
-      "overall": 47.1
+      "overall": 60.8
     },
     "firstKills": 16,
     "firstDeaths": 13,
@@ -8804,13 +8804,13 @@
     "kastPercent": 69.4,
     "hsPercent": 30.6,
     "hexagon": {
-      "combate": 29.2,
-      "consistencia": 38.8,
-      "mira": 68.6,
+      "combate": 52.8,
+      "consistencia": 76.3,
+      "mira": 76.5,
       "agressividade": 19.7,
-      "dano": 44.2,
+      "dano": 67.2,
       "suporte": 79.5,
-      "overall": 46.7
+      "overall": 62.0
     },
     "firstKills": 10,
     "firstDeaths": 18,
@@ -8863,13 +8863,13 @@
     "kastPercent": 70.9,
     "hsPercent": 21.8,
     "hexagon": {
-      "combate": 32.3,
-      "consistencia": 41.8,
-      "mira": 39.3,
+      "combate": 54.9,
+      "consistencia": 78.0,
+      "mira": 54.5,
       "agressividade": 28.6,
-      "dano": 45.0,
+      "dano": 67.6,
       "suporte": 65.5,
-      "overall": 42.1
+      "overall": 58.2
     },
     "firstKills": 14,
     "firstDeaths": 18,
@@ -8932,13 +8932,13 @@
     "kastPercent": 73.2,
     "hsPercent": 28.4,
     "hexagon": {
-      "combate": 72.2,
-      "consistencia": 46.4,
-      "mira": 61.3,
+      "combate": 81.4,
+      "consistencia": 80.5,
+      "mira": 71.0,
       "agressividade": 64.7,
-      "dano": 92.6,
+      "dano": 95.6,
       "suporte": 96.7,
-      "overall": 72.3
+      "overall": 81.7
     },
     "firstKills": 22,
     "firstDeaths": 24,
@@ -8999,13 +8999,13 @@
     "kastPercent": 65.9,
     "hsPercent": 21.5,
     "hexagon": {
-      "combate": 32.2,
-      "consistencia": 31.8,
-      "mira": 38.3,
+      "combate": 54.8,
+      "consistencia": 72.5,
+      "mira": 53.8,
       "agressividade": 32.3,
-      "dano": 46.9,
+      "dano": 68.8,
       "suporte": 66.4,
-      "overall": 41.3
+      "overall": 58.1
     },
     "firstKills": 16,
     "firstDeaths": 24,
@@ -9063,13 +9063,13 @@
     "kastPercent": 70.3,
     "hsPercent": 25.3,
     "hexagon": {
-      "combate": 41.8,
-      "consistencia": 40.6,
-      "mira": 50.9,
+      "combate": 61.2,
+      "consistencia": 77.3,
+      "mira": 63.2,
       "agressividade": 31.6,
-      "dano": 56.0,
+      "dano": 74.1,
       "suporte": 38.9,
-      "overall": 43.3
+      "overall": 57.7
     },
     "firstKills": 13,
     "firstDeaths": 10,
@@ -9124,13 +9124,13 @@
     "kastPercent": 77.8,
     "hsPercent": 29.0,
     "hexagon": {
-      "combate": 33.5,
-      "consistencia": 55.6,
-      "mira": 63.3,
+      "combate": 55.7,
+      "consistencia": 85.6,
+      "mira": 72.5,
       "agressividade": 11.9,
-      "dano": 46.7,
+      "dano": 68.6,
       "suporte": 77.2,
-      "overall": 48.0
+      "overall": 61.9
     },
     "firstKills": 5,
     "firstDeaths": 9,
@@ -9187,13 +9187,13 @@
     "kastPercent": 62.9,
     "hsPercent": 37.2,
     "hexagon": {
-      "combate": 61.2,
-      "consistencia": 25.8,
-      "mira": 90.6,
+      "combate": 74.2,
+      "consistencia": 69.2,
+      "mira": 93.0,
       "agressividade": 45.0,
-      "dano": 82.7,
+      "dano": 89.8,
       "suporte": 35.7,
-      "overall": 56.8
+      "overall": 67.8
     },
     "firstKills": 14,
     "firstDeaths": 15,
@@ -9253,13 +9253,13 @@
     "kastPercent": 66.8,
     "hsPercent": 28.6,
     "hexagon": {
-      "combate": 14.3,
-      "consistencia": 33.6,
-      "mira": 61.9,
+      "combate": 42.9,
+      "consistencia": 73.5,
+      "mira": 71.5,
       "agressividade": 5.5,
-      "dano": 24.4,
+      "dano": 55.5,
       "suporte": 50.2,
-      "overall": 31.7
+      "overall": 49.9
     },
     "firstKills": 3,
     "firstDeaths": 18,
@@ -9315,13 +9315,13 @@
     "kastPercent": 69.9,
     "hsPercent": 26.4,
     "hexagon": {
-      "combate": 42.7,
-      "consistencia": 39.8,
-      "mira": 54.6,
+      "combate": 61.8,
+      "consistencia": 76.9,
+      "mira": 66.0,
       "agressividade": 31.2,
-      "dano": 66.7,
+      "dano": 80.4,
       "suporte": 57.8,
-      "overall": 48.8
+      "overall": 62.3
     },
     "firstKills": 12,
     "firstDeaths": 20,
@@ -9379,13 +9379,13 @@
     "kastPercent": 72.2,
     "hsPercent": 33.2,
     "hexagon": {
-      "combate": 39.5,
-      "consistencia": 44.4,
-      "mira": 77.3,
+      "combate": 59.7,
+      "consistencia": 79.4,
+      "mira": 83.0,
       "agressividade": 27.8,
-      "dano": 47.1,
+      "dano": 68.9,
       "suporte": 45.7,
-      "overall": 47.0
+      "overall": 60.8
     },
     "firstKills": 10,
     "firstDeaths": 10,
@@ -9443,13 +9443,13 @@
     "kastPercent": 84.7,
     "hsPercent": 38.2,
     "hexagon": {
-      "combate": 83.4,
-      "consistencia": 69.4,
-      "mira": 93.9,
+      "combate": 89.0,
+      "consistencia": 93.2,
+      "mira": 95.5,
       "agressividade": 89.2,
       "dano": 100.0,
       "suporte": 66.7,
-      "overall": 83.8
+      "overall": 88.9
     },
     "firstKills": 22,
     "firstDeaths": 11,
@@ -9505,13 +9505,13 @@
     "kastPercent": 69.6,
     "hsPercent": 21.5,
     "hexagon": {
-      "combate": 47.5,
-      "consistencia": 39.2,
-      "mira": 38.3,
+      "combate": 65.0,
+      "consistencia": 76.6,
+      "mira": 53.8,
       "agressividade": 29.5,
-      "dano": 57.3,
+      "dano": 74.9,
       "suporte": 76.2,
-      "overall": 48.0
+      "overall": 62.7
     },
     "firstKills": 11,
     "firstDeaths": 19,
@@ -9566,13 +9566,13 @@
     "kastPercent": 67.4,
     "hsPercent": 27.0,
     "hexagon": {
-      "combate": 60.5,
-      "consistencia": 34.8,
-      "mira": 56.6,
+      "combate": 73.7,
+      "consistencia": 74.1,
+      "mira": 67.5,
       "agressividade": 78.1,
-      "dano": 84.6,
+      "dano": 90.9,
       "suporte": 54.2,
-      "overall": 61.5
+      "overall": 73.1
     },
     "firstKills": 25,
     "firstDeaths": 26,
@@ -9631,13 +9631,13 @@
     "kastPercent": 85.4,
     "hsPercent": 27.4,
     "hexagon": {
-      "combate": 47.2,
-      "consistencia": 70.8,
-      "mira": 57.9,
+      "combate": 64.8,
+      "consistencia": 93.9,
+      "mira": 68.5,
       "agressividade": 22.8,
-      "dano": 72.0,
+      "dano": 83.5,
       "suporte": 100.0,
-      "overall": 61.8
+      "overall": 72.2
     },
     "firstKills": 8,
     "firstDeaths": 7,
@@ -9690,13 +9690,13 @@
     "kastPercent": 56.8,
     "hsPercent": 14.1,
     "hexagon": {
-      "combate": 31.0,
-      "consistencia": 13.6,
-      "mira": 13.7,
+      "combate": 54.0,
+      "consistencia": 62.5,
+      "mira": 35.2,
       "agressividade": 40.7,
-      "dano": 40.7,
+      "dano": 65.1,
       "suporte": 38.2,
-      "overall": 29.6
+      "overall": 49.3
     },
     "firstKills": 18,
     "firstDeaths": 30,
@@ -9753,13 +9753,13 @@
     "kastPercent": 69.1,
     "hsPercent": 29.8,
     "hexagon": {
-      "combate": 58.2,
-      "consistencia": 38.2,
-      "mira": 65.9,
+      "combate": 72.1,
+      "consistencia": 76.0,
+      "mira": 74.5,
       "agressividade": 81.5,
-      "dano": 79.6,
+      "dano": 88.0,
       "suporte": 43.0,
-      "overall": 61.1
+      "overall": 72.5
     },
     "firstKills": 27,
     "firstDeaths": 21,
@@ -9818,13 +9818,13 @@
     "kastPercent": 60.8,
     "hsPercent": 18.5,
     "hexagon": {
-      "combate": 16.0,
-      "consistencia": 21.6,
-      "mira": 28.3,
+      "combate": 44.0,
+      "consistencia": 66.9,
+      "mira": 46.2,
       "agressividade": 20.9,
-      "dano": 23.7,
+      "dano": 55.1,
       "suporte": 26.2,
-      "overall": 22.8
+      "overall": 43.2
     },
     "firstKills": 11,
     "firstDeaths": 25,
@@ -9881,13 +9881,13 @@
     "kastPercent": 76.9,
     "hsPercent": 24.5,
     "hexagon": {
-      "combate": 66.6,
-      "consistencia": 53.8,
-      "mira": 48.3,
+      "combate": 77.7,
+      "consistencia": 84.6,
+      "mira": 61.2,
       "agressividade": 31.2,
-      "dano": 94.9,
+      "dano": 97.0,
       "suporte": 84.6,
-      "overall": 63.2
+      "overall": 72.7
     },
     "firstKills": 9,
     "firstDeaths": 1,
@@ -9944,13 +9944,13 @@
     "kastPercent": 63.0,
     "hsPercent": 18.1,
     "hexagon": {
-      "combate": 25.4,
-      "consistencia": 26.0,
-      "mira": 27.0,
+      "combate": 50.3,
+      "consistencia": 69.3,
+      "mira": 45.2,
       "agressividade": 31.2,
-      "dano": 44.2,
+      "dano": 67.2,
       "suporte": 57.4,
-      "overall": 35.2
+      "overall": 53.4
     },
     "firstKills": 15,
     "firstDeaths": 19,
@@ -10009,13 +10009,13 @@
     "kastPercent": 66.7,
     "hsPercent": 28.5,
     "hexagon": {
-      "combate": 52.5,
-      "consistencia": 33.4,
-      "mira": 61.6,
+      "combate": 68.3,
+      "consistencia": 73.4,
+      "mira": 71.2,
       "agressividade": 44.7,
-      "dano": 67.1,
+      "dano": 80.6,
       "suporte": 29.8,
-      "overall": 48.2
+      "overall": 61.3
     },
     "firstKills": 14,
     "firstDeaths": 15,
@@ -10072,13 +10072,13 @@
     "kastPercent": 79.7,
     "hsPercent": 31.2,
     "hexagon": {
-      "combate": 84.3,
-      "consistencia": 59.4,
-      "mira": 70.6,
+      "combate": 89.6,
+      "consistencia": 87.7,
+      "mira": 78.0,
       "agressividade": 68.6,
       "dano": 100.0,
       "suporte": 83.1,
-      "overall": 77.7
+      "overall": 84.5
     },
     "firstKills": 18,
     "firstDeaths": 12,
@@ -10132,13 +10132,13 @@
     "kastPercent": 66.1,
     "hsPercent": 11.9,
     "hexagon": {
-      "combate": 48.4,
-      "consistencia": 32.2,
-      "mira": 6.3,
+      "combate": 65.6,
+      "consistencia": 72.7,
+      "mira": 29.8,
       "agressividade": 45.5,
-      "dano": 61.3,
+      "dano": 77.2,
       "suporte": 53.6,
-      "overall": 41.2
+      "overall": 57.4
     },
     "firstKills": 17,
     "firstDeaths": 22,
@@ -10197,13 +10197,13 @@
     "kastPercent": 77.7,
     "hsPercent": 23.2,
     "hexagon": {
-      "combate": 52.8,
-      "consistencia": 55.4,
-      "mira": 44.0,
+      "combate": 68.5,
+      "consistencia": 85.5,
+      "mira": 58.0,
       "agressividade": 63.9,
-      "dano": 65.9,
+      "dano": 79.9,
       "suporte": 28.4,
-      "overall": 51.7
+      "overall": 64.0
     },
     "firstKills": 21,
     "firstDeaths": 12,
@@ -10261,13 +10261,13 @@
     "kastPercent": 64.4,
     "hsPercent": 23.4,
     "hexagon": {
-      "combate": 47.5,
-      "consistencia": 28.8,
-      "mira": 44.6,
+      "combate": 65.0,
+      "consistencia": 70.8,
+      "mira": 58.5,
       "agressividade": 51.3,
-      "dano": 58.3,
+      "dano": 75.5,
       "suporte": 25.5,
-      "overall": 42.7
+      "overall": 57.8
     },
     "firstKills": 17,
     "firstDeaths": 26,
@@ -10324,13 +10324,13 @@
     "kastPercent": 77.8,
     "hsPercent": 32.3,
     "hexagon": {
-      "combate": 96.4,
-      "consistencia": 55.6,
-      "mira": 74.3,
+      "combate": 97.6,
+      "consistencia": 85.6,
+      "mira": 80.8,
       "agressividade": 100.0,
       "dano": 100.0,
       "suporte": 30.3,
-      "overall": 76.1
+      "overall": 82.4
     },
     "firstKills": 25,
     "firstDeaths": 12,
@@ -10389,13 +10389,13 @@
     "kastPercent": 72.2,
     "hsPercent": 26.5,
     "hexagon": {
-      "combate": 49.0,
-      "consistencia": 44.4,
-      "mira": 54.9,
+      "combate": 66.0,
+      "consistencia": 79.4,
+      "mira": 66.2,
       "agressividade": 28.1,
-      "dano": 73.5,
+      "dano": 84.4,
       "suporte": 52.8,
-      "overall": 50.4
+      "overall": 62.8
     },
     "firstKills": 9,
     "firstDeaths": 4,
@@ -10455,13 +10455,13 @@
     "kastPercent": 79.6,
     "hsPercent": 31.1,
     "hexagon": {
-      "combate": 99.1,
-      "consistencia": 59.2,
-      "mira": 70.3,
+      "combate": 99.4,
+      "consistencia": 87.6,
+      "mira": 77.8,
       "agressividade": 100.0,
       "dano": 100.0,
       "suporte": 34.7,
-      "overall": 77.2
+      "overall": 83.2
     },
     "firstKills": 27,
     "firstDeaths": 12,
@@ -10521,13 +10521,13 @@
     "kastPercent": 71.8,
     "hsPercent": 22.1,
     "hexagon": {
-      "combate": 72.0,
-      "consistencia": 43.6,
-      "mira": 40.3,
+      "combate": 81.4,
+      "consistencia": 79.0,
+      "mira": 55.2,
       "agressividade": 98.0,
-      "dano": 87.0,
+      "dano": 92.4,
       "suporte": 32.3,
-      "overall": 62.2
+      "overall": 73.0
     },
     "firstKills": 27,
     "firstDeaths": 20,
@@ -10586,13 +10586,13 @@
     "kastPercent": 59.6,
     "hsPercent": 26.2,
     "hexagon": {
-      "combate": 57.0,
-      "consistencia": 19.2,
-      "mira": 53.9,
+      "combate": 71.4,
+      "consistencia": 65.6,
+      "mira": 65.5,
       "agressividade": 76.6,
-      "dano": 80.2,
+      "dano": 88.4,
       "suporte": 31.2,
-      "overall": 53.0
+      "overall": 66.5
     },
     "firstKills": 24,
     "firstDeaths": 23,
@@ -10647,13 +10647,13 @@
     "kastPercent": 75.2,
     "hsPercent": 33.1,
     "hexagon": {
-      "combate": 74.5,
-      "consistencia": 50.4,
-      "mira": 76.9,
+      "combate": 83.0,
+      "consistencia": 82.7,
+      "mira": 82.8,
       "agressividade": 50.0,
-      "dano": 99.8,
+      "dano": 99.9,
       "suporte": 47.9,
-      "overall": 66.6
+      "overall": 74.4
     },
     "firstKills": 13,
     "firstDeaths": 11,
@@ -10713,13 +10713,13 @@
     "kastPercent": 63.8,
     "hsPercent": 16.4,
     "hexagon": {
-      "combate": 55.3,
-      "consistencia": 27.6,
-      "mira": 21.3,
+      "combate": 70.2,
+      "consistencia": 70.2,
+      "mira": 41.0,
       "agressividade": 57.4,
-      "dano": 72.3,
+      "dano": 83.7,
       "suporte": 52.3,
-      "overall": 47.7
+      "overall": 62.5
     },
     "firstKills": 19,
     "firstDeaths": 19,
@@ -10778,13 +10778,13 @@
     "kastPercent": 79.9,
     "hsPercent": 23.4,
     "hexagon": {
-      "combate": 55.5,
-      "consistencia": 59.8,
-      "mira": 44.6,
+      "combate": 70.4,
+      "consistencia": 87.9,
+      "mira": 58.5,
       "agressividade": 37.5,
-      "dano": 81.1,
+      "dano": 88.9,
       "suporte": 86.1,
-      "overall": 60.8
+      "overall": 71.6
     },
     "firstKills": 12,
     "firstDeaths": 3,
@@ -10841,13 +10841,13 @@
     "kastPercent": 65.0,
     "hsPercent": 20.9,
     "hexagon": {
-      "combate": 26.7,
-      "consistencia": 30.0,
-      "mira": 36.3,
+      "combate": 51.1,
+      "consistencia": 71.5,
+      "mira": 52.2,
       "agressividade": 11.1,
-      "dano": 37.9,
+      "dano": 63.5,
       "suporte": 70.9,
-      "overall": 35.5
+      "overall": 53.4
     },
     "firstKills": 5,
     "firstDeaths": 17,
@@ -10910,13 +10910,13 @@
     "kastPercent": 58.4,
     "hsPercent": 25.8,
     "hexagon": {
-      "combate": 24.7,
-      "consistencia": 16.8,
-      "mira": 52.6,
+      "combate": 49.8,
+      "consistencia": 64.2,
+      "mira": 64.5,
       "agressividade": 26.7,
-      "dano": 33.1,
+      "dano": 60.6,
       "suporte": 51.5,
-      "overall": 34.2
+      "overall": 52.9
     },
     "firstKills": 12,
     "firstDeaths": 26,
@@ -10973,13 +10973,13 @@
     "kastPercent": 67.2,
     "hsPercent": 25.5,
     "hexagon": {
-      "combate": 30.2,
-      "consistencia": 34.4,
-      "mira": 51.6,
+      "combate": 53.5,
+      "consistencia": 73.9,
+      "mira": 63.8,
       "agressividade": 12.3,
-      "dano": 42.7,
+      "dano": 66.3,
       "suporte": 66.7,
-      "overall": 39.6
+      "overall": 56.1
     },
     "firstKills": 5,
     "firstDeaths": 13,
@@ -11036,13 +11036,13 @@
     "kastPercent": 64.1,
     "hsPercent": 20.0,
     "hexagon": {
-      "combate": 58.0,
-      "consistencia": 28.2,
-      "mira": 33.3,
+      "combate": 72.0,
+      "consistencia": 70.5,
+      "mira": 50.0,
       "agressividade": 63.3,
-      "dano": 63.8,
+      "dano": 78.7,
       "suporte": 18.8,
-      "overall": 44.2
+      "overall": 58.9
     },
     "firstKills": 18,
     "firstDeaths": 13,
@@ -11100,13 +11100,13 @@
     "kastPercent": 66.0,
     "hsPercent": 23.3,
     "hexagon": {
-      "combate": 17.3,
-      "consistencia": 32.0,
-      "mira": 44.3,
+      "combate": 44.9,
+      "consistencia": 72.6,
+      "mira": 58.2,
       "agressividade": 12.6,
-      "dano": 20.1,
+      "dano": 53.0,
       "suporte": 58.6,
-      "overall": 30.8
+      "overall": 50.0
     },
     "firstKills": 6,
     "firstDeaths": 17,
@@ -11159,13 +11159,13 @@
     "kastPercent": 62.9,
     "hsPercent": 25.9,
     "hexagon": {
-      "combate": 23.0,
-      "consistencia": 25.8,
-      "mira": 52.9,
+      "combate": 48.7,
+      "consistencia": 69.2,
+      "mira": 64.8,
       "agressividade": 11.6,
-      "dano": 36.6,
+      "dano": 62.7,
       "suporte": 51.5,
-      "overall": 33.6
+      "overall": 51.4
     },
     "firstKills": 5,
     "firstDeaths": 11,
@@ -11221,13 +11221,13 @@
     "kastPercent": 62.1,
     "hsPercent": 21.9,
     "hexagon": {
-      "combate": 46.7,
-      "consistencia": 24.2,
-      "mira": 39.6,
+      "combate": 64.4,
+      "consistencia": 68.3,
+      "mira": 54.8,
       "agressividade": 22.5,
-      "dano": 54.9,
+      "dano": 73.5,
       "suporte": 38.6,
-      "overall": 37.8
+      "overall": 53.7
     },
     "firstKills": 7,
     "firstDeaths": 18,
@@ -11287,12 +11287,12 @@
     "hsPercent": 68.0,
     "hexagon": {
       "combate": 100.0,
-      "consistencia": 50.0,
+      "consistencia": 82.5,
       "mira": 100.0,
       "agressividade": 82.9,
       "dano": 100.0,
       "suporte": 28.9,
-      "overall": 77.0
+      "overall": 82.4
     },
     "firstKills": 14,
     "firstDeaths": 9,
@@ -11344,13 +11344,13 @@
     "kastPercent": 71.4,
     "hsPercent": 40.8,
     "hexagon": {
-      "combate": 74.8,
-      "consistencia": 42.8,
+      "combate": 83.2,
+      "consistencia": 78.5,
       "mira": 100.0,
       "agressividade": 25.7,
       "dano": 100.0,
       "suporte": 49.5,
-      "overall": 65.5
+      "overall": 72.8
     },
     "firstKills": 6,
     "firstDeaths": 11,
@@ -11406,13 +11406,13 @@
     "kastPercent": 63.9,
     "hsPercent": 22.2,
     "hexagon": {
-      "combate": 26.8,
-      "consistencia": 27.8,
-      "mira": 40.6,
+      "combate": 51.2,
+      "consistencia": 70.3,
+      "mira": 55.5,
       "agressividade": 34.4,
-      "dano": 38.5,
+      "dano": 63.8,
       "suporte": 56.8,
-      "overall": 37.5
+      "overall": 55.3
     },
     "firstKills": 14,
     "firstDeaths": 23,
@@ -11474,13 +11474,13 @@
     "kastPercent": 72.6,
     "hsPercent": 26.0,
     "hexagon": {
-      "combate": 46.3,
-      "consistencia": 45.2,
-      "mira": 53.3,
+      "combate": 64.2,
+      "consistencia": 79.9,
+      "mira": 65.0,
       "agressividade": 36.7,
-      "dano": 59.0,
+      "dano": 75.9,
       "suporte": 71.1,
-      "overall": 51.9
+      "overall": 65.5
     },
     "firstKills": 11,
     "firstDeaths": 10,
@@ -11536,13 +11536,13 @@
     "kastPercent": 59.3,
     "hsPercent": 24.7,
     "hexagon": {
-      "combate": 44.8,
-      "consistencia": 18.6,
-      "mira": 49.0,
+      "combate": 63.2,
+      "consistencia": 65.2,
+      "mira": 61.8,
       "agressividade": 36.7,
-      "dano": 57.0,
+      "dano": 74.7,
       "suporte": 50.4,
-      "overall": 42.8
+      "overall": 58.7
     },
     "firstKills": 11,
     "firstDeaths": 19,
@@ -11600,13 +11600,13 @@
     "kastPercent": 70.5,
     "hsPercent": 29.7,
     "hexagon": {
-      "combate": 35.7,
-      "consistencia": 41.0,
-      "mira": 65.6,
+      "combate": 57.1,
+      "consistencia": 77.6,
+      "mira": 74.2,
       "agressividade": 15.1,
-      "dano": 54.1,
+      "dano": 73.0,
       "suporte": 45.6,
-      "overall": 42.9
+      "overall": 57.1
     },
     "firstKills": 5,
     "firstDeaths": 6,
@@ -11663,13 +11663,13 @@
     "kastPercent": 69.3,
     "hsPercent": 19.6,
     "hexagon": {
-      "combate": 40.2,
-      "consistencia": 38.6,
-      "mira": 32.0,
+      "combate": 60.2,
+      "consistencia": 76.2,
+      "mira": 49.0,
       "agressividade": 41.8,
-      "dano": 55.8,
+      "dano": 74.0,
       "suporte": 51.4,
-      "overall": 43.3
+      "overall": 58.8
     },
     "firstKills": 13,
     "firstDeaths": 16,
@@ -11730,13 +11730,13 @@
     "kastPercent": 57.1,
     "hsPercent": 27.9,
     "hexagon": {
-      "combate": 54.4,
-      "consistencia": 14.2,
-      "mira": 59.6,
+      "combate": 69.6,
+      "consistencia": 62.8,
+      "mira": 69.8,
       "agressividade": 67.7,
-      "dano": 65.5,
+      "dano": 79.7,
       "suporte": 40.6,
-      "overall": 50.3
+      "overall": 65.0
     },
     "firstKills": 20,
     "firstDeaths": 25,
@@ -11794,13 +11794,13 @@
     "kastPercent": 63.8,
     "hsPercent": 15.6,
     "hexagon": {
-      "combate": 45.2,
-      "consistencia": 27.6,
-      "mira": 18.6,
+      "combate": 63.4,
+      "consistencia": 70.2,
+      "mira": 39.0,
       "agressividade": 25.5,
-      "dano": 82.3,
+      "dano": 89.6,
       "suporte": 44.0,
-      "overall": 40.5
+      "overall": 55.3
     },
     "firstKills": 8,
     "firstDeaths": 4,
@@ -11858,13 +11858,13 @@
     "kastPercent": 70.3,
     "hsPercent": 23.2,
     "hexagon": {
-      "combate": 38.3,
-      "consistencia": 40.6,
-      "mira": 44.0,
+      "combate": 58.9,
+      "consistencia": 77.3,
+      "mira": 58.0,
       "agressividade": 40.3,
-      "dano": 48.7,
+      "dano": 69.8,
       "suporte": 56.6,
-      "overall": 44.8
+      "overall": 60.2
     },
     "firstKills": 13,
     "firstDeaths": 11,
@@ -11928,13 +11928,13 @@
     "kastPercent": 67.4,
     "hsPercent": 19.7,
     "hexagon": {
-      "combate": 48.8,
-      "consistencia": 34.8,
-      "mira": 32.3,
+      "combate": 65.8,
+      "consistencia": 74.1,
+      "mira": 49.2,
       "agressividade": 66.7,
-      "dano": 69.2,
+      "dano": 81.9,
       "suporte": 43.0,
-      "overall": 49.1
+      "overall": 63.4
     },
     "firstKills": 20,
     "firstDeaths": 21,
@@ -11995,13 +11995,13 @@
     "kastPercent": 71.4,
     "hsPercent": 26.2,
     "hexagon": {
-      "combate": 58.6,
-      "consistencia": 42.8,
-      "mira": 53.9,
+      "combate": 72.4,
+      "consistencia": 78.5,
+      "mira": 65.5,
       "agressividade": 32.1,
-      "dano": 98.2,
+      "dano": 98.9,
       "suporte": 41.1,
-      "overall": 54.5
+      "overall": 64.8
     },
     "firstKills": 8,
     "firstDeaths": 16,
@@ -12061,13 +12061,13 @@
     "kastPercent": 64.1,
     "hsPercent": 25.4,
     "hexagon": {
-      "combate": 59.8,
-      "consistencia": 28.2,
-      "mira": 51.3,
+      "combate": 73.2,
+      "consistencia": 70.5,
+      "mira": 63.5,
       "agressividade": 65.4,
-      "dano": 71.2,
+      "dano": 83.1,
       "suporte": 35.9,
-      "overall": 52.0
+      "overall": 65.3
     },
     "firstKills": 17,
     "firstDeaths": 18,
@@ -12125,13 +12125,13 @@
     "kastPercent": 66.4,
     "hsPercent": 26.3,
     "hexagon": {
-      "combate": 44.4,
-      "consistencia": 32.8,
-      "mira": 54.3,
+      "combate": 62.9,
+      "consistencia": 73.0,
+      "mira": 65.8,
       "agressividade": 32.4,
-      "dano": 60.0,
+      "dano": 76.5,
       "suporte": 36.8,
-      "overall": 43.4
+      "overall": 57.9
     },
     "firstKills": 9,
     "firstDeaths": 17,
@@ -12189,13 +12189,13 @@
     "kastPercent": 77.0,
     "hsPercent": 30.0,
     "hexagon": {
-      "combate": 24.8,
-      "consistencia": 54.0,
-      "mira": 66.6,
+      "combate": 49.9,
+      "consistencia": 84.7,
+      "mira": 75.0,
       "agressividade": 12.2,
-      "dano": 35.2,
+      "dano": 61.9,
       "suporte": 51.4,
-      "overall": 40.7
+      "overall": 55.8
     },
     "firstKills": 4,
     "firstDeaths": 6,
@@ -12255,13 +12255,13 @@
     "kastPercent": 64.1,
     "hsPercent": 38.0,
     "hexagon": {
-      "combate": 46.8,
-      "consistencia": 28.2,
-      "mira": 93.2,
+      "combate": 64.6,
+      "consistencia": 70.5,
+      "mira": 95.0,
       "agressividade": 24.6,
-      "dano": 73.6,
+      "dano": 84.5,
       "suporte": 59.4,
-      "overall": 54.3
+      "overall": 66.4
     },
     "firstKills": 7,
     "firstDeaths": 15,
@@ -12316,12 +12316,12 @@
     "hsPercent": 28.9,
     "hexagon": {
       "combate": 100.0,
-      "consistencia": 66.2,
-      "mira": 62.9,
+      "consistencia": 91.4,
+      "mira": 72.2,
       "agressividade": 95.1,
       "dano": 100.0,
       "suporte": 39.4,
-      "overall": 77.3
+      "overall": 83.0
     },
     "firstKills": 15,
     "firstDeaths": 9,
@@ -12377,12 +12377,12 @@
     "hsPercent": 27.5,
     "hexagon": {
       "combate": 100.0,
-      "consistencia": 52.0,
-      "mira": 58.3,
+      "consistencia": 83.6,
+      "mira": 68.8,
       "agressividade": 90.0,
       "dano": 100.0,
       "suporte": 61.3,
-      "overall": 76.9
+      "overall": 84.0
     },
     "firstKills": 15,
     "firstDeaths": 8,
@@ -12440,13 +12440,13 @@
     "kastPercent": 72.3,
     "hsPercent": 21.5,
     "hexagon": {
-      "combate": 39.4,
-      "consistencia": 44.6,
-      "mira": 38.3,
+      "combate": 59.6,
+      "consistencia": 79.5,
+      "mira": 53.8,
       "agressividade": 25.5,
-      "dano": 55.8,
+      "dano": 74.0,
       "suporte": 86.5,
-      "overall": 48.4
+      "overall": 63.1
     },
     "firstKills": 8,
     "firstDeaths": 11,
@@ -12502,13 +12502,13 @@
     "kastPercent": 71.6,
     "hsPercent": 37.6,
     "hexagon": {
-      "combate": 59.4,
-      "consistencia": 43.2,
-      "mira": 91.9,
+      "combate": 72.9,
+      "consistencia": 78.8,
+      "mira": 94.0,
       "agressividade": 35.3,
-      "dano": 78.5,
+      "dano": 87.4,
       "suporte": 43.1,
-      "overall": 58.6
+      "overall": 68.6
     },
     "firstKills": 8,
     "firstDeaths": 7,
@@ -12568,13 +12568,13 @@
     "kastPercent": 65.0,
     "hsPercent": 26.5,
     "hexagon": {
-      "combate": 43.1,
-      "consistencia": 30.0,
-      "mira": 54.9,
+      "combate": 62.1,
+      "consistencia": 71.5,
+      "mira": 66.2,
       "agressividade": 40.2,
-      "dano": 63.3,
+      "dano": 78.4,
       "suporte": 48.8,
-      "overall": 46.7
+      "overall": 61.2
     },
     "firstKills": 11,
     "firstDeaths": 16,
@@ -12633,13 +12633,13 @@
     "kastPercent": 73.7,
     "hsPercent": 20.9,
     "hexagon": {
-      "combate": 60.8,
-      "consistencia": 47.4,
-      "mira": 36.3,
+      "combate": 73.9,
+      "consistencia": 81.1,
+      "mira": 52.2,
       "agressividade": 23.7,
-      "dano": 78.9,
+      "dano": 87.6,
       "suporte": 54.7,
-      "overall": 50.3
+      "overall": 62.2
     },
     "firstKills": 5,
     "firstDeaths": 5,
@@ -12693,13 +12693,13 @@
     "kastPercent": 79.8,
     "hsPercent": 28.5,
     "hexagon": {
-      "combate": 48.2,
-      "consistencia": 59.6,
-      "mira": 61.6,
+      "combate": 65.5,
+      "consistencia": 87.8,
+      "mira": 71.2,
       "agressividade": 24.8,
-      "dano": 72.4,
+      "dano": 83.8,
       "suporte": 47.7,
-      "overall": 52.4
+      "overall": 63.5
     },
     "firstKills": 6,
     "firstDeaths": 7,
@@ -12752,13 +12752,13 @@
     "kastPercent": 76.2,
     "hsPercent": 21.3,
     "hexagon": {
-      "combate": 42.6,
-      "consistencia": 52.4,
-      "mira": 37.6,
+      "combate": 61.7,
+      "consistencia": 83.8,
+      "mira": 53.2,
       "agressividade": 14.8,
-      "dano": 58.4,
+      "dano": 75.5,
       "suporte": 82.0,
-      "overall": 48.0
+      "overall": 61.8
     },
     "firstKills": 4,
     "firstDeaths": 6,
@@ -12810,13 +12810,13 @@
     "kastPercent": 69.5,
     "hsPercent": 22.3,
     "hexagon": {
-      "combate": 36.3,
-      "consistencia": 39.0,
-      "mira": 41.0,
+      "combate": 57.6,
+      "consistencia": 76.5,
+      "mira": 55.8,
       "agressividade": 28.1,
-      "dano": 47.5,
+      "dano": 69.1,
       "suporte": 67.2,
-      "overall": 43.2
+      "overall": 59.0
     },
     "firstKills": 8,
     "firstDeaths": 8,
@@ -12875,13 +12875,13 @@
     "kastPercent": 67.9,
     "hsPercent": 18.1,
     "hexagon": {
-      "combate": 31.2,
-      "consistencia": 35.8,
-      "mira": 27.0,
+      "combate": 54.1,
+      "consistencia": 74.7,
+      "mira": 45.2,
       "agressividade": 16.1,
-      "dano": 45.1,
+      "dano": 67.7,
       "suporte": 51.4,
-      "overall": 34.4
+      "overall": 51.5
     },
     "firstKills": 5,
     "firstDeaths": 10,
@@ -12941,13 +12941,13 @@
     "kastPercent": 62.5,
     "hsPercent": 23.7,
     "hexagon": {
-      "combate": 41.7,
-      "consistencia": 25.0,
-      "mira": 45.6,
+      "combate": 61.1,
+      "consistencia": 68.8,
+      "mira": 59.2,
       "agressividade": 42.2,
-      "dano": 72.3,
+      "dano": 83.7,
       "suporte": 31.2,
-      "overall": 43.0
+      "overall": 57.7
     },
     "firstKills": 12,
     "firstDeaths": 12,
@@ -13003,13 +13003,13 @@
     "kastPercent": 76.7,
     "hsPercent": 27.0,
     "hexagon": {
-      "combate": 86.1,
-      "consistencia": 53.4,
-      "mira": 56.6,
+      "combate": 90.7,
+      "consistencia": 84.4,
+      "mira": 67.5,
       "agressividade": 62.8,
       "dano": 100.0,
       "suporte": 90.7,
-      "overall": 74.9
+      "overall": 82.7
     },
     "firstKills": 12,
     "firstDeaths": 10,
@@ -13062,13 +13062,13 @@
     "kastPercent": 71.8,
     "hsPercent": 23.6,
     "hexagon": {
-      "combate": 46.3,
-      "consistencia": 43.6,
-      "mira": 45.3,
+      "combate": 64.2,
+      "consistencia": 79.0,
+      "mira": 59.0,
       "agressividade": 38.5,
-      "dano": 59.5,
+      "dano": 76.2,
       "suporte": 51.3,
-      "overall": 47.4
+      "overall": 61.4
     },
     "firstKills": 10,
     "firstDeaths": 17,
@@ -13127,13 +13127,13 @@
     "kastPercent": 68.4,
     "hsPercent": 19.1,
     "hexagon": {
-      "combate": 35.2,
-      "consistencia": 36.8,
-      "mira": 30.3,
+      "combate": 56.8,
+      "consistencia": 75.2,
+      "mira": 47.8,
       "agressividade": 27.1,
-      "dano": 49.7,
+      "dano": 70.4,
       "suporte": 64.7,
-      "overall": 40.6
+      "overall": 57.0
     },
     "firstKills": 8,
     "firstDeaths": 5,
@@ -13186,13 +13186,13 @@
     "kastPercent": 68.3,
     "hsPercent": 26.5,
     "hexagon": {
-      "combate": 51.8,
-      "consistencia": 36.6,
-      "mira": 54.9,
+      "combate": 67.9,
+      "consistencia": 75.1,
+      "mira": 66.2,
       "agressividade": 38.9,
-      "dano": 81.4,
+      "dano": 89.1,
       "suporte": 69.2,
-      "overall": 55.5
+      "overall": 67.7
     },
     "firstKills": 9,
     "firstDeaths": 11,
@@ -13251,13 +13251,13 @@
     "kastPercent": 77.8,
     "hsPercent": 31.5,
     "hexagon": {
-      "combate": 51.0,
-      "consistencia": 55.6,
-      "mira": 71.6,
+      "combate": 67.3,
+      "consistencia": 85.6,
+      "mira": 78.8,
       "agressividade": 100.0,
-      "dano": 69.8,
+      "dano": 82.2,
       "suporte": 31.5,
-      "overall": 63.2
+      "overall": 74.2
     },
     "firstKills": 24,
     "firstDeaths": 9,
@@ -13314,13 +13314,13 @@
     "kastPercent": 64.4,
     "hsPercent": 31.3,
     "hexagon": {
-      "combate": 65.8,
-      "consistencia": 28.8,
-      "mira": 70.9,
+      "combate": 77.2,
+      "consistencia": 70.8,
+      "mira": 78.2,
       "agressividade": 51.7,
-      "dano": 85.5,
+      "dano": 91.5,
       "suporte": 34.5,
-      "overall": 56.2
+      "overall": 67.3
     },
     "firstKills": 10,
     "firstDeaths": 10,
@@ -13375,13 +13375,13 @@
     "kastPercent": 76.5,
     "hsPercent": 31.4,
     "hexagon": {
-      "combate": 52.0,
-      "consistencia": 53.0,
-      "mira": 71.3,
+      "combate": 68.0,
+      "consistencia": 84.2,
+      "mira": 78.5,
       "agressividade": 36.7,
-      "dano": 62.6,
+      "dano": 78.0,
       "suporte": 69.4,
-      "overall": 57.5
+      "overall": 69.1
     },
     "firstKills": 8,
     "firstDeaths": 5,
@@ -13432,13 +13432,13 @@
     "kastPercent": 62.4,
     "hsPercent": 38.8,
     "hexagon": {
-      "combate": 45.3,
-      "consistencia": 24.8,
-      "mira": 95.9,
+      "combate": 63.5,
+      "consistencia": 68.6,
+      "mira": 97.0,
       "agressividade": 23.1,
-      "dano": 61.3,
+      "dano": 77.2,
       "suporte": 56.4,
-      "overall": 51.1
+      "overall": 64.3
     },
     "firstKills": 6,
     "firstDeaths": 17,
@@ -13491,13 +13491,13 @@
     "kastPercent": 67.7,
     "hsPercent": 16.2,
     "hexagon": {
-      "combate": 32.0,
-      "consistencia": 35.4,
-      "mira": 20.6,
+      "combate": 54.6,
+      "consistencia": 74.5,
+      "mira": 40.5,
       "agressividade": 10.9,
-      "dano": 30.2,
+      "dano": 58.9,
       "suporte": 79.0,
-      "overall": 34.7
+      "overall": 53.1
     },
     "firstKills": 3,
     "firstDeaths": 10,
@@ -13551,13 +13551,13 @@
     "kastPercent": 63.8,
     "hsPercent": 33.5,
     "hexagon": {
-      "combate": 32.4,
-      "consistencia": 27.6,
-      "mira": 78.3,
+      "combate": 54.9,
+      "consistencia": 70.2,
+      "mira": 83.8,
       "agressividade": 44.7,
-      "dano": 44.0,
+      "dano": 67.1,
       "suporte": 66.7,
-      "overall": 48.9
+      "overall": 64.6
     },
     "firstKills": 14,
     "firstDeaths": 21,
@@ -13614,13 +13614,13 @@
     "kastPercent": 79.5,
     "hsPercent": 19.4,
     "hexagon": {
-      "combate": 63.0,
-      "consistencia": 59.0,
-      "mira": 31.3,
+      "combate": 75.3,
+      "consistencia": 87.5,
+      "mira": 48.5,
       "agressividade": 25.6,
-      "dano": 84.9,
+      "dano": 91.1,
       "suporte": 54.5,
-      "overall": 53.1
+      "overall": 63.8
     },
     "firstKills": 5,
     "firstDeaths": 6,
@@ -13678,13 +13678,13 @@
     "kastPercent": 58.3,
     "hsPercent": 24.9,
     "hexagon": {
-      "combate": 59.4,
-      "consistencia": 16.6,
-      "mira": 49.6,
+      "combate": 72.9,
+      "consistencia": 64.1,
+      "mira": 62.2,
       "agressividade": 69.9,
-      "dano": 69.6,
+      "dano": 82.1,
       "suporte": 33.0,
-      "overall": 49.7
+      "overall": 64.0
     },
     "firstKills": 16,
     "firstDeaths": 21,
@@ -13736,13 +13736,13 @@
     "kastPercent": 69.9,
     "hsPercent": 26.3,
     "hexagon": {
-      "combate": 51.0,
-      "consistencia": 39.8,
-      "mira": 54.3,
+      "combate": 67.3,
+      "consistencia": 76.9,
+      "mira": 65.8,
       "agressividade": 61.2,
-      "dano": 61.7,
+      "dano": 77.5,
       "suporte": 40.8,
-      "overall": 51.5
+      "overall": 64.9
     },
     "firstKills": 14,
     "firstDeaths": 9,
@@ -13799,13 +13799,13 @@
     "kastPercent": 57.9,
     "hsPercent": 45.6,
     "hexagon": {
-      "combate": 19.0,
-      "consistencia": 15.8,
+      "combate": 46.0,
+      "consistencia": 63.7,
       "mira": 100.0,
       "agressividade": 15.5,
-      "dano": 26.8,
+      "dano": 56.9,
       "suporte": 41.4,
-      "overall": 36.4
+      "overall": 53.9
     },
     "firstKills": 5,
     "firstDeaths": 18,
@@ -13863,13 +13863,13 @@
     "kastPercent": 66.7,
     "hsPercent": 16.9,
     "hexagon": {
-      "combate": 68.6,
-      "consistencia": 33.4,
-      "mira": 23.0,
+      "combate": 79.1,
+      "consistencia": 73.4,
+      "mira": 42.2,
       "agressividade": 80.0,
-      "dano": 81.6,
+      "dano": 89.2,
       "suporte": 35.6,
-      "overall": 53.7
+      "overall": 66.6
     },
     "firstKills": 16,
     "firstDeaths": 13,
@@ -13927,12 +13927,12 @@
     "hsPercent": 44.4,
     "hexagon": {
       "combate": 100.0,
-      "consistencia": 64.2,
+      "consistencia": 90.3,
       "mira": 100.0,
       "agressividade": 100.0,
       "dano": 100.0,
       "suporte": 25.0,
-      "overall": 81.5
+      "overall": 85.9
     },
     "firstKills": 14,
     "firstDeaths": 8,
@@ -13982,13 +13982,13 @@
     "kastPercent": 67.6,
     "hsPercent": 37.8,
     "hexagon": {
-      "combate": 85.5,
-      "consistencia": 35.2,
-      "mira": 92.6,
+      "combate": 90.3,
+      "consistencia": 74.4,
+      "mira": 94.5,
       "agressividade": 42.6,
-      "dano": 97.1,
+      "dano": 98.3,
       "suporte": 35.1,
-      "overall": 64.7
+      "overall": 72.5
     },
     "firstKills": 7,
     "firstDeaths": 9,
@@ -14044,13 +14044,13 @@
     "kastPercent": 58.5,
     "hsPercent": 13.9,
     "hexagon": {
-      "combate": 30.4,
-      "consistencia": 17.0,
-      "mira": 13.0,
+      "combate": 53.6,
+      "consistencia": 64.4,
+      "mira": 34.8,
       "agressividade": 30.0,
-      "dano": 47.8,
+      "dano": 69.3,
       "suporte": 44.4,
-      "overall": 30.4
+      "overall": 49.4
     },
     "firstKills": 9,
     "firstDeaths": 22,
@@ -14108,13 +14108,13 @@
     "kastPercent": 62.2,
     "hsPercent": 19.0,
     "hexagon": {
-      "combate": 27.2,
-      "consistencia": 24.4,
-      "mira": 30.0,
+      "combate": 51.5,
+      "consistencia": 68.4,
+      "mira": 47.5,
       "agressividade": 20.0,
-      "dano": 53.4,
+      "dano": 72.6,
       "suporte": 53.3,
-      "overall": 34.7
+      "overall": 52.2
     },
     "firstKills": 6,
     "firstDeaths": 6,
@@ -14168,13 +14168,13 @@
     "kastPercent": 68.4,
     "hsPercent": 26.3,
     "hexagon": {
-      "combate": 24.3,
-      "consistencia": 36.8,
-      "mira": 54.3,
+      "combate": 49.5,
+      "consistencia": 75.2,
+      "mira": 65.8,
       "agressividade": 27.1,
-      "dano": 29.3,
+      "dano": 58.4,
       "suporte": 51.1,
-      "overall": 37.1
+      "overall": 54.5
     },
     "firstKills": 8,
     "firstDeaths": 7,
@@ -14225,13 +14225,13 @@
     "kastPercent": 67.7,
     "hsPercent": 33.5,
     "hexagon": {
-      "combate": 47.7,
-      "consistencia": 35.4,
-      "mira": 78.3,
+      "combate": 65.1,
+      "consistencia": 74.5,
+      "mira": 83.8,
       "agressividade": 51.6,
-      "dano": 57.1,
+      "dano": 74.8,
       "suporte": 31.2,
-      "overall": 50.2
+      "overall": 63.5
     },
     "firstKills": 11,
     "firstDeaths": 17,
@@ -14286,13 +14286,13 @@
     "kastPercent": 67.0,
     "hsPercent": 26.2,
     "hexagon": {
-      "combate": 45.5,
-      "consistencia": 34.0,
-      "mira": 53.9,
+      "combate": 63.7,
+      "consistencia": 73.7,
+      "mira": 65.5,
       "agressividade": 26.2,
-      "dano": 50.2,
+      "dano": 70.7,
       "suporte": 46.6,
-      "overall": 42.7
+      "overall": 57.7
     },
     "firstKills": 6,
     "firstDeaths": 4,
@@ -14343,13 +14343,13 @@
     "kastPercent": 61.9,
     "hsPercent": 19.0,
     "hexagon": {
-      "combate": 34.5,
-      "consistencia": 23.8,
-      "mira": 30.0,
+      "combate": 56.4,
+      "consistencia": 68.1,
+      "mira": 47.5,
       "agressividade": 46.4,
-      "dano": 65.5,
+      "dano": 79.7,
       "suporte": 47.6,
-      "overall": 41.3
+      "overall": 57.6
     },
     "firstKills": 13,
     "firstDeaths": 17,
@@ -14409,13 +14409,13 @@
     "kastPercent": 59.3,
     "hsPercent": 21.5,
     "hexagon": {
-      "combate": 64.9,
-      "consistencia": 18.6,
-      "mira": 38.3,
+      "combate": 76.6,
+      "consistencia": 65.2,
+      "mira": 53.8,
       "agressividade": 89.0,
-      "dano": 73.5,
+      "dano": 84.4,
       "suporte": 37.4,
-      "overall": 53.6
+      "overall": 67.7
     },
     "firstKills": 18,
     "firstDeaths": 22,
@@ -14472,13 +14472,13 @@
     "kastPercent": 74.2,
     "hsPercent": 21.8,
     "hexagon": {
-      "combate": 37.9,
-      "consistencia": 48.4,
-      "mira": 39.3,
+      "combate": 58.6,
+      "consistencia": 81.6,
+      "mira": 54.5,
       "agressividade": 25.4,
-      "dano": 60.5,
+      "dano": 76.8,
       "suporte": 38.7,
-      "overall": 41.7
+      "overall": 55.9
     },
     "firstKills": 7,
     "firstDeaths": 11,
@@ -14533,13 +14533,13 @@
     "kastPercent": 63.7,
     "hsPercent": 24.4,
     "hexagon": {
-      "combate": 75.9,
-      "consistencia": 27.4,
-      "mira": 48.0,
+      "combate": 83.9,
+      "consistencia": 70.1,
+      "mira": 61.0,
       "agressividade": 73.1,
-      "dano": 93.2,
+      "dano": 96.0,
       "suporte": 45.0,
-      "overall": 60.4
+      "overall": 71.5
     },
     "firstKills": 13,
     "firstDeaths": 10,
@@ -14595,13 +14595,13 @@
     "kastPercent": 71.8,
     "hsPercent": 20.7,
     "hexagon": {
-      "combate": 36.0,
-      "consistencia": 43.6,
-      "mira": 35.6,
+      "combate": 57.4,
+      "consistencia": 79.0,
+      "mira": 51.8,
       "agressividade": 36.8,
-      "dano": 54.7,
+      "dano": 73.4,
       "suporte": 70.9,
-      "overall": 46.3
+      "overall": 61.5
     },
     "firstKills": 9,
     "firstDeaths": 7,
@@ -14655,13 +14655,13 @@
     "kastPercent": 63.5,
     "hsPercent": 22.6,
     "hexagon": {
-      "combate": 7.8,
-      "consistencia": 27.0,
-      "mira": 42.0,
+      "combate": 38.5,
+      "consistencia": 69.9,
+      "mira": 56.5,
       "agressividade": 17.4,
-      "dano": 8.6,
+      "dano": 46.2,
       "suporte": 75.1,
-      "overall": 29.6
+      "overall": 50.6
     },
     "firstKills": 7,
     "firstDeaths": 10,
@@ -14715,13 +14715,13 @@
     "kastPercent": 58.3,
     "hsPercent": 23.2,
     "hexagon": {
-      "combate": 46.3,
-      "consistencia": 16.6,
-      "mira": 44.0,
+      "combate": 64.2,
+      "consistencia": 64.1,
+      "mira": 58.0,
       "agressividade": 48.1,
-      "dano": 61.4,
+      "dano": 77.3,
       "suporte": 31.1,
-      "overall": 41.2
+      "overall": 57.1
     },
     "firstKills": 11,
     "firstDeaths": 12,
@@ -14773,13 +14773,13 @@
     "kastPercent": 71.0,
     "hsPercent": 29.7,
     "hexagon": {
-      "combate": 38.1,
-      "consistencia": 42.0,
-      "mira": 65.6,
+      "combate": 58.7,
+      "consistencia": 78.1,
+      "mira": 74.2,
       "agressividade": 21.0,
-      "dano": 45.6,
+      "dano": 68.0,
       "suporte": 56.1,
-      "overall": 44.7
+      "overall": 59.4
     },
     "firstKills": 5,
     "firstDeaths": 11,
@@ -14832,13 +14832,13 @@
     "kastPercent": 64.7,
     "hsPercent": 25.4,
     "hexagon": {
-      "combate": 32.0,
-      "consistencia": 29.4,
-      "mira": 51.3,
+      "combate": 54.6,
+      "consistencia": 71.2,
+      "mira": 63.5,
       "agressividade": 19.4,
-      "dano": 48.6,
+      "dano": 69.8,
       "suporte": 53.4,
-      "overall": 39.0
+      "overall": 55.3
     },
     "firstKills": 5,
     "firstDeaths": 10,
@@ -14896,13 +14896,13 @@
     "kastPercent": 65.6,
     "hsPercent": 21.1,
     "hexagon": {
-      "combate": 30.3,
-      "consistencia": 31.2,
-      "mira": 37.0,
+      "combate": 53.5,
+      "consistencia": 72.2,
+      "mira": 52.8,
       "agressividade": 36.9,
-      "dano": 36.2,
+      "dano": 62.5,
       "suporte": 44.3,
-      "overall": 36.0
+      "overall": 53.7
     },
     "firstKills": 10,
     "firstDeaths": 4,
@@ -14955,13 +14955,13 @@
     "kastPercent": 74.5,
     "hsPercent": 21.6,
     "hexagon": {
-      "combate": 47.7,
-      "consistencia": 49.0,
-      "mira": 38.6,
+      "combate": 65.1,
+      "consistencia": 82.0,
+      "mira": 54.0,
       "agressividade": 36.7,
-      "dano": 65.4,
+      "dano": 79.6,
       "suporte": 71.4,
-      "overall": 51.5
+      "overall": 64.8
     },
     "firstKills": 8,
     "firstDeaths": 6,
@@ -15016,13 +15016,13 @@
     "kastPercent": 72.5,
     "hsPercent": 29.9,
     "hexagon": {
-      "combate": 72.0,
-      "consistencia": 45.0,
-      "mira": 66.3,
+      "combate": 81.4,
+      "consistencia": 79.8,
+      "mira": 74.8,
       "agressividade": 33.8,
       "dano": 100.0,
       "suporte": 30.0,
-      "overall": 57.9
+      "overall": 66.6
     },
     "firstKills": 6,
     "firstDeaths": 7,
@@ -15082,13 +15082,13 @@
     "kastPercent": 78.7,
     "hsPercent": 30.6,
     "hexagon": {
-      "combate": 43.0,
-      "consistencia": 57.4,
-      "mira": 68.6,
+      "combate": 62.0,
+      "consistencia": 86.6,
+      "mira": 76.5,
       "agressividade": 35.4,
-      "dano": 62.2,
+      "dano": 77.8,
       "suporte": 56.2,
-      "overall": 53.8
+      "overall": 65.8
     },
     "firstKills": 7,
     "firstDeaths": 5,
@@ -15139,13 +15139,13 @@
     "kastPercent": 51.9,
     "hsPercent": 25.0,
     "hexagon": {
-      "combate": 21.6,
-      "consistencia": 3.8,
-      "mira": 50.0,
+      "combate": 47.7,
+      "consistencia": 57.1,
+      "mira": 62.5,
       "agressividade": 33.8,
-      "dano": 26.5,
+      "dano": 56.8,
       "suporte": 27.1,
-      "overall": 27.1
+      "overall": 47.5
     },
     "firstKills": 10,
     "firstDeaths": 24,
@@ -15202,13 +15202,13 @@
     "kastPercent": 84.3,
     "hsPercent": 25.4,
     "hexagon": {
-      "combate": 28.8,
-      "consistencia": 68.6,
-      "mira": 51.3,
+      "combate": 52.5,
+      "consistencia": 92.7,
+      "mira": 63.5,
       "agressividade": 16.7,
-      "dano": 47.5,
+      "dano": 69.1,
       "suporte": 38.9,
-      "overall": 42.0
+      "overall": 55.6
     },
     "firstKills": 4,
     "firstDeaths": 5,
@@ -15262,13 +15262,13 @@
     "kastPercent": 76.4,
     "hsPercent": 14.9,
     "hexagon": {
-      "combate": 40.8,
-      "consistencia": 52.8,
-      "mira": 16.3,
+      "combate": 60.5,
+      "consistencia": 84.0,
+      "mira": 37.2,
       "agressividade": 46.7,
-      "dano": 44.5,
+      "dano": 67.4,
       "suporte": 60.4,
-      "overall": 43.6
+      "overall": 59.4
     },
     "firstKills": 11,
     "firstDeaths": 15,
@@ -15326,13 +15326,13 @@
     "kastPercent": 59.3,
     "hsPercent": 21.7,
     "hexagon": {
-      "combate": 56.5,
-      "consistencia": 18.6,
-      "mira": 39.0,
+      "combate": 71.0,
+      "consistencia": 65.2,
+      "mira": 54.2,
       "agressividade": 83.7,
-      "dano": 83.3,
+      "dano": 90.2,
       "suporte": 27.9,
-      "overall": 51.5
+      "overall": 65.4
     },
     "firstKills": 16,
     "firstDeaths": 15,
@@ -15391,13 +15391,13 @@
     "kastPercent": 71.8,
     "hsPercent": 24.9,
     "hexagon": {
-      "combate": 27.0,
-      "consistencia": 43.6,
-      "mira": 49.6,
+      "combate": 51.3,
+      "consistencia": 79.0,
+      "mira": 62.2,
       "agressividade": 19.2,
-      "dano": 39.4,
+      "dano": 64.4,
       "suporte": 75.2,
-      "overall": 42.3
+      "overall": 58.6
     },
     "firstKills": 5,
     "firstDeaths": 8,
@@ -15453,13 +15453,13 @@
     "kastPercent": 74.6,
     "hsPercent": 27.6,
     "hexagon": {
-      "combate": 74.6,
-      "consistencia": 49.2,
-      "mira": 58.6,
+      "combate": 83.1,
+      "consistencia": 82.1,
+      "mira": 69.0,
       "agressividade": 31.7,
       "dano": 100.0,
       "suporte": 33.8,
-      "overall": 58.0
+      "overall": 66.6
     },
     "firstKills": 5,
     "firstDeaths": 3,
@@ -15515,13 +15515,13 @@
     "kastPercent": 72.2,
     "hsPercent": 18.8,
     "hexagon": {
-      "combate": 47.2,
-      "consistencia": 44.4,
-      "mira": 29.3,
+      "combate": 64.8,
+      "consistencia": 79.4,
+      "mira": 47.0,
       "agressividade": 35.0,
-      "dano": 66.6,
+      "dano": 80.4,
       "suporte": 60.0,
-      "overall": 47.1
+      "overall": 61.1
     },
     "firstKills": 7,
     "firstDeaths": 3,
@@ -15579,13 +15579,13 @@
     "kastPercent": 58.6,
     "hsPercent": 24.5,
     "hexagon": {
-      "combate": 20.2,
-      "consistencia": 17.2,
-      "mira": 48.3,
+      "combate": 46.8,
+      "consistencia": 64.5,
+      "mira": 61.2,
       "agressividade": 17.6,
-      "dano": 28.0,
+      "dano": 57.6,
       "suporte": 40.6,
-      "overall": 28.6
+      "overall": 48.1
     },
     "firstKills": 5,
     "firstDeaths": 8,
@@ -15641,13 +15641,13 @@
     "kastPercent": 63.8,
     "hsPercent": 42.3,
     "hexagon": {
-      "combate": 41.0,
-      "consistencia": 27.6,
+      "combate": 60.6,
+      "consistencia": 70.2,
       "mira": 100.0,
       "agressividade": 9.6,
-      "dano": 48.2,
+      "dano": 69.5,
       "suporte": 59.6,
-      "overall": 47.7
+      "overall": 61.6
     },
     "firstKills": 2,
     "firstDeaths": 5,
@@ -15701,13 +15701,13 @@
     "kastPercent": 69.8,
     "hsPercent": 26.3,
     "hexagon": {
-      "combate": 51.8,
-      "consistencia": 39.6,
-      "mira": 54.3,
+      "combate": 67.9,
+      "consistencia": 76.8,
+      "mira": 65.8,
       "agressividade": 73.3,
-      "dano": 65.2,
+      "dano": 79.5,
       "suporte": 46.5,
-      "overall": 55.1
+      "overall": 68.3
     },
     "firstKills": 14,
     "firstDeaths": 9,
@@ -15763,13 +15763,13 @@
     "kastPercent": 85.4,
     "hsPercent": 24.3,
     "hexagon": {
-      "combate": 39.2,
-      "consistencia": 70.8,
-      "mira": 47.6,
+      "combate": 59.5,
+      "consistencia": 93.9,
+      "mira": 60.8,
       "agressividade": 20.2,
-      "dano": 46.3,
+      "dano": 68.4,
       "suporte": 100.0,
-      "overall": 54.0
+      "overall": 67.1
     },
     "firstKills": 4,
     "firstDeaths": 2,
@@ -15820,13 +15820,13 @@
     "kastPercent": 69.1,
     "hsPercent": 32.1,
     "hexagon": {
-      "combate": 30.6,
-      "consistencia": 38.2,
-      "mira": 73.6,
+      "combate": 53.7,
+      "consistencia": 76.0,
+      "mira": 80.2,
       "agressividade": 23.2,
-      "dano": 38.4,
+      "dano": 63.8,
       "suporte": 37.1,
-      "overall": 40.2
+      "overall": 55.7
     },
     "firstKills": 5,
     "firstDeaths": 9,
@@ -15882,13 +15882,13 @@
     "kastPercent": 67.8,
     "hsPercent": 35.7,
     "hexagon": {
-      "combate": 47.6,
-      "consistencia": 35.6,
-      "mira": 85.6,
+      "combate": 65.1,
+      "consistencia": 74.6,
+      "mira": 89.2,
       "agressividade": 46.6,
-      "dano": 73.3,
+      "dano": 84.3,
       "suporte": 27.6,
-      "overall": 52.7
+      "overall": 64.6
     },
     "firstKills": 9,
     "firstDeaths": 4,
@@ -15946,13 +15946,13 @@
     "kastPercent": 76.9,
     "hsPercent": 29.6,
     "hexagon": {
-      "combate": 34.2,
-      "consistencia": 53.8,
-      "mira": 65.3,
+      "combate": 56.2,
+      "consistencia": 84.6,
+      "mira": 74.0,
       "agressividade": 33.3,
-      "dano": 35.3,
+      "dano": 61.9,
       "suporte": 64.8,
-      "overall": 47.8
+      "overall": 62.5
     },
     "firstKills": 8,
     "firstDeaths": 6,
@@ -16003,13 +16003,13 @@
     "kastPercent": 77.0,
     "hsPercent": 23.9,
     "hexagon": {
-      "combate": 63.0,
-      "consistencia": 54.0,
-      "mira": 46.3,
+      "combate": 75.3,
+      "consistencia": 84.7,
+      "mira": 59.8,
       "agressividade": 66.9,
-      "dano": 82.7,
+      "dano": 89.8,
       "suporte": 51.4,
-      "overall": 60.7
+      "overall": 71.3
     },
     "firstKills": 11,
     "firstDeaths": 10,
@@ -16063,13 +16063,13 @@
     "kastPercent": 66.2,
     "hsPercent": 28.0,
     "hexagon": {
-      "combate": 53.3,
-      "consistencia": 32.4,
-      "mira": 59.9,
+      "combate": 68.9,
+      "consistencia": 72.8,
+      "mira": 70.0,
       "agressividade": 61.9,
-      "dano": 66.1,
+      "dano": 80.1,
       "suporte": 27.5,
-      "overall": 50.2
+      "overall": 63.5
     },
     "firstKills": 11,
     "firstDeaths": 15,
@@ -16122,13 +16122,13 @@
     "kastPercent": 70.0,
     "hsPercent": 32.8,
     "hexagon": {
-      "combate": 62.3,
-      "consistencia": 40.0,
-      "mira": 75.9,
+      "combate": 74.9,
+      "consistencia": 77.0,
+      "mira": 82.0,
       "agressividade": 78.8,
-      "dano": 68.7,
+      "dano": 81.6,
       "suporte": 32.5,
-      "overall": 59.7
+      "overall": 71.1
     },
     "firstKills": 14,
     "firstDeaths": 10,
@@ -16181,13 +16181,13 @@
     "kastPercent": 73.2,
     "hsPercent": 17.9,
     "hexagon": {
-      "combate": 72.0,
-      "consistencia": 46.4,
-      "mira": 26.3,
+      "combate": 81.3,
+      "consistencia": 80.5,
+      "mira": 44.8,
       "agressividade": 100.0,
-      "dano": 95.9,
+      "dano": 97.6,
       "suporte": 36.6,
-      "overall": 62.9
+      "overall": 73.5
     },
     "firstKills": 17,
     "firstDeaths": 7,
@@ -16240,13 +16240,13 @@
     "kastPercent": 66.0,
     "hsPercent": 22.0,
     "hexagon": {
-      "combate": 33.6,
-      "consistencia": 32.0,
-      "mira": 40.0,
+      "combate": 55.7,
+      "consistencia": 72.6,
+      "mira": 55.0,
       "agressividade": 30.6,
-      "dano": 36.1,
+      "dano": 62.4,
       "suporte": 52.4,
-      "overall": 37.4
+      "overall": 54.8
     },
     "firstKills": 7,
     "firstDeaths": 13,
@@ -16302,13 +16302,13 @@
     "kastPercent": 58.6,
     "hsPercent": 23.1,
     "hexagon": {
-      "combate": 36.5,
-      "consistencia": 17.2,
-      "mira": 43.6,
+      "combate": 57.7,
+      "consistencia": 64.5,
+      "mira": 57.8,
       "agressividade": 22.7,
-      "dano": 53.2,
+      "dano": 72.5,
       "suporte": 66.7,
-      "overall": 40.0
+      "overall": 57.0
     },
     "firstKills": 5,
     "firstDeaths": 10,
@@ -16363,13 +16363,13 @@
     "kastPercent": 66.3,
     "hsPercent": 22.8,
     "hexagon": {
-      "combate": 47.5,
-      "consistencia": 32.6,
-      "mira": 42.6,
+      "combate": 65.0,
+      "consistencia": 72.9,
+      "mira": 57.0,
       "agressividade": 26.2,
-      "dano": 61.2,
+      "dano": 77.2,
       "suporte": 53.5,
-      "overall": 43.9
+      "overall": 58.6
     },
     "firstKills": 5,
     "firstDeaths": 7,
@@ -16420,13 +16420,13 @@
     "kastPercent": 71.4,
     "hsPercent": 29.3,
     "hexagon": {
-      "combate": 57.5,
-      "consistencia": 42.8,
-      "mira": 64.3,
+      "combate": 71.6,
+      "consistencia": 78.5,
+      "mira": 73.2,
       "agressividade": 87.7,
-      "dano": 62.9,
+      "dano": 78.2,
       "suporte": 39.0,
-      "overall": 59.0
+      "overall": 71.4
     },
     "firstKills": 15,
     "firstDeaths": 17,
@@ -16485,13 +16485,13 @@
     "kastPercent": 73.7,
     "hsPercent": 30.7,
     "hexagon": {
-      "combate": 58.2,
-      "consistencia": 47.4,
-      "mira": 68.9,
+      "combate": 72.2,
+      "consistencia": 81.1,
+      "mira": 76.8,
       "agressividade": 41.4,
-      "dano": 72.4,
+      "dano": 83.8,
       "suporte": 36.8,
-      "overall": 54.2
+      "overall": 65.4
     },
     "firstKills": 7,
     "firstDeaths": 8,
@@ -16547,13 +16547,13 @@
     "kastPercent": 74.1,
     "hsPercent": 32.7,
     "hexagon": {
-      "combate": 91.1,
-      "consistencia": 48.2,
-      "mira": 75.6,
+      "combate": 94.0,
+      "consistencia": 81.5,
+      "mira": 81.8,
       "agressividade": 62.1,
       "dano": 100.0,
       "suporte": 37.9,
-      "overall": 69.1
+      "overall": 76.2
     },
     "firstKills": 8,
     "firstDeaths": 6,
@@ -16607,13 +16607,13 @@
     "kastPercent": 68.9,
     "hsPercent": 32.2,
     "hexagon": {
-      "combate": 58.8,
-      "consistencia": 37.8,
-      "mira": 73.9,
+      "combate": 72.5,
+      "consistencia": 75.8,
+      "mira": 80.5,
       "agressividade": 36.5,
       "dano": 100.0,
       "suporte": 54.1,
-      "overall": 60.2
+      "overall": 69.9
     },
     "firstKills": 6,
     "firstDeaths": 5,
@@ -16668,13 +16668,13 @@
     "kastPercent": 66.2,
     "hsPercent": 27.5,
     "hexagon": {
-      "combate": 51.1,
-      "consistencia": 32.4,
-      "mira": 58.3,
+      "combate": 67.4,
+      "consistencia": 72.8,
+      "mira": 68.8,
       "agressividade": 17.5,
-      "dano": 63.0,
+      "dano": 78.2,
       "suporte": 41.6,
-      "overall": 44.0
+      "overall": 57.7
     },
     "firstKills": 3,
     "firstDeaths": 6,
@@ -16732,13 +16732,13 @@
     "kastPercent": 73.5,
     "hsPercent": 28.7,
     "hexagon": {
-      "combate": 28.5,
-      "consistencia": 47.0,
-      "mira": 62.3,
+      "combate": 52.3,
+      "consistencia": 80.9,
+      "mira": 71.8,
       "agressividade": 23.0,
-      "dano": 40.7,
+      "dano": 65.1,
       "suporte": 69.4,
-      "overall": 45.1
+      "overall": 60.4
     },
     "firstKills": 5,
     "firstDeaths": 4,
@@ -16790,13 +16790,13 @@
     "kastPercent": 63.2,
     "hsPercent": 17.0,
     "hexagon": {
-      "combate": 57.0,
-      "consistencia": 26.4,
-      "mira": 23.3,
+      "combate": 71.4,
+      "consistencia": 69.5,
+      "mira": 42.5,
       "agressividade": 65.1,
-      "dano": 69.9,
+      "dano": 82.3,
       "suporte": 47.4,
-      "overall": 48.2
+      "overall": 63.0
     },
     "firstKills": 11,
     "firstDeaths": 6,
@@ -16851,13 +16851,13 @@
     "kastPercent": 67.9,
     "hsPercent": 14.9,
     "hexagon": {
-      "combate": 46.7,
-      "consistencia": 35.8,
-      "mira": 16.3,
+      "combate": 64.4,
+      "consistencia": 74.7,
+      "mira": 37.2,
       "agressividade": 64.3,
-      "dano": 68.4,
+      "dano": 81.4,
       "suporte": 42.9,
-      "overall": 45.7
+      "overall": 60.8
     },
     "firstKills": 12,
     "firstDeaths": 19,
@@ -16911,13 +16911,13 @@
     "kastPercent": 58.6,
     "hsPercent": 28.0,
     "hexagon": {
-      "combate": 34.5,
-      "consistencia": 17.2,
-      "mira": 59.9,
+      "combate": 56.4,
+      "consistencia": 64.5,
+      "mira": 70.0,
       "agressividade": 40.9,
-      "dano": 47.5,
+      "dano": 69.1,
       "suporte": 28.3,
-      "overall": 38.1
+      "overall": 54.9
     },
     "firstKills": 9,
     "firstDeaths": 12,
@@ -16971,13 +16971,13 @@
     "kastPercent": 65.0,
     "hsPercent": 37.5,
     "hexagon": {
-      "combate": 75.5,
-      "consistencia": 30.0,
-      "mira": 91.6,
+      "combate": 83.7,
+      "consistencia": 71.5,
+      "mira": 93.8,
       "agressividade": 82.5,
-      "dano": 89.2,
+      "dano": 93.6,
       "suporte": 23.3,
-      "overall": 65.4
+      "overall": 74.7
     },
     "firstKills": 11,
     "firstDeaths": 13,
@@ -17032,13 +17032,13 @@
     "kastPercent": 81.7,
     "hsPercent": 24.5,
     "hexagon": {
-      "combate": 81.1,
-      "consistencia": 63.4,
-      "mira": 48.3,
+      "combate": 87.4,
+      "consistencia": 89.9,
+      "mira": 61.2,
       "agressividade": 15.0,
-      "dano": 90.2,
+      "dano": 94.2,
       "suporte": 73.3,
-      "overall": 61.9
+      "overall": 70.2
     },
     "firstKills": 2,
     "firstDeaths": 0,
@@ -17090,13 +17090,13 @@
     "kastPercent": 67.6,
     "hsPercent": 24.8,
     "hexagon": {
-      "combate": 54.4,
-      "consistencia": 35.2,
-      "mira": 49.3,
+      "combate": 69.6,
+      "consistencia": 74.4,
+      "mira": 62.0,
       "agressividade": 79.1,
-      "dano": 59.8,
+      "dano": 76.4,
       "suporte": 37.8,
-      "overall": 52.6
+      "overall": 66.5
     },
     "firstKills": 13,
     "firstDeaths": 12,
@@ -17154,13 +17154,13 @@
     "kastPercent": 70.0,
     "hsPercent": 22.1,
     "hexagon": {
-      "combate": 30.0,
-      "consistencia": 40.0,
-      "mira": 40.3,
+      "combate": 53.4,
+      "consistencia": 77.0,
+      "mira": 55.2,
       "agressividade": 15.0,
-      "dano": 33.8,
+      "dano": 61.1,
       "suporte": 42.2,
-      "overall": 33.6
+      "overall": 50.7
     },
     "firstKills": 3,
     "firstDeaths": 10,
@@ -17216,13 +17216,13 @@
     "kastPercent": 45.9,
     "hsPercent": 26.2,
     "hexagon": {
-      "combate": 8.2,
-      "consistencia": 0.0,
-      "mira": 53.9,
+      "combate": 38.8,
+      "consistencia": 50.5,
+      "mira": 65.5,
       "agressividade": 6.8,
-      "dano": 24.9,
+      "dano": 55.8,
       "suporte": 33.1,
-      "overall": 21.1
+      "overall": 41.8
     },
     "firstKills": 2,
     "firstDeaths": 10,
@@ -17275,13 +17275,13 @@
     "kastPercent": 59.7,
     "hsPercent": 16.2,
     "hexagon": {
-      "combate": 53.5,
-      "consistencia": 19.4,
-      "mira": 20.6,
+      "combate": 69.0,
+      "consistencia": 65.7,
+      "mira": 40.5,
       "agressividade": 29.2,
-      "dano": 63.6,
+      "dano": 78.6,
       "suporte": 57.1,
-      "overall": 40.6
+      "overall": 56.7
     },
     "firstKills": 5,
     "firstDeaths": 8,
@@ -17337,13 +17337,13 @@
     "kastPercent": 52.3,
     "hsPercent": 17.0,
     "hexagon": {
-      "combate": 13.2,
-      "consistencia": 4.6,
-      "mira": 23.3,
+      "combate": 42.1,
+      "consistencia": 57.5,
+      "mira": 42.5,
       "agressividade": 31.6,
-      "dano": 17.0,
+      "dano": 51.2,
       "suporte": 23.4,
-      "overall": 18.8
+      "overall": 41.4
     },
     "firstKills": 9,
     "firstDeaths": 29,
@@ -17398,13 +17398,13 @@
     "kastPercent": 71.2,
     "hsPercent": 21.7,
     "hexagon": {
-      "combate": 42.0,
-      "consistencia": 42.4,
-      "mira": 39.0,
+      "combate": 61.4,
+      "consistencia": 78.3,
+      "mira": 54.2,
       "agressividade": 5.6,
-      "dano": 51.1,
+      "dano": 71.2,
       "suporte": 75.0,
-      "overall": 42.5
+      "overall": 57.6
     },
     "firstKills": 1,
     "firstDeaths": 6,
@@ -17455,13 +17455,13 @@
     "kastPercent": 70.0,
     "hsPercent": 23.0,
     "hexagon": {
-      "combate": 43.5,
-      "consistencia": 40.0,
-      "mira": 43.3,
+      "combate": 62.3,
+      "consistencia": 77.0,
+      "mira": 57.5,
       "agressividade": 0.0,
-      "dano": 50.6,
+      "dano": 70.9,
       "suporte": 85.0,
-      "overall": 43.7
+      "overall": 58.8
     },
     "firstKills": 0,
     "firstDeaths": 5,
@@ -17511,13 +17511,13 @@
     "kastPercent": 82.4,
     "hsPercent": 29.7,
     "hexagon": {
-      "combate": 15.5,
-      "consistencia": 64.8,
-      "mira": 65.6,
+      "combate": 43.7,
+      "consistencia": 90.6,
+      "mira": 74.2,
       "agressividade": 17.6,
-      "dano": 14.5,
+      "dano": 49.7,
       "suporte": 76.5,
-      "overall": 42.4
+      "overall": 58.7
     },
     "firstKills": 4,
     "firstDeaths": 3,
@@ -17570,13 +17570,13 @@
     "kastPercent": 67.3,
     "hsPercent": 18.1,
     "hexagon": {
-      "combate": 21.2,
-      "consistencia": 34.6,
-      "mira": 27.0,
+      "combate": 47.5,
+      "consistencia": 74.0,
+      "mira": 45.2,
       "agressividade": 13.8,
-      "dano": 27.8,
+      "dano": 57.5,
       "suporte": 51.0,
-      "overall": 29.2
+      "overall": 48.2
     },
     "firstKills": 3,
     "firstDeaths": 5,
@@ -17630,13 +17630,13 @@
     "kastPercent": 66.1,
     "hsPercent": 29.8,
     "hexagon": {
-      "combate": 82.0,
-      "consistencia": 32.2,
-      "mira": 65.9,
+      "combate": 88.0,
+      "consistencia": 72.7,
+      "mira": 74.5,
       "agressividade": 91.5,
       "dano": 100.0,
       "suporte": 47.5,
-      "overall": 69.9
+      "overall": 79.0
     },
     "firstKills": 12,
     "firstDeaths": 9,
@@ -17691,13 +17691,13 @@
     "kastPercent": 76.2,
     "hsPercent": 28.3,
     "hexagon": {
-      "combate": 41.5,
-      "consistencia": 52.4,
-      "mira": 60.9,
+      "combate": 61.0,
+      "consistencia": 83.8,
+      "mira": 70.8,
       "agressividade": 11.2,
-      "dano": 65.9,
+      "dano": 79.9,
       "suporte": 72.5,
-      "overall": 50.7
+      "overall": 63.2
     },
     "firstKills": 2,
     "firstDeaths": 4,
@@ -17750,13 +17750,13 @@
     "kastPercent": 65.6,
     "hsPercent": 21.6,
     "hexagon": {
-      "combate": 37.5,
-      "consistencia": 31.2,
-      "mira": 38.6,
+      "combate": 58.3,
+      "consistencia": 72.2,
+      "mira": 54.0,
       "agressividade": 55.0,
-      "dano": 56.3,
+      "dano": 74.3,
       "suporte": 31.1,
-      "overall": 41.6
+      "overall": 57.5
     },
     "firstKills": 11,
     "firstDeaths": 9,
@@ -17807,13 +17807,13 @@
     "kastPercent": 62.5,
     "hsPercent": 31.9,
     "hexagon": {
-      "combate": 41.4,
-      "consistencia": 25.0,
-      "mira": 72.9,
+      "combate": 60.9,
+      "consistencia": 68.8,
+      "mira": 79.8,
       "agressividade": 95.6,
-      "dano": 54.1,
+      "dano": 73.0,
       "suporte": 25.0,
-      "overall": 52.3
+      "overall": 67.2
     },
     "firstKills": 17,
     "firstDeaths": 11,
@@ -17866,13 +17866,13 @@
     "kastPercent": 73.3,
     "hsPercent": 27.5,
     "hexagon": {
-      "combate": 43.0,
-      "consistencia": 46.6,
-      "mira": 58.3,
+      "combate": 62.0,
+      "consistencia": 80.6,
+      "mira": 68.8,
       "agressividade": 47.1,
-      "dano": 67.5,
+      "dano": 80.9,
       "suporte": 93.0,
-      "overall": 59.2
+      "overall": 72.1
     },
     "firstKills": 9,
     "firstDeaths": 5,
@@ -17925,13 +17925,13 @@
     "kastPercent": 69.8,
     "hsPercent": 31.0,
     "hexagon": {
-      "combate": 28.0,
-      "consistencia": 39.6,
-      "mira": 69.9,
+      "combate": 52.0,
+      "consistencia": 76.8,
+      "mira": 77.5,
       "agressividade": 26.2,
-      "dano": 52.3,
+      "dano": 71.9,
       "suporte": 51.2,
-      "overall": 44.5
+      "overall": 59.3
     },
     "firstKills": 5,
     "firstDeaths": 7,
@@ -17988,13 +17988,13 @@
     "kastPercent": 77.8,
     "hsPercent": 42.2,
     "hexagon": {
-      "combate": 28.8,
-      "consistencia": 55.6,
+      "combate": 52.5,
+      "consistencia": 85.6,
       "mira": 100.0,
       "agressividade": 16.7,
-      "dano": 68.4,
+      "dano": 81.4,
       "suporte": 66.7,
-      "overall": 56.0
+      "overall": 67.1
     },
     "firstKills": 3,
     "firstDeaths": 5,
@@ -18050,13 +18050,13 @@
     "kastPercent": 64.0,
     "hsPercent": 22.8,
     "hexagon": {
-      "combate": 29.6,
-      "consistencia": 28.0,
-      "mira": 42.6,
+      "combate": 53.1,
+      "consistencia": 70.4,
+      "mira": 57.0,
       "agressividade": 35.4,
-      "dano": 37.0,
+      "dano": 62.9,
       "suporte": 47.2,
-      "overall": 36.6
+      "overall": 54.3
     },
     "firstKills": 7,
     "firstDeaths": 11,
@@ -18109,13 +18109,13 @@
     "kastPercent": 54.9,
     "hsPercent": 27.2,
     "hexagon": {
-      "combate": 42.3,
-      "consistencia": 9.8,
-      "mira": 57.3,
+      "combate": 61.5,
+      "consistencia": 60.4,
+      "mira": 68.0,
       "agressividade": 63.4,
-      "dano": 55.4,
+      "dano": 73.8,
       "suporte": 50.7,
-      "overall": 46.5
+      "overall": 63.0
     },
     "firstKills": 10,
     "firstDeaths": 12,
@@ -18170,13 +18170,13 @@
     "kastPercent": 56.5,
     "hsPercent": 16.6,
     "hexagon": {
-      "combate": 47.0,
-      "consistencia": 13.0,
-      "mira": 22.0,
+      "combate": 64.7,
+      "consistencia": 62.2,
+      "mira": 41.5,
       "agressividade": 97.8,
-      "dano": 57.0,
+      "dano": 74.7,
       "suporte": 37.7,
-      "overall": 45.8
+      "overall": 63.1
     },
     "firstKills": 15,
     "firstDeaths": 14,
@@ -18229,13 +18229,13 @@
     "kastPercent": 62.5,
     "hsPercent": 24.0,
     "hexagon": {
-      "combate": 30.2,
-      "consistencia": 25.0,
-      "mira": 46.6,
+      "combate": 53.5,
+      "consistencia": 68.8,
+      "mira": 60.0,
       "agressividade": 39.4,
-      "dano": 41.0,
+      "dano": 65.3,
       "suporte": 25.0,
-      "overall": 34.5
+      "overall": 52.0
     },
     "firstKills": 7,
     "firstDeaths": 10,
@@ -18290,13 +18290,13 @@
     "kastPercent": 69.5,
     "hsPercent": 36.8,
     "hexagon": {
-      "combate": 54.0,
-      "consistencia": 39.0,
-      "mira": 89.2,
+      "combate": 69.3,
+      "consistencia": 76.5,
+      "mira": 92.0,
       "agressividade": 68.6,
-      "dano": 74.7,
+      "dano": 85.1,
       "suporte": 10.2,
-      "overall": 55.9
+      "overall": 67.0
     },
     "firstKills": 9,
     "firstDeaths": 6,
@@ -18352,13 +18352,13 @@
     "kastPercent": 71.3,
     "hsPercent": 20.7,
     "hexagon": {
-      "combate": 24.5,
-      "consistencia": 42.6,
-      "mira": 35.6,
+      "combate": 49.6,
+      "consistencia": 78.4,
+      "mira": 51.8,
       "agressividade": 0.0,
-      "dano": 38.4,
+      "dano": 63.8,
       "suporte": 64.4,
-      "overall": 34.2
+      "overall": 51.3
     },
     "firstKills": 0,
     "firstDeaths": 4,
@@ -18412,13 +18412,13 @@
     "kastPercent": 62.3,
     "hsPercent": 16.7,
     "hexagon": {
-      "combate": 30.2,
-      "consistencia": 24.6,
-      "mira": 22.3,
+      "combate": 53.4,
+      "consistencia": 68.5,
+      "mira": 41.8,
       "agressividade": 23.4,
-      "dano": 43.9,
+      "dano": 67.0,
       "suporte": 36.4,
-      "overall": 30.1
+      "overall": 48.4
     },
     "firstKills": 4,
     "firstDeaths": 5,
@@ -18471,12 +18471,12 @@
     "hsPercent": 15.0,
     "hexagon": {
       "combate": 100.0,
-      "consistencia": 30.2,
-      "mira": 16.6,
+      "consistencia": 71.6,
+      "mira": 37.5,
       "agressividade": 94.2,
       "dano": 100.0,
       "suporte": 37.2,
-      "overall": 63.0
+      "overall": 73.4
     },
     "firstKills": 9,
     "firstDeaths": 5,
@@ -18530,13 +18530,13 @@
     "kastPercent": 73.3,
     "hsPercent": 31.3,
     "hexagon": {
-      "combate": 55.9,
-      "consistencia": 46.6,
-      "mira": 70.9,
+      "combate": 70.6,
+      "consistencia": 80.6,
+      "mira": 78.2,
       "agressividade": 60.0,
-      "dano": 66.6,
+      "dano": 80.4,
       "suporte": 60.0,
-      "overall": 60.0
+      "overall": 71.6
     },
     "firstKills": 8,
     "firstDeaths": 10,
@@ -18590,13 +18590,13 @@
     "kastPercent": 77.4,
     "hsPercent": 37.2,
     "hexagon": {
-      "combate": 62.2,
-      "consistencia": 54.8,
-      "mira": 90.6,
+      "combate": 74.8,
+      "consistencia": 85.1,
+      "mira": 93.0,
       "agressividade": 59.4,
-      "dano": 73.8,
+      "dano": 84.6,
       "suporte": 71.7,
-      "overall": 68.8
+      "overall": 78.1
     },
     "firstKills": 7,
     "firstDeaths": 6,
@@ -18647,13 +18647,13 @@
     "kastPercent": 60.8,
     "hsPercent": 33.1,
     "hexagon": {
-      "combate": 38.9,
-      "consistencia": 21.6,
-      "mira": 76.9,
+      "combate": 59.3,
+      "consistencia": 66.9,
+      "mira": 82.8,
       "agressividade": 30.4,
-      "dano": 52.6,
+      "dano": 72.1,
       "suporte": 51.4,
-      "overall": 45.3
+      "overall": 60.5
     },
     "firstKills": 5,
     "firstDeaths": 9,
@@ -18704,13 +18704,13 @@
     "kastPercent": 64.5,
     "hsPercent": 21.2,
     "hexagon": {
-      "combate": 46.0,
-      "consistencia": 29.0,
-      "mira": 37.3,
+      "combate": 64.0,
+      "consistencia": 71.0,
+      "mira": 53.0,
       "agressividade": 50.8,
-      "dano": 55.0,
+      "dano": 73.5,
       "suporte": 45.2,
-      "overall": 43.9
+      "overall": 59.6
     },
     "firstKills": 7,
     "firstDeaths": 5,
@@ -18761,13 +18761,13 @@
     "kastPercent": 52.7,
     "hsPercent": 18.6,
     "hexagon": {
-      "combate": 37.1,
-      "consistencia": 5.4,
-      "mira": 28.6,
+      "combate": 58.1,
+      "consistencia": 58.0,
+      "mira": 46.5,
       "agressividade": 42.6,
-      "dano": 45.3,
+      "dano": 67.8,
       "suporte": 37.8,
-      "overall": 32.8
+      "overall": 51.8
     },
     "firstKills": 7,
     "firstDeaths": 14,
@@ -18824,13 +18824,13 @@
     "kastPercent": 54.5,
     "hsPercent": 19.5,
     "hexagon": {
-      "combate": 25.0,
-      "consistencia": 9.0,
-      "mira": 31.6,
+      "combate": 50.0,
+      "consistencia": 60.0,
+      "mira": 48.8,
       "agressividade": 40.9,
-      "dano": 28.1,
+      "dano": 57.7,
       "suporte": 18.2,
-      "overall": 25.5
+      "overall": 45.9
     },
     "firstKills": 7,
     "firstDeaths": 10,
@@ -18883,13 +18883,13 @@
     "kastPercent": 69.0,
     "hsPercent": 34.0,
     "hexagon": {
-      "combate": 31.0,
-      "consistencia": 38.0,
-      "mira": 79.9,
+      "combate": 54.0,
+      "consistencia": 75.9,
+      "mira": 85.0,
       "agressividade": 19.0,
-      "dano": 37.7,
+      "dano": 63.4,
       "suporte": 53.5,
-      "overall": 43.2
+      "overall": 58.5
     },
     "firstKills": 3,
     "firstDeaths": 3,
@@ -18943,13 +18943,13 @@
     "kastPercent": 77.5,
     "hsPercent": 36.1,
     "hexagon": {
-      "combate": 27.9,
-      "consistencia": 55.0,
-      "mira": 86.9,
+      "combate": 51.9,
+      "consistencia": 85.2,
+      "mira": 90.2,
       "agressividade": 31.7,
-      "dano": 31.1,
+      "dano": 59.5,
       "suporte": 76.1,
-      "overall": 51.4
+      "overall": 65.8
     },
     "firstKills": 5,
     "firstDeaths": 4,
@@ -19001,13 +19001,13 @@
     "kastPercent": 70.7,
     "hsPercent": 28.9,
     "hexagon": {
-      "combate": 54.0,
-      "consistencia": 41.4,
-      "mira": 62.9,
+      "combate": 69.3,
+      "consistencia": 77.8,
+      "mira": 72.2,
       "agressividade": 15.5,
-      "dano": 84.2,
+      "dano": 90.7,
       "suporte": 48.3,
-      "overall": 51.1
+      "overall": 62.3
     },
     "firstKills": 2,
     "firstDeaths": 2,
@@ -19062,13 +19062,13 @@
     "kastPercent": 68.3,
     "hsPercent": 28.7,
     "hexagon": {
-      "combate": 48.6,
-      "consistencia": 36.6,
-      "mira": 62.3,
+      "combate": 65.7,
+      "consistencia": 75.1,
+      "mira": 71.8,
       "agressividade": 30.0,
-      "dano": 62.3,
+      "dano": 77.8,
       "suporte": 36.7,
-      "overall": 46.1
+      "overall": 59.5
     },
     "firstKills": 4,
     "firstDeaths": 10,
@@ -19121,13 +19121,13 @@
     "kastPercent": 71.7,
     "hsPercent": 21.3,
     "hexagon": {
-      "combate": 68.5,
-      "consistencia": 43.4,
-      "mira": 37.6,
+      "combate": 79.0,
+      "consistencia": 78.9,
+      "mira": 53.2,
       "agressividade": 59.4,
-      "dano": 90.1,
+      "dano": 94.2,
       "suporte": 71.7,
-      "overall": 61.8
+      "overall": 72.7
     },
     "firstKills": 7,
     "firstDeaths": 9,
@@ -19176,13 +19176,13 @@
     "kastPercent": 59.8,
     "hsPercent": 19.9,
     "hexagon": {
-      "combate": 19.1,
-      "consistencia": 19.6,
-      "mira": 33.0,
+      "combate": 46.1,
+      "consistencia": 65.8,
+      "mira": 49.8,
       "agressividade": 20.7,
-      "dano": 26.7,
+      "dano": 56.9,
       "suporte": 41.4,
-      "overall": 26.8
+      "overall": 46.8
     },
     "firstKills": 4,
     "firstDeaths": 13,
@@ -19237,13 +19237,13 @@
     "kastPercent": 76.3,
     "hsPercent": 15.8,
     "hexagon": {
-      "combate": 52.4,
-      "consistencia": 52.6,
-      "mira": 19.3,
+      "combate": 68.3,
+      "consistencia": 83.9,
+      "mira": 39.5,
       "agressividade": 45.8,
-      "dano": 88.1,
+      "dano": 93.0,
       "suporte": 40.7,
-      "overall": 49.8
+      "overall": 61.9
     },
     "firstKills": 6,
     "firstDeaths": 5,
@@ -19301,13 +19301,13 @@
     "kastPercent": 51.6,
     "hsPercent": 35.7,
     "hexagon": {
-      "combate": 48.3,
-      "consistencia": 3.2,
-      "mira": 85.6,
+      "combate": 65.6,
+      "consistencia": 56.8,
+      "mira": 89.2,
       "agressividade": 70.3,
-      "dano": 77.0,
+      "dano": 86.5,
       "suporte": 28.1,
-      "overall": 52.1
+      "overall": 66.1
     },
     "firstKills": 10,
     "firstDeaths": 10,
@@ -19366,13 +19366,13 @@
     "kastPercent": 67.9,
     "hsPercent": 24.5,
     "hexagon": {
-      "combate": 64.2,
-      "consistencia": 35.8,
-      "mira": 48.3,
+      "combate": 76.1,
+      "consistencia": 74.7,
+      "mira": 61.2,
       "agressividade": 34.0,
-      "dano": 83.3,
+      "dano": 90.2,
       "suporte": 64.2,
-      "overall": 55.0
+      "overall": 66.7
     },
     "firstKills": 4,
     "firstDeaths": 7,
@@ -19426,13 +19426,13 @@
     "kastPercent": 62.3,
     "hsPercent": 37.6,
     "hexagon": {
-      "combate": 53.7,
-      "consistencia": 24.6,
-      "mira": 91.9,
+      "combate": 69.1,
+      "consistencia": 68.5,
+      "mira": 94.0,
       "agressividade": 59.4,
-      "dano": 64.3,
+      "dano": 79.0,
       "suporte": 22.6,
-      "overall": 52.8
+      "overall": 65.4
     },
     "firstKills": 7,
     "firstDeaths": 3,
@@ -19484,13 +19484,13 @@
     "kastPercent": 66.2,
     "hsPercent": 18.2,
     "hexagon": {
-      "combate": 23.4,
-      "consistencia": 32.4,
-      "mira": 27.3,
+      "combate": 48.9,
+      "consistencia": 72.8,
+      "mira": 45.5,
       "agressividade": 28.1,
-      "dano": 31.0,
+      "dano": 59.4,
       "suporte": 75.0,
-      "overall": 36.2
+      "overall": 54.9
     },
     "firstKills": 5,
     "firstDeaths": 6,
@@ -19542,13 +19542,13 @@
     "kastPercent": 68.4,
     "hsPercent": 22.4,
     "hexagon": {
-      "combate": 28.3,
-      "consistencia": 36.8,
-      "mira": 41.3,
+      "combate": 52.2,
+      "consistencia": 75.2,
+      "mira": 56.0,
       "agressividade": 23.7,
-      "dano": 32.2,
+      "dano": 60.1,
       "suporte": 52.6,
-      "overall": 35.8
+      "overall": 53.3
     },
     "firstKills": 4,
     "firstDeaths": 7,
@@ -19601,13 +19601,13 @@
     "kastPercent": 62.3,
     "hsPercent": 16.9,
     "hexagon": {
-      "combate": 53.8,
-      "consistencia": 24.6,
-      "mira": 23.0,
+      "combate": 69.2,
+      "consistencia": 68.5,
+      "mira": 42.2,
       "agressividade": 50.9,
-      "dano": 87.1,
+      "dano": 92.4,
       "suporte": 26.4,
-      "overall": 44.3
+      "overall": 58.3
     },
     "firstKills": 6,
     "firstDeaths": 5,
@@ -19659,13 +19659,13 @@
     "kastPercent": 68.5,
     "hsPercent": 24.1,
     "hexagon": {
-      "combate": 52.4,
-      "consistencia": 37.0,
-      "mira": 47.0,
+      "combate": 68.3,
+      "consistencia": 75.4,
+      "mira": 60.2,
       "agressividade": 50.0,
-      "dano": 97.7,
+      "dano": 98.6,
       "suporte": 40.7,
-      "overall": 54.1
+      "overall": 65.5
     },
     "firstKills": 6,
     "firstDeaths": 7,
@@ -19720,13 +19720,13 @@
     "kastPercent": 59.2,
     "hsPercent": 22.9,
     "hexagon": {
-      "combate": 17.6,
-      "consistencia": 18.4,
-      "mira": 43.0,
+      "combate": 45.1,
+      "consistencia": 65.1,
+      "mira": 57.2,
       "agressividade": 17.8,
-      "dano": 14.5,
+      "dano": 49.7,
       "suporte": 34.2,
-      "overall": 24.2
+      "overall": 44.8
     },
     "firstKills": 3,
     "firstDeaths": 7,
@@ -19777,13 +19777,13 @@
     "kastPercent": 61.1,
     "hsPercent": 27.0,
     "hexagon": {
-      "combate": 40.5,
-      "consistencia": 22.2,
-      "mira": 56.6,
+      "combate": 60.4,
+      "consistencia": 67.2,
+      "mira": 67.5,
       "agressividade": 41.7,
-      "dano": 49.7,
+      "dano": 70.4,
       "suporte": 48.1,
-      "overall": 43.1
+      "overall": 59.2
     },
     "firstKills": 5,
     "firstDeaths": 2,
@@ -19837,13 +19837,13 @@
     "kastPercent": 56.2,
     "hsPercent": 19.6,
     "hexagon": {
-      "combate": 31.8,
-      "consistencia": 12.4,
-      "mira": 32.0,
+      "combate": 54.6,
+      "consistencia": 61.8,
+      "mira": 49.0,
       "agressividade": 14.1,
-      "dano": 72.5,
+      "dano": 83.8,
       "suporte": 3.1,
-      "overall": 27.7
+      "overall": 44.4
     },
     "firstKills": 2,
     "firstDeaths": 5,
@@ -19899,13 +19899,13 @@
     "kastPercent": 61.0,
     "hsPercent": 22.0,
     "hexagon": {
-      "combate": 19.3,
-      "consistencia": 22.0,
-      "mira": 40.0,
+      "combate": 46.2,
+      "consistencia": 67.1,
+      "mira": 55.0,
       "agressividade": 5.8,
-      "dano": 32.3,
+      "dano": 60.2,
       "suporte": 57.1,
-      "overall": 29.4
+      "overall": 48.6
     },
     "firstKills": 1,
     "firstDeaths": 5,
@@ -19962,13 +19962,13 @@
     "kastPercent": 67.3,
     "hsPercent": 14.0,
     "hexagon": {
-      "combate": 50.6,
-      "consistencia": 34.6,
-      "mira": 13.3,
+      "combate": 67.1,
+      "consistencia": 74.0,
+      "mira": 35.0,
       "agressividade": 65.5,
-      "dano": 77.8,
+      "dano": 86.9,
       "suporte": 40.0,
-      "overall": 47.0
+      "overall": 61.4
     },
     "firstKills": 8,
     "firstDeaths": 7,
@@ -20018,13 +20018,13 @@
     "kastPercent": 62.8,
     "hsPercent": 19.7,
     "hexagon": {
-      "combate": 68.8,
-      "consistencia": 25.6,
-      "mira": 32.3,
+      "combate": 79.2,
+      "consistencia": 69.1,
+      "mira": 49.2,
       "agressividade": 41.9,
       "dano": 100.0,
       "suporte": 46.5,
-      "overall": 52.5
+      "overall": 64.3
     },
     "firstKills": 4,
     "firstDeaths": 8,
@@ -20076,13 +20076,13 @@
     "kastPercent": 62.1,
     "hsPercent": 21.5,
     "hexagon": {
-      "combate": 38.0,
-      "consistencia": 24.2,
-      "mira": 38.3,
+      "combate": 58.7,
+      "consistencia": 68.3,
+      "mira": 53.8,
       "agressividade": 23.3,
-      "dano": 49.8,
+      "dano": 70.5,
       "suporte": 79.3,
-      "overall": 42.1
+      "overall": 59.0
     },
     "firstKills": 3,
     "firstDeaths": 4,
@@ -20136,13 +20136,13 @@
     "kastPercent": 52.9,
     "hsPercent": 17.6,
     "hexagon": {
-      "combate": 20.2,
-      "consistencia": 5.8,
-      "mira": 25.3,
+      "combate": 46.8,
+      "consistencia": 58.2,
+      "mira": 44.0,
       "agressividade": 25.7,
-      "dano": 21.1,
+      "dano": 53.6,
       "suporte": 37.1,
-      "overall": 22.5
+      "overall": 44.2
     },
     "firstKills": 4,
     "firstDeaths": 6,
@@ -20196,13 +20196,13 @@
     "kastPercent": 72.2,
     "hsPercent": 26.1,
     "hexagon": {
-      "combate": 83.2,
-      "consistencia": 44.4,
-      "mira": 53.6,
+      "combate": 88.8,
+      "consistencia": 79.4,
+      "mira": 65.2,
       "agressividade": 0.0,
       "dano": 100.0,
       "suporte": 38.9,
-      "overall": 53.3
+      "overall": 62.0
     },
     "firstKills": 0,
     "firstDeaths": 0,
@@ -20256,13 +20256,13 @@
     "kastPercent": 71.6,
     "hsPercent": 12.2,
     "hexagon": {
-      "combate": 24.6,
-      "consistencia": 43.2,
-      "mira": 7.3,
+      "combate": 49.7,
+      "consistencia": 78.8,
+      "mira": 30.5,
       "agressividade": 33.6,
-      "dano": 72.5,
+      "dano": 83.8,
       "suporte": 74.6,
-      "overall": 42.6
+      "overall": 58.5
     },
     "firstKills": 5,
     "firstDeaths": 6,
@@ -20317,13 +20317,13 @@
     "kastPercent": 70.9,
     "hsPercent": 17.7,
     "hexagon": {
-      "combate": 32.8,
-      "consistencia": 41.8,
-      "mira": 25.6,
+      "combate": 55.2,
+      "consistencia": 78.0,
+      "mira": 44.2,
       "agressividade": 32.7,
-      "dano": 43.3,
+      "dano": 66.6,
       "suporte": 87.3,
-      "overall": 43.9
+      "overall": 60.7
     },
     "firstKills": 4,
     "firstDeaths": 5,
@@ -20373,13 +20373,13 @@
     "kastPercent": 76.9,
     "hsPercent": 18.8,
     "hexagon": {
-      "combate": 58.8,
-      "consistencia": 53.8,
-      "mira": 29.3,
+      "combate": 72.6,
+      "consistencia": 84.6,
+      "mira": 47.0,
       "agressividade": 69.2,
-      "dano": 68.8,
+      "dano": 81.6,
       "suporte": 41.0,
-      "overall": 53.5
+      "overall": 66.0
     },
     "firstKills": 6,
     "firstDeaths": 6,
@@ -20430,13 +20430,13 @@
     "kastPercent": 63.6,
     "hsPercent": 11.9,
     "hexagon": {
-      "combate": 32.1,
-      "consistencia": 27.2,
-      "mira": 6.3,
+      "combate": 54.7,
+      "consistencia": 70.0,
+      "mira": 29.8,
       "agressividade": 24.5,
-      "dano": 31.1,
+      "dano": 59.5,
       "suporte": 72.7,
-      "overall": 32.3
+      "overall": 51.9
     },
     "firstKills": 3,
     "firstDeaths": 9,
@@ -20486,13 +20486,13 @@
     "kastPercent": 44.9,
     "hsPercent": 12.9,
     "hexagon": {
-      "combate": 3.5,
-      "consistencia": 0.0,
-      "mira": 9.7,
+      "combate": 35.7,
+      "consistencia": 49.4,
+      "mira": 32.2,
       "agressividade": 13.8,
-      "dano": 15.1,
+      "dano": 50.1,
       "suporte": 42.9,
-      "overall": 14.2
+      "overall": 37.4
     },
     "firstKills": 3,
     "firstDeaths": 11,
@@ -20544,13 +20544,13 @@
     "kastPercent": 50.0,
     "hsPercent": 20.4,
     "hexagon": {
-      "combate": 27.7,
-      "consistencia": 0.0,
-      "mira": 34.6,
+      "combate": 51.8,
+      "consistencia": 55.0,
+      "mira": 51.0,
       "agressividade": 23.3,
-      "dano": 33.2,
+      "dano": 60.7,
       "suporte": 44.8,
-      "overall": 27.3
+      "overall": 47.8
     },
     "firstKills": 3,
     "firstDeaths": 5,
@@ -20602,13 +20602,13 @@
     "kastPercent": 67.3,
     "hsPercent": 32.4,
     "hexagon": {
-      "combate": 19.7,
-      "consistencia": 34.6,
-      "mira": 74.6,
+      "combate": 46.5,
+      "consistencia": 74.0,
+      "mira": 81.0,
       "agressividade": 0.0,
-      "dano": 14.4,
+      "dano": 49.6,
       "suporte": 72.7,
-      "overall": 36.0
+      "overall": 54.0
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -20659,13 +20659,13 @@
     "kastPercent": 76.7,
     "hsPercent": 45.5,
     "hexagon": {
-      "combate": 12.9,
-      "consistencia": 53.4,
+      "combate": 41.9,
+      "consistencia": 84.4,
       "mira": 100.0,
       "agressividade": 15.0,
-      "dano": 13.2,
+      "dano": 48.9,
       "suporte": 46.7,
-      "overall": 40.2
+      "overall": 56.1
     },
     "firstKills": 2,
     "firstDeaths": 1,
@@ -20718,13 +20718,13 @@
     "kastPercent": 61.8,
     "hsPercent": 12.6,
     "hexagon": {
-      "combate": 28.3,
-      "consistencia": 23.6,
-      "mira": 8.7,
+      "combate": 52.2,
+      "consistencia": 68.0,
+      "mira": 31.5,
       "agressividade": 24.5,
-      "dano": 38.7,
+      "dano": 63.9,
       "suporte": 47.3,
-      "overall": 28.5
+      "overall": 47.9
     },
     "firstKills": 3,
     "firstDeaths": 3,
@@ -20776,13 +20776,13 @@
     "kastPercent": 58.6,
     "hsPercent": 24.5,
     "hexagon": {
-      "combate": 20.2,
-      "consistencia": 17.2,
-      "mira": 48.3,
+      "combate": 46.8,
+      "consistencia": 64.5,
+      "mira": 61.2,
       "agressividade": 23.3,
-      "dano": 35.5,
+      "dano": 62.1,
       "suporte": 44.8,
-      "overall": 31.6
+      "overall": 50.5
     },
     "firstKills": 3,
     "firstDeaths": 6,
@@ -20833,13 +20833,13 @@
     "kastPercent": 72.5,
     "hsPercent": 26.0,
     "hexagon": {
-      "combate": 39.0,
-      "consistencia": 45.0,
-      "mira": 53.3,
+      "combate": 59.4,
+      "consistencia": 79.8,
+      "mira": 65.0,
       "agressividade": 33.8,
-      "dano": 96.8,
+      "dano": 98.1,
       "suporte": 45.0,
-      "overall": 52.2
+      "overall": 63.5
     },
     "firstKills": 3,
     "firstDeaths": 2,
@@ -20891,13 +20891,13 @@
     "kastPercent": 65.7,
     "hsPercent": 20.0,
     "hexagon": {
-      "combate": 65.6,
-      "consistencia": 31.4,
-      "mira": 33.3,
+      "combate": 77.1,
+      "consistencia": 72.3,
+      "mira": 50.0,
       "agressividade": 51.4,
-      "dano": 90.3,
+      "dano": 94.3,
       "suporte": 17.1,
-      "overall": 48.2
+      "overall": 60.4
     },
     "firstKills": 4,
     "firstDeaths": 2,
@@ -20945,13 +20945,13 @@
     "kastPercent": 69.8,
     "hsPercent": 19.8,
     "hexagon": {
-      "combate": 30.9,
-      "consistencia": 39.6,
-      "mira": 32.6,
+      "combate": 53.9,
+      "consistencia": 76.8,
+      "mira": 49.5,
       "agressividade": 0.0,
-      "dano": 59.2,
+      "dano": 76.0,
       "suporte": 60.5,
-      "overall": 37.1
+      "overall": 52.8
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -21002,13 +21002,13 @@
     "kastPercent": 60.3,
     "hsPercent": 17.9,
     "hexagon": {
-      "combate": 14.7,
-      "consistencia": 20.6,
-      "mira": 26.3,
+      "combate": 43.1,
+      "consistencia": 66.3,
+      "mira": 44.8,
       "agressividade": 7.8,
-      "dano": 34.5,
+      "dano": 61.5,
       "suporte": 41.4,
-      "overall": 24.2
+      "overall": 44.1
     },
     "firstKills": 1,
     "firstDeaths": 6,
@@ -21061,13 +21061,13 @@
     "kastPercent": 57.6,
     "hsPercent": 47.8,
     "hexagon": {
-      "combate": 58.1,
-      "consistencia": 15.2,
+      "combate": 72.1,
+      "consistencia": 63.4,
       "mira": 100.0,
       "agressividade": 54.5,
-      "dano": 71.5,
+      "dano": 83.2,
       "suporte": 36.4,
-      "overall": 55.9
+      "overall": 68.3
     },
     "firstKills": 4,
     "firstDeaths": 2,
@@ -21121,13 +21121,13 @@
     "kastPercent": 51.5,
     "hsPercent": 19.5,
     "hexagon": {
-      "combate": 46.1,
-      "consistencia": 3.0,
-      "mira": 31.6,
+      "combate": 64.1,
+      "consistencia": 56.7,
+      "mira": 48.8,
       "agressividade": 40.9,
-      "dano": 48.5,
+      "dano": 69.7,
       "suporte": 18.2,
-      "overall": 31.4
+      "overall": 49.7
     },
     "firstKills": 3,
     "firstDeaths": 5,
@@ -21180,13 +21180,13 @@
     "kastPercent": 47.2,
     "hsPercent": 31.7,
     "hexagon": {
-      "combate": 13.0,
-      "consistencia": 0.0,
-      "mira": 72.3,
+      "combate": 42.0,
+      "consistencia": 51.9,
+      "mira": 79.2,
       "agressividade": 25.5,
-      "dano": 17.3,
+      "dano": 51.4,
       "suporte": 37.7,
-      "overall": 27.6
+      "overall": 48.0
     },
     "firstKills": 3,
     "firstDeaths": 6,
@@ -21238,13 +21238,13 @@
     "kastPercent": 63.6,
     "hsPercent": 15.9,
     "hexagon": {
-      "combate": 56.1,
-      "consistencia": 27.2,
-      "mira": 19.6,
+      "combate": 70.7,
+      "consistencia": 70.0,
+      "mira": 39.8,
       "agressividade": 68.2,
-      "dano": 55.3,
+      "dano": 73.7,
       "suporte": 18.2,
-      "overall": 40.8
+      "overall": 56.8
     },
     "firstKills": 5,
     "firstDeaths": 3,
@@ -21293,13 +21293,13 @@
     "kastPercent": 52.5,
     "hsPercent": 17.0,
     "hexagon": {
-      "combate": 43.4,
-      "consistencia": 5.0,
-      "mira": 23.3,
+      "combate": 62.3,
+      "consistencia": 57.8,
+      "mira": 42.5,
       "agressividade": 45.0,
-      "dano": 58.0,
+      "dano": 75.3,
       "suporte": 25.0,
-      "overall": 33.3
+      "overall": 51.3
     },
     "firstKills": 4,
     "firstDeaths": 3,
@@ -21351,13 +21351,13 @@
     "kastPercent": 57.6,
     "hsPercent": 26.2,
     "hexagon": {
-      "combate": 58.1,
-      "consistencia": 15.2,
-      "mira": 53.9,
+      "combate": 72.1,
+      "consistencia": 63.4,
+      "mira": 65.5,
       "agressividade": 40.9,
-      "dano": 74.5,
+      "dano": 85.0,
       "suporte": 24.2,
-      "overall": 44.5
+      "overall": 58.5
     },
     "firstKills": 3,
     "firstDeaths": 7,
@@ -21414,13 +21414,13 @@
     "kastPercent": 71.4,
     "hsPercent": 20.7,
     "hexagon": {
-      "combate": 16.1,
-      "consistencia": 42.8,
-      "mira": 35.6,
+      "combate": 44.1,
+      "consistencia": 78.5,
+      "mira": 51.8,
       "agressividade": 32.1,
-      "dano": 43.7,
+      "dano": 66.9,
       "suporte": 71.4,
-      "overall": 40.3
+      "overall": 57.5
     },
     "firstKills": 4,
     "firstDeaths": 6,
@@ -21473,13 +21473,13 @@
     "kastPercent": 61.8,
     "hsPercent": 29.7,
     "hexagon": {
-      "combate": 17.7,
-      "consistencia": 23.6,
-      "mira": 65.6,
+      "combate": 45.1,
+      "consistencia": 68.0,
+      "mira": 74.2,
       "agressividade": 24.5,
-      "dano": 24.9,
+      "dano": 55.8,
       "suporte": 65.5,
-      "overall": 37.0
+      "overall": 55.5
     },
     "firstKills": 3,
     "firstDeaths": 5,
@@ -21529,13 +21529,13 @@
     "kastPercent": 80.0,
     "hsPercent": 32.8,
     "hexagon": {
-      "combate": 50.5,
-      "consistencia": 60.0,
-      "mira": 75.9,
+      "combate": 67.0,
+      "consistencia": 88.0,
+      "mira": 82.0,
       "agressividade": 15.0,
-      "dano": 68.0,
+      "dano": 81.2,
       "suporte": 53.3,
-      "overall": 53.8
+      "overall": 64.4
     },
     "firstKills": 1,
     "firstDeaths": 2,
@@ -21584,13 +21584,13 @@
     "kastPercent": 52.5,
     "hsPercent": 23.5,
     "hexagon": {
-      "combate": 5.0,
-      "consistencia": 5.0,
-      "mira": 45.0,
+      "combate": 36.7,
+      "consistencia": 57.8,
+      "mira": 58.8,
       "agressividade": 7.6,
-      "dano": 4.1,
+      "dano": 43.6,
       "suporte": 64.4,
-      "overall": 21.9
+      "overall": 44.8
     },
     "firstKills": 1,
     "firstDeaths": 4,
@@ -21640,13 +21640,13 @@
     "kastPercent": 57.1,
     "hsPercent": 29.1,
     "hexagon": {
-      "combate": 89.9,
-      "consistencia": 14.2,
-      "mira": 63.6,
+      "combate": 93.3,
+      "consistencia": 62.8,
+      "mira": 72.8,
       "agressividade": 64.3,
       "dano": 100.0,
       "suporte": 47.6,
-      "overall": 63.3
+      "overall": 73.5
     },
     "firstKills": 3,
     "firstDeaths": 1,
@@ -21695,13 +21695,13 @@
     "kastPercent": 50.0,
     "hsPercent": 25.0,
     "hexagon": {
-      "combate": 19.0,
-      "consistencia": 0.0,
-      "mira": 50.0,
+      "combate": 46.0,
+      "consistencia": 55.0,
+      "mira": 62.5,
       "agressividade": 42.9,
-      "dano": 23.4,
+      "dano": 54.9,
       "suporte": 28.6,
-      "overall": 27.3
+      "overall": 48.3
     },
     "firstKills": 4,
     "firstDeaths": 8,
@@ -21749,13 +21749,13 @@
     "kastPercent": 60.0,
     "hsPercent": 26.9,
     "hexagon": {
-      "combate": 30.7,
-      "consistencia": 20.0,
-      "mira": 56.3,
+      "combate": 53.8,
+      "consistencia": 66.0,
+      "mira": 67.2,
       "agressividade": 56.2,
-      "dano": 39.1,
+      "dano": 64.2,
       "suporte": 40.0,
-      "overall": 40.4
+      "overall": 57.9
     },
     "firstKills": 5,
     "firstDeaths": 10,
@@ -21803,13 +21803,13 @@
     "kastPercent": 58.3,
     "hsPercent": 27.1,
     "hexagon": {
-      "combate": 36.2,
-      "consistencia": 16.6,
-      "mira": 56.9,
+      "combate": 57.5,
+      "consistencia": 64.1,
+      "mira": 67.8,
       "agressividade": 62.5,
-      "dano": 42.7,
+      "dano": 66.3,
       "suporte": 22.2,
-      "overall": 39.5
+      "overall": 56.7
     },
     "firstKills": 5,
     "firstDeaths": 6,
@@ -21857,13 +21857,13 @@
     "kastPercent": 64.9,
     "hsPercent": 46.7,
     "hexagon": {
-      "combate": 14.5,
-      "consistencia": 29.8,
+      "combate": 43.0,
+      "consistencia": 71.4,
       "mira": 100.0,
       "agressividade": 0.0,
-      "dano": 34.1,
+      "dano": 61.2,
       "suporte": 43.2,
-      "overall": 36.9
+      "overall": 53.1
     },
     "firstKills": 0,
     "firstDeaths": 1,
@@ -21914,13 +21914,13 @@
     "kastPercent": 71.2,
     "hsPercent": 19.2,
     "hexagon": {
-      "combate": 8.0,
-      "consistencia": 42.4,
-      "mira": 30.6,
+      "combate": 38.6,
+      "consistencia": 78.3,
+      "mira": 48.0,
       "agressividade": 26.0,
-      "dano": 13.8,
+      "dano": 49.3,
       "suporte": 84.6,
-      "overall": 34.2
+      "overall": 54.1
     },
     "firstKills": 3,
     "firstDeaths": 8,
@@ -21970,13 +21970,13 @@
     "kastPercent": 100.0,
     "hsPercent": 41.2,
     "hexagon": {
-      "combate": 74.7,
+      "combate": 83.1,
       "consistencia": 100.0,
       "mira": 100.0,
       "agressividade": 47.4,
       "dano": 100.0,
       "suporte": 100.0,
-      "overall": 87.0
+      "overall": 88.4
     },
     "firstKills": 2,
     "firstDeaths": 0,
@@ -22026,13 +22026,13 @@
     "kastPercent": 48.5,
     "hsPercent": 23.0,
     "hexagon": {
-      "combate": 25.2,
-      "consistencia": 0.0,
-      "mira": 43.3,
+      "combate": 50.2,
+      "consistencia": 53.4,
+      "mira": 57.5,
       "agressividade": 27.3,
-      "dano": 43.1,
+      "dano": 66.5,
       "suporte": 12.1,
-      "overall": 25.2
+      "overall": 44.5
     },
     "firstKills": 2,
     "firstDeaths": 3,
@@ -22081,13 +22081,13 @@
     "kastPercent": 60.6,
     "hsPercent": 24.0,
     "hexagon": {
-      "combate": 23.0,
-      "consistencia": 21.2,
-      "mira": 46.6,
+      "combate": 48.6,
+      "consistencia": 66.7,
+      "mira": 60.0,
       "agressividade": 13.6,
-      "dano": 24.4,
+      "dano": 55.5,
       "suporte": 30.3,
-      "overall": 26.5
+      "overall": 45.8
     },
     "firstKills": 1,
     "firstDeaths": 3,
@@ -22137,13 +22137,13 @@
     "kastPercent": 62.5,
     "hsPercent": 27.6,
     "hexagon": {
-      "combate": 28.0,
-      "consistencia": 25.0,
-      "mira": 58.6,
+      "combate": 52.0,
+      "consistencia": 68.8,
+      "mira": 69.0,
       "agressividade": 42.2,
-      "dano": 29.2,
+      "dano": 58.4,
       "suporte": 62.5,
-      "overall": 40.9
+      "overall": 58.8
     },
     "firstKills": 3,
     "firstDeaths": 5,
@@ -22190,13 +22190,13 @@
     "kastPercent": 43.5,
     "hsPercent": 12.5,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 8.3,
+      "combate": 30.8,
+      "consistencia": 47.9,
+      "mira": 31.2,
       "agressividade": 19.6,
-      "dano": 0.0,
+      "dano": 37.2,
       "suporte": 26.1,
-      "overall": 9.0
+      "overall": 32.1
     },
     "firstKills": 2,
     "firstDeaths": 14,
@@ -22250,13 +22250,13 @@
     "kastPercent": 43.8,
     "hsPercent": 19.1,
     "hexagon": {
-      "combate": 28.0,
-      "consistencia": 0.0,
-      "mira": 30.3,
+      "combate": 52.0,
+      "consistencia": 48.2,
+      "mira": 47.8,
       "agressividade": 28.1,
-      "dano": 37.3,
+      "dano": 63.1,
       "suporte": 31.2,
-      "overall": 25.8
+      "overall": 45.1
     },
     "firstKills": 2,
     "firstDeaths": 3,
@@ -22303,13 +22303,13 @@
     "kastPercent": 70.8,
     "hsPercent": 15.5,
     "hexagon": {
-      "combate": 47.5,
-      "consistencia": 41.6,
-      "mira": 18.3,
+      "combate": 65.0,
+      "consistencia": 77.9,
+      "mira": 38.8,
       "agressividade": 18.8,
-      "dano": 74.3,
+      "dano": 84.9,
       "suporte": 75.0,
-      "overall": 45.9
+      "overall": 60.1
     },
     "firstKills": 1,
     "firstDeaths": 1,
@@ -22359,13 +22359,13 @@
     "kastPercent": 52.5,
     "hsPercent": 19.0,
     "hexagon": {
-      "combate": 13.1,
-      "consistencia": 5.0,
-      "mira": 30.0,
+      "combate": 42.1,
+      "consistencia": 57.8,
+      "mira": 47.5,
       "agressividade": 22.5,
-      "dano": 47.2,
+      "dano": 68.9,
       "suporte": 60.0,
-      "overall": 29.6
+      "overall": 49.8
     },
     "firstKills": 2,
     "firstDeaths": 1,
@@ -22415,13 +22415,13 @@
     "kastPercent": 72.7,
     "hsPercent": 19.3,
     "hexagon": {
-      "combate": 44.5,
-      "consistencia": 45.4,
-      "mira": 31.0,
+      "combate": 63.0,
+      "consistencia": 80.0,
+      "mira": 48.2,
       "agressividade": 0.0,
-      "dano": 49.3,
+      "dano": 70.2,
       "suporte": 45.5,
-      "overall": 35.9
+      "overall": 51.1
     },
     "firstKills": 0,
     "firstDeaths": 1,
@@ -22470,13 +22470,13 @@
     "kastPercent": 58.8,
     "hsPercent": 17.9,
     "hexagon": {
-      "combate": 49.2,
-      "consistencia": 17.6,
-      "mira": 26.3,
+      "combate": 66.2,
+      "consistencia": 64.7,
+      "mira": 44.8,
       "agressividade": 26.5,
-      "dano": 38.5,
+      "dano": 63.8,
       "suporte": 0.0,
-      "overall": 26.4
+      "overall": 44.3
     },
     "firstKills": 1,
     "firstDeaths": 0,
@@ -22526,13 +22526,13 @@
     "kastPercent": 50.0,
     "hsPercent": 22.0,
     "hexagon": {
-      "combate": 25.4,
-      "consistencia": 0.0,
-      "mira": 40.0,
+      "combate": 50.3,
+      "consistencia": 55.0,
+      "mira": 55.0,
       "agressividade": 70.3,
-      "dano": 27.3,
+      "dano": 57.2,
       "suporte": 62.5,
-      "overall": 37.6
+      "overall": 58.4
     },
     "firstKills": 5,
     "firstDeaths": 3,
@@ -22581,13 +22581,13 @@
     "kastPercent": 62.5,
     "hsPercent": 40.0,
     "hexagon": {
-      "combate": 74.7,
-      "consistencia": 25.0,
-      "mira": 99.9,
+      "combate": 83.1,
+      "consistencia": 68.8,
+      "mira": 100.0,
       "agressividade": 0.0,
-      "dano": 99.6,
+      "dano": 99.8,
       "suporte": 12.5,
-      "overall": 52.0
+      "overall": 60.7
     },
     "firstKills": 0,
     "firstDeaths": 1,
@@ -22634,13 +22634,13 @@
     "kastPercent": 66.7,
     "hsPercent": 30.8,
     "hexagon": {
-      "combate": 17.4,
-      "consistencia": 33.4,
-      "mira": 69.3,
+      "combate": 44.9,
+      "consistencia": 73.4,
+      "mira": 77.0,
       "agressividade": 15.0,
-      "dano": 18.1,
+      "dano": 51.8,
       "suporte": 33.3,
-      "overall": 31.1
+      "overall": 49.2
     },
     "firstKills": 1,
     "firstDeaths": 1,
@@ -22687,13 +22687,13 @@
     "kastPercent": 39.3,
     "hsPercent": 11.8,
     "hexagon": {
-      "combate": 23.3,
-      "consistencia": 0.0,
-      "mira": 6.0,
+      "combate": 48.9,
+      "consistencia": 43.2,
+      "mira": 29.5,
       "agressividade": 48.2,
-      "dano": 22.5,
+      "dano": 54.4,
       "suporte": 21.4,
-      "overall": 20.2
+      "overall": 40.9
     },
     "firstKills": 3,
     "firstDeaths": 3,
@@ -22744,13 +22744,13 @@
     "kastPercent": 51.2,
     "hsPercent": 28.6,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 2.4,
-      "mira": 61.9,
+      "combate": 29.9,
+      "consistencia": 56.3,
+      "mira": 71.5,
       "agressividade": 20.9,
-      "dano": 0.0,
+      "dano": 37.8,
       "suporte": 51.2,
-      "overall": 22.7
+      "overall": 44.6
     },
     "firstKills": 2,
     "firstDeaths": 7,
@@ -22800,13 +22800,13 @@
     "kastPercent": 66.7,
     "hsPercent": 42.9,
     "hexagon": {
-      "combate": 35.0,
-      "consistencia": 33.4,
+      "combate": 56.6,
+      "consistencia": 73.4,
       "mira": 100.0,
       "agressividade": 42.9,
-      "dano": 92.4,
+      "dano": 95.5,
       "suporte": 47.6,
-      "overall": 58.6
+      "overall": 69.3
     },
     "firstKills": 2,
     "firstDeaths": 3,
@@ -22855,13 +22855,13 @@
     "kastPercent": 39.4,
     "hsPercent": 35.3,
     "hexagon": {
-      "combate": 2.6,
-      "consistencia": 0.0,
-      "mira": 84.2,
+      "combate": 35.1,
+      "consistencia": 43.3,
+      "mira": 88.2,
       "agressividade": 13.6,
-      "dano": 0.0,
+      "dano": 38.8,
       "suporte": 12.1,
-      "overall": 18.7
+      "overall": 38.5
     },
     "firstKills": 1,
     "firstDeaths": 5,
@@ -22910,13 +22910,13 @@
     "kastPercent": 70.6,
     "hsPercent": 18.0,
     "hexagon": {
-      "combate": 80.3,
-      "consistencia": 41.2,
-      "mira": 26.6,
+      "combate": 86.9,
+      "consistencia": 77.7,
+      "mira": 45.0,
       "agressividade": 52.9,
       "dano": 100.0,
       "suporte": 23.5,
-      "overall": 54.1
+      "overall": 64.3
     },
     "firstKills": 2,
     "firstDeaths": 4,
@@ -22965,13 +22965,13 @@
     "kastPercent": 57.1,
     "hsPercent": 21.7,
     "hexagon": {
-      "combate": 43.0,
-      "consistencia": 14.2,
-      "mira": 39.0,
+      "combate": 62.0,
+      "consistencia": 62.8,
+      "mira": 54.2,
       "agressividade": 42.9,
-      "dano": 48.6,
+      "dano": 69.8,
       "suporte": 66.7,
-      "overall": 42.4
+      "overall": 59.7
     },
     "firstKills": 2,
     "firstDeaths": 2,
@@ -23017,13 +23017,13 @@
     "kastPercent": 61.9,
     "hsPercent": 17.6,
     "hexagon": {
-      "combate": 46.5,
-      "consistencia": 23.8,
-      "mira": 25.3,
+      "combate": 64.3,
+      "consistencia": 68.1,
+      "mira": 44.0,
       "agressividade": 64.3,
-      "dano": 57.3,
+      "dano": 74.9,
       "suporte": 28.6,
-      "overall": 41.0
+      "overall": 57.4
     },
     "firstKills": 3,
     "firstDeaths": 2,
@@ -23072,13 +23072,13 @@
     "kastPercent": 58.0,
     "hsPercent": 15.3,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 16.0,
-      "mira": 17.6,
+      "combate": 28.4,
+      "consistencia": 63.8,
+      "mira": 38.2,
       "agressividade": 9.0,
-      "dano": 11.4,
+      "dano": 47.9,
       "suporte": 48.0,
-      "overall": 17.0
+      "overall": 39.2
     },
     "firstKills": 1,
     "firstDeaths": 7,
@@ -23128,13 +23128,13 @@
     "kastPercent": 61.9,
     "hsPercent": 26.1,
     "hexagon": {
-      "combate": 46.3,
-      "consistencia": 23.8,
-      "mira": 53.6,
+      "combate": 64.2,
+      "consistencia": 68.1,
+      "mira": 65.2,
       "agressividade": 64.3,
-      "dano": 67.7,
+      "dano": 81.0,
       "suporte": 38.1,
-      "overall": 49.0
+      "overall": 63.5
     },
     "firstKills": 3,
     "firstDeaths": 4,
@@ -23182,13 +23182,13 @@
     "kastPercent": 48.5,
     "hsPercent": 21.7,
     "hexagon": {
-      "combate": 9.4,
-      "consistencia": 0.0,
-      "mira": 39.0,
+      "combate": 39.6,
+      "consistencia": 53.4,
+      "mira": 54.2,
       "agressividade": 40.9,
-      "dano": 7.8,
+      "dano": 45.8,
       "suporte": 42.4,
-      "overall": 23.2
+      "overall": 46.0
     },
     "firstKills": 3,
     "firstDeaths": 6,
@@ -23240,13 +23240,13 @@
     "kastPercent": 33.3,
     "hsPercent": 20.5,
     "hexagon": {
-      "combate": 1.0,
-      "consistencia": 0.0,
-      "mira": 35.0,
+      "combate": 34.0,
+      "consistencia": 36.6,
+      "mira": 51.2,
       "agressividade": 13.6,
-      "dano": 0.0,
+      "dano": 39.1,
       "suporte": 12.1,
-      "overall": 10.3
+      "overall": 31.1
     },
     "firstKills": 1,
     "firstDeaths": 2,
@@ -23297,13 +23297,13 @@
     "kastPercent": 38.5,
     "hsPercent": 25.0,
     "hexagon": {
-      "combate": 6.0,
-      "consistencia": 0.0,
-      "mira": 50.0,
+      "combate": 37.3,
+      "consistencia": 42.4,
+      "mira": 62.5,
       "agressividade": 34.6,
-      "dano": 0.0,
+      "dano": 38.1,
       "suporte": 7.7,
-      "overall": 16.4
+      "overall": 37.1
     },
     "firstKills": 2,
     "firstDeaths": 9,
@@ -23351,13 +23351,13 @@
     "kastPercent": 64.7,
     "hsPercent": 22.2,
     "hexagon": {
-      "combate": 43.9,
-      "consistencia": 29.4,
-      "mira": 40.6,
+      "combate": 62.6,
+      "consistencia": 71.2,
+      "mira": 55.5,
       "agressividade": 100.0,
-      "dano": 39.7,
+      "dano": 64.5,
       "suporte": 35.3,
-      "overall": 48.2
+      "overall": 64.9
     },
     "firstKills": 5,
     "firstDeaths": 1,
@@ -23407,13 +23407,13 @@
     "kastPercent": 82.4,
     "hsPercent": 19.1,
     "hexagon": {
-      "combate": 45.8,
-      "consistencia": 64.8,
-      "mira": 30.3,
+      "combate": 63.9,
+      "consistencia": 90.6,
+      "mira": 47.8,
       "agressividade": 26.5,
-      "dano": 49.0,
+      "dano": 70.0,
       "suporte": 100.0,
-      "overall": 52.7
+      "overall": 66.5
     },
     "firstKills": 1,
     "firstDeaths": 1,
@@ -23464,13 +23464,13 @@
     "kastPercent": 76.2,
     "hsPercent": 32.3,
     "hexagon": {
-      "combate": 29.4,
-      "consistencia": 52.4,
-      "mira": 74.3,
+      "combate": 52.9,
+      "consistencia": 83.8,
+      "mira": 80.8,
       "agressividade": 42.9,
-      "dano": 34.4,
+      "dano": 61.4,
       "suporte": 76.2,
-      "overall": 51.6
+      "overall": 66.3
     },
     "firstKills": 2,
     "firstDeaths": 2,
@@ -23518,13 +23518,13 @@
     "kastPercent": 37.5,
     "hsPercent": 16.7,
     "hexagon": {
-      "combate": 1.7,
-      "consistencia": 0.0,
-      "mira": 22.3,
+      "combate": 34.5,
+      "consistencia": 41.2,
+      "mira": 41.8,
       "agressividade": 0.0,
-      "dano": 12.9,
+      "dano": 48.8,
       "suporte": 12.5,
-      "overall": 8.2
+      "overall": 29.8
     },
     "firstKills": 0,
     "firstDeaths": 5,
@@ -23574,13 +23574,13 @@
     "kastPercent": 40.0,
     "hsPercent": 25.0,
     "hexagon": {
-      "combate": 0.6,
-      "consistencia": 0.0,
-      "mira": 50.0,
+      "combate": 33.7,
+      "consistencia": 44.0,
+      "mira": 62.5,
       "agressividade": 25.7,
-      "dano": 34.6,
+      "dano": 61.5,
       "suporte": 17.1,
-      "overall": 21.3
+      "overall": 40.7
     },
     "firstKills": 2,
     "firstDeaths": 4,
@@ -23629,13 +23629,13 @@
     "kastPercent": 68.8,
     "hsPercent": 16.2,
     "hexagon": {
-      "combate": 61.9,
-      "consistencia": 37.6,
-      "mira": 20.6,
+      "combate": 74.6,
+      "consistencia": 75.7,
+      "mira": 40.5,
       "agressividade": 100.0,
-      "dano": 75.4,
+      "dano": 85.5,
       "suporte": 75.0,
-      "overall": 61.8
+      "overall": 75.2
     },
     "firstKills": 5,
     "firstDeaths": 2,
@@ -23685,13 +23685,13 @@
     "kastPercent": 57.1,
     "hsPercent": 15.2,
     "hexagon": {
-      "combate": 66.6,
-      "consistencia": 14.2,
-      "mira": 17.3,
+      "combate": 77.7,
+      "consistencia": 62.8,
+      "mira": 38.0,
       "agressividade": 32.1,
-      "dano": 74.9,
+      "dano": 85.2,
       "suporte": 14.3,
-      "overall": 36.6
+      "overall": 51.7
     },
     "firstKills": 1,
     "firstDeaths": 2,
@@ -23740,13 +23740,13 @@
     "kastPercent": 63.9,
     "hsPercent": 18.6,
     "hexagon": {
-      "combate": 2.0,
-      "consistencia": 27.8,
-      "mira": 28.6,
+      "combate": 34.6,
+      "consistencia": 70.3,
+      "mira": 46.5,
       "agressividade": 25.0,
-      "dano": 0.4,
+      "dano": 41.4,
       "suporte": 38.9,
-      "overall": 20.5
+      "overall": 42.8
     },
     "firstKills": 2,
     "firstDeaths": 1,
@@ -23798,13 +23798,13 @@
     "kastPercent": 34.4,
     "hsPercent": 22.2,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 40.6,
+      "combate": 29.7,
+      "consistencia": 37.8,
+      "mira": 55.5,
       "agressividade": 14.1,
-      "dano": 0.0,
+      "dano": 39.8,
       "suporte": 6.2,
-      "overall": 10.2
+      "overall": 30.5
     },
     "firstKills": 1,
     "firstDeaths": 3,
@@ -23851,13 +23851,13 @@
     "kastPercent": 61.9,
     "hsPercent": 28.6,
     "hexagon": {
-      "combate": 24.0,
-      "consistencia": 23.8,
-      "mira": 61.9,
+      "combate": 49.3,
+      "consistencia": 68.1,
+      "mira": 71.5,
       "agressividade": 85.7,
-      "dano": 17.4,
+      "dano": 51.4,
       "suporte": 38.1,
-      "overall": 41.8
+      "overall": 60.7
     },
     "firstKills": 4,
     "firstDeaths": 2,
@@ -23904,13 +23904,13 @@
     "kastPercent": 68.8,
     "hsPercent": 17.1,
     "hexagon": {
-      "combate": 45.2,
-      "consistencia": 37.6,
-      "mira": 23.6,
+      "combate": 63.4,
+      "consistencia": 75.7,
+      "mira": 42.8,
       "agressividade": 28.1,
-      "dano": 42.4,
+      "dano": 66.1,
       "suporte": 37.5,
-      "overall": 35.7
+      "overall": 52.3
     },
     "firstKills": 1,
     "firstDeaths": 0,
@@ -23957,13 +23957,13 @@
     "kastPercent": 50.0,
     "hsPercent": 22.6,
     "hexagon": {
-      "combate": 11.6,
-      "consistencia": 0.0,
-      "mira": 42.0,
+      "combate": 41.1,
+      "consistencia": 55.0,
+      "mira": 56.5,
       "agressividade": 0.0,
-      "dano": 27.3,
+      "dano": 57.2,
       "suporte": 33.3,
-      "overall": 19.0
+      "overall": 40.5
     },
     "firstKills": 0,
     "firstDeaths": 0,
@@ -24010,13 +24010,13 @@
     "kastPercent": 48.5,
     "hsPercent": 16.7,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 22.3,
+      "combate": 30.6,
+      "consistencia": 53.4,
+      "mira": 41.8,
       "agressividade": 13.6,
-      "dano": 0.8,
+      "dano": 41.6,
       "suporte": 30.3,
-      "overall": 11.2
+      "overall": 35.2
     },
     "firstKills": 1,
     "firstDeaths": 9,
@@ -24066,13 +24066,13 @@
     "kastPercent": 42.3,
     "hsPercent": 14.9,
     "hexagon": {
-      "combate": 12.8,
-      "consistencia": 0.0,
-      "mira": 16.3,
+      "combate": 41.9,
+      "consistencia": 46.5,
+      "mira": 37.2,
       "agressividade": 51.9,
-      "dano": 22.2,
+      "dano": 54.2,
       "suporte": 38.5,
-      "overall": 23.6
+      "overall": 45.0
     },
     "firstKills": 3,
     "firstDeaths": 4,
@@ -24120,13 +24120,13 @@
     "kastPercent": 52.4,
     "hsPercent": 31.2,
     "hexagon": {
-      "combate": 12.6,
-      "consistencia": 4.8,
-      "mira": 70.6,
+      "combate": 41.7,
+      "consistencia": 57.6,
+      "mira": 78.0,
       "agressividade": 64.3,
-      "dano": 10.6,
+      "dano": 47.4,
       "suporte": 28.6,
-      "overall": 31.9
+      "overall": 52.9
     },
     "firstKills": 3,
     "firstDeaths": 4,
@@ -24174,13 +24174,13 @@
     "kastPercent": 43.8,
     "hsPercent": 19.4,
     "hexagon": {
-      "combate": 29.0,
-      "consistencia": 0.0,
-      "mira": 31.3,
+      "combate": 52.6,
+      "consistencia": 48.2,
+      "mira": 48.5,
       "agressividade": 0.0,
-      "dano": 52.5,
+      "dano": 72.1,
       "suporte": 37.5,
-      "overall": 25.1
+      "overall": 43.1
     },
     "firstKills": 0,
     "firstDeaths": 1,
@@ -24226,13 +24226,13 @@
     "kastPercent": 40.7,
     "hsPercent": 13.6,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 12.0,
+      "combate": 32.2,
+      "consistencia": 44.8,
+      "mira": 34.0,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 35.8,
       "suporte": 22.2,
-      "overall": 5.7
+      "overall": 28.2
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -24281,13 +24281,13 @@
     "kastPercent": 50.0,
     "hsPercent": 31.6,
     "hexagon": {
-      "combate": 26.2,
-      "consistencia": 0.0,
-      "mira": 71.9,
+      "combate": 50.8,
+      "consistencia": 55.0,
+      "mira": 79.0,
       "agressividade": 0.0,
-      "dano": 39.7,
+      "dano": 64.5,
       "suporte": 0.0,
-      "overall": 23.0
+      "overall": 41.6
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -24334,13 +24334,13 @@
     "kastPercent": 38.5,
     "hsPercent": 14.3,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 14.3,
+      "combate": 31.3,
+      "consistencia": 42.4,
+      "mira": 35.8,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 38.6,
       "suporte": 30.8,
-      "overall": 7.5
+      "overall": 29.8
     },
     "firstKills": 0,
     "firstDeaths": 4,
@@ -24387,13 +24387,13 @@
     "kastPercent": 55.6,
     "hsPercent": 14.3,
     "hexagon": {
-      "combate": 9.2,
-      "consistencia": 11.2,
-      "mira": 14.3,
+      "combate": 39.5,
+      "consistencia": 61.2,
+      "mira": 35.8,
       "agressividade": 25.0,
-      "dano": 0.0,
+      "dano": 37.3,
       "suporte": 88.9,
-      "overall": 24.8
+      "overall": 48.0
     },
     "firstKills": 1,
     "firstDeaths": 1,
@@ -24441,13 +24441,13 @@
     "kastPercent": 26.9,
     "hsPercent": 22.9,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 43.0,
+      "combate": 30.4,
+      "consistencia": 29.6,
+      "mira": 57.2,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 37.9,
       "suporte": 15.4,
-      "overall": 9.7
+      "overall": 28.4
     },
     "firstKills": 0,
     "firstDeaths": 1,
@@ -24494,13 +24494,13 @@
     "kastPercent": 43.8,
     "hsPercent": 38.1,
     "hexagon": {
-      "combate": 16.0,
-      "consistencia": 0.0,
-      "mira": 93.6,
+      "combate": 44.0,
+      "consistencia": 48.2,
+      "mira": 95.2,
       "agressividade": 28.1,
-      "dano": 75.3,
+      "dano": 85.5,
       "suporte": 12.5,
-      "overall": 37.6
+      "overall": 52.2
     },
     "firstKills": 1,
     "firstDeaths": 1,
@@ -24548,13 +24548,13 @@
     "kastPercent": 43.8,
     "hsPercent": 12.2,
     "hexagon": {
-      "combate": 31.5,
-      "consistencia": 0.0,
-      "mira": 7.3,
+      "combate": 54.3,
+      "consistencia": 48.2,
+      "mira": 30.5,
       "agressividade": 84.4,
-      "dano": 43.8,
+      "dano": 66.9,
       "suporte": 50.0,
-      "overall": 36.2
+      "overall": 55.7
     },
     "firstKills": 3,
     "firstDeaths": 6,
@@ -24601,13 +24601,13 @@
     "kastPercent": 75.0,
     "hsPercent": 21.2,
     "hexagon": {
-      "combate": 25.0,
-      "consistencia": 50.0,
-      "mira": 37.3,
+      "combate": 50.0,
+      "consistencia": 82.5,
+      "mira": 53.0,
       "agressividade": 0.0,
-      "dano": 39.6,
+      "dano": 64.5,
       "suporte": 62.5,
-      "overall": 35.7
+      "overall": 52.1
     },
     "firstKills": 0,
     "firstDeaths": 4,
@@ -24656,13 +24656,13 @@
     "kastPercent": 33.3,
     "hsPercent": 12.0,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 6.7,
+      "combate": 22.2,
+      "consistencia": 36.6,
+      "mira": 30.0,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 25.4,
       "suporte": 42.4,
-      "overall": 8.2
+      "overall": 26.1
     },
     "firstKills": 0,
     "firstDeaths": 7,
@@ -24710,13 +24710,13 @@
     "kastPercent": 47.6,
     "hsPercent": 33.3,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 77.6,
+      "combate": 28.8,
+      "consistencia": 52.4,
+      "mira": 83.2,
       "agressividade": 21.4,
-      "dano": 1.9,
+      "dano": 42.3,
       "suporte": 57.1,
-      "overall": 26.3
+      "overall": 47.5
     },
     "firstKills": 1,
     "firstDeaths": 0,
@@ -24763,13 +24763,13 @@
     "kastPercent": 57.1,
     "hsPercent": 19.2,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 14.2,
-      "mira": 30.6,
+      "combate": 31.2,
+      "consistencia": 62.8,
+      "mira": 48.0,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 40.1,
       "suporte": 38.1,
-      "overall": 13.8
+      "overall": 36.7
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -24816,13 +24816,13 @@
     "kastPercent": 42.9,
     "hsPercent": 31.8,
     "hexagon": {
-      "combate": 36.8,
-      "consistencia": 0.0,
-      "mira": 72.6,
+      "combate": 57.9,
+      "consistencia": 47.2,
+      "mira": 79.5,
       "agressividade": 64.3,
-      "dano": 44.4,
+      "dano": 67.3,
       "suporte": 42.9,
-      "overall": 43.5
+      "overall": 59.8
     },
     "firstKills": 2,
     "firstDeaths": 2,
@@ -24870,13 +24870,13 @@
     "kastPercent": 36.4,
     "hsPercent": 26.3,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 54.3,
+      "combate": 17.1,
+      "consistencia": 40.0,
+      "mira": 65.8,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 20.7,
       "suporte": 30.3,
-      "overall": 14.1
+      "overall": 29.0
     },
     "firstKills": 0,
     "firstDeaths": 6,
@@ -24923,13 +24923,13 @@
     "kastPercent": 30.8,
     "hsPercent": 27.3,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 57.6,
+      "combate": 25.5,
+      "consistencia": 33.9,
+      "mira": 68.2,
       "agressividade": 17.3,
-      "dano": 0.0,
+      "dano": 35.0,
       "suporte": 23.1,
-      "overall": 16.3
+      "overall": 33.8
     },
     "firstKills": 1,
     "firstDeaths": 4,
@@ -24976,13 +24976,13 @@
     "kastPercent": 52.9,
     "hsPercent": 9.5,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 5.8,
-      "mira": 0.0,
+      "combate": 27.1,
+      "consistencia": 58.2,
+      "mira": 23.8,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 33.9,
       "suporte": 94.1,
-      "overall": 16.6
+      "overall": 39.5
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -25029,13 +25029,13 @@
     "kastPercent": 31.2,
     "hsPercent": 21.1,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 37.0,
+      "combate": 30.8,
+      "consistencia": 34.3,
+      "mira": 52.8,
       "agressividade": 28.1,
-      "dano": 0.0,
+      "dano": 33.5,
       "suporte": 0.0,
-      "overall": 10.8
+      "overall": 29.9
     },
     "firstKills": 1,
     "firstDeaths": 1,
@@ -25083,13 +25083,13 @@
     "kastPercent": 23.1,
     "hsPercent": 12.9,
     "hexagon": {
-      "combate": 33.4,
-      "consistencia": 0.0,
-      "mira": 9.7,
+      "combate": 55.6,
+      "consistencia": 25.4,
+      "mira": 32.2,
       "agressividade": 0.0,
-      "dano": 52.5,
+      "dano": 72.1,
       "suporte": 15.4,
-      "overall": 18.5
+      "overall": 33.5
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -25134,13 +25134,13 @@
     "kastPercent": 43.8,
     "hsPercent": 26.7,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 55.6,
+      "combate": 29.9,
+      "consistencia": 48.2,
+      "mira": 66.8,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 37.0,
       "suporte": 0.0,
-      "overall": 9.3
+      "overall": 30.3
     },
     "firstKills": 0,
     "firstDeaths": 3,
@@ -25186,13 +25186,13 @@
     "kastPercent": 42.9,
     "hsPercent": 7.9,
     "hexagon": {
-      "combate": 4.5,
-      "consistencia": 0.0,
-      "mira": 0.0,
+      "combate": 36.3,
+      "consistencia": 47.2,
+      "mira": 19.8,
       "agressividade": 32.1,
-      "dano": 7.7,
+      "dano": 45.7,
       "suporte": 42.9,
-      "overall": 14.5
+      "overall": 37.3
     },
     "firstKills": 1,
     "firstDeaths": 2,
@@ -25240,13 +25240,13 @@
     "kastPercent": 38.5,
     "hsPercent": 7.1,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 0.0,
+      "combate": 28.1,
+      "consistencia": 42.4,
+      "mira": 17.8,
       "agressividade": 34.6,
-      "dano": 0.0,
+      "dano": 26.0,
       "suporte": 0.0,
-      "overall": 5.8
+      "overall": 24.8
     },
     "firstKills": 1,
     "firstDeaths": 3,
@@ -25293,13 +25293,13 @@
     "kastPercent": 35.7,
     "hsPercent": 30.0,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 66.6,
+      "combate": 25.2,
+      "consistencia": 39.3,
+      "mira": 75.0,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 33.6,
       "suporte": 14.3,
-      "overall": 13.5
+      "overall": 31.2
     },
     "firstKills": 0,
     "firstDeaths": 2,
@@ -25345,13 +25345,13 @@
     "kastPercent": 43.8,
     "hsPercent": 0.0,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
+      "combate": 20.7,
+      "consistencia": 48.2,
       "mira": 0.0,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 30.4,
       "suporte": 37.5,
-      "overall": 6.2
+      "overall": 22.8
     },
     "firstKills": 0,
     "firstDeaths": 1,
@@ -25397,13 +25397,13 @@
     "kastPercent": 37.5,
     "hsPercent": 30.8,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
-      "mira": 69.3,
+      "combate": 20.6,
+      "consistencia": 41.2,
+      "mira": 77.0,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 31.2,
       "suporte": 25.0,
-      "overall": 15.7
+      "overall": 32.5
     },
     "firstKills": 0,
     "firstDeaths": 3,
@@ -25449,13 +25449,13 @@
     "kastPercent": 23.1,
     "hsPercent": 0.0,
     "hexagon": {
-      "combate": 0.0,
-      "consistencia": 0.0,
+      "combate": 13.6,
+      "consistencia": 25.4,
       "mira": 0.0,
       "agressividade": 0.0,
-      "dano": 0.0,
+      "dano": 17.4,
       "suporte": 15.4,
-      "overall": 2.6
+      "overall": 12.0
     },
     "firstKills": 0,
     "firstDeaths": 0,
