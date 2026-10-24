@@ -1,4 +1,4 @@
-# VCT ANALYTICS — Plataforma de Diagnóstico Tático & Coaching (VALORANT)
+# TEAMUP
 
 Plataforma de inteligência tática pós-partida desenvolvida para o Hackathon, construída exclusivamente a partir da mineração e engenharia de dados dos **336 arquivos JSON oficiais** do torneio (**68 equipes, 411 jogadores, 6.618 rounds e 46.753 abates**).
 
