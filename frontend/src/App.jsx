@@ -119,7 +119,7 @@ export default function App() {
         <div className="vlr-topbar-inner">
           <div className="vlr-brand">
             <span className="vlr-brand-bar" />
-            <strong>VCT ANALYTICS</strong>
+            <strong>TEAMUP</strong>
             <span className="vlr-brand-meta">
               {overview ? `${overview.totals.matches} jogos / ${overview.totals.teams} times` : ""}
             </span>
